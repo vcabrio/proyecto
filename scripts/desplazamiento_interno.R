@@ -89,8 +89,8 @@ idmc_raw <- read_excel(ruta_idmc, sheet = "1_Displacement_data")
 # Limpiar nombres de columnas 
 idmc_raw <- idmc_raw %>% clean_names()
 
-#mSeleccionar y renombrar variables relevantes -----------------------
-# Columnas clave según la estructura del archivo IDMC:
+# Seleccionar y renombrar variables relevantes -----------------------
+# Columnas clave según la estructura del IDMC:
 #   - name → nombre del país
 #   - iso3 → código ISO (útil para merge)
 #   - year → año
@@ -184,6 +184,8 @@ grafico_conflicto <- ggplot(
   ) +
   
   theme_minimal(base_size = 13)
+print(grafico_conflicto)
+
 
 ggsave(
   filename = file.path(
@@ -196,24 +198,72 @@ ggsave(
   dpi = 300
 )
 
-#######################################################################
-############## Porcentaje de desplazados por muertes #################
+# =============================================================================
+# CÓMO LEER EL SCATTER PLOT
+# =============================================================================
 
-procentaje_pais <- panel_final %>%
+# El gráfico muestra la relación entre:
+#   - la intensidad del conflicto armado
+#   - y el desplazamiento interno
+
+# Eje X:
+#   log_fatalidades
+# → representa las muertes por conflicto armado.
+# Más a la derecha = mayor intensidad del conflicto.
+
+# Eje Y:
+#   log_idp_nuevos
+# → representa nuevos desplazamientos internos.
+# Más arriba = más personas desplazadas.
+
+# Cada punto representa:
+#   un país en un año determinado (país-año).
+
+# La línea roja es una línea de tendencia lineal.
+# Resume la relación promedio entre ambas variables.
+
+# Interpretación:
+# Si la línea asciende y los puntos muestran una tendencia positiva,
+# significa que mayores niveles de conflicto se asocian con
+# mayores niveles de desplazamiento interno.
+
+# Se usan logaritmos para:
+#   - reducir la influencia de valores extremos,
+#   - mejorar la visualización,
+#   - y hacer comparables países con escalas muy distintas.
+
+# =============================================================================
+# TABLA POR PAÍS Y AÑO
+# =============================================================================
+
+tabla_anual <- panel_final %>%
   group_by(pais, anio) %>%
   summarise(
-    fatalidades_prom = round(
+    
+    # Fatalidades por conflicto
+    fatalidades = round(
       mean(fatalidades_best, na.rm = TRUE),
       0
     ),
     
-    desplazamientos_prom = round(
+    # Nuevos desplazamientos internos
+    desplazamientos = round(
       mean(idp_nuevos, na.rm = TRUE),
       0
     ),
     
     .groups = "drop"
-  ) %>% 
-  arrange(pais,anio)
+  ) %>%
+  arrange(pais, anio)
 
-print(procentaje_pais)
+# Ver tabla
+print(tabla_anual)
+
+
+
+
+
+
+
+
+
