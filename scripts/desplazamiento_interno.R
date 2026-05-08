@@ -257,6 +257,7 @@ tabla_anual <- panel_final %>%
   ) %>%
   arrange(pais, anio)
 
+# Print de tabla
 print(tabla_anual)
 
 
