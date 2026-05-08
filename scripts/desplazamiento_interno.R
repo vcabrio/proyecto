@@ -196,3 +196,24 @@ ggsave(
   dpi = 300
 )
 
+#######################################################################
+############## Porcentaje de desplazados por muertes #################
+
+procentaje_pais <- panel_final %>%
+  group_by(pais, anio) %>%
+  summarise(
+    fatalidades_prom = round(
+      mean(fatalidades_best, na.rm = TRUE),
+      0
+    ),
+    
+    desplazamientos_prom = round(
+      mean(idp_nuevos, na.rm = TRUE),
+      0
+    ),
+    
+    .groups = "drop"
+  ) %>% 
+  arrange(pais,anio)
+
+print(procentaje_pais)
