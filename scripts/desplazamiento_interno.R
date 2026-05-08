@@ -80,8 +80,7 @@ ucdp_panel <- ucdp_panel %>%
 print(ucdp_panel)
 
 
-# =============================================================================
-# =============================================================================
+
 ############ BASE Variable Dependiente: Desplazamiento interno ###############
 
 idmc_raw <- read_excel(ruta_idmc, sheet = "1_Displacement_data")
