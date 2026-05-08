@@ -1,0 +1,3473 @@
+año,pais_asilo,origen,asilo_id,origen_id,refugiados
+2010,Argentina,Colombia,ARG,COL,403
+2010,Australia,Colombia,AUS,COL,148
+2010,Austria,Colombia,AUT,COL,22
+2010,Belgium,Colombia,BEL,COL,33
+2010,Bolivia (Plurinational State of),Colombia,BOL,COL,127
+2010,Brazil,Colombia,BRA,COL,602
+2010,Canada,Colombia,CAN,COL,16054
+2010,Chile,Colombia,CHL,COL,884
+2010,Costa Rica,Colombia,CRI,COL,10214
+2010,Cuba,Colombia,CUB,COL,5
+2010,Denmark,Colombia,DNK,COL,7
+2010,Ecuador,Colombia,ECU,COL,120403
+2010,Finland,Colombia,FIN,COL,13
+2010,France,Colombia,FRA,COL,436
+2010,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,650
+2010,Germany,Colombia,DEU,COL,253
+2010,Guatemala,Colombia,GTM,COL,5
+2010,Iceland,Colombia,ISL,COL,6
+2010,Italy,Colombia,ITA,COL,426
+2010,Mexico,Colombia,MEX,COL,233
+2010,Netherlands (Kingdom of the),Colombia,NLD,COL,307
+2010,Nicaragua,Colombia,NIC,COL,6
+2010,Norway,Colombia,NOR,COL,29
+2010,New Zealand,Colombia,NZL,COL,36
+2010,Panama,Colombia,PAN,COL,15432
+2010,Paraguay,Colombia,PRY,COL,31
+2010,Peru,Colombia,PER,COL,307
+2010,Portugal,Colombia,PRT,COL,63
+2010,El Salvador,Colombia,SLV,COL,5
+2010,Spain,Colombia,ESP,COL,782
+2010,Sweden,Colombia,SWE,COL,186
+2010,Switzerland,Colombia,CHE,COL,310
+2010,Trinidad and Tobago,Colombia,TTO,COL,5
+2010,Uruguay,Colombia,URY,COL,82
+2010,United States of America,Colombia,USA,COL,25607
+2010,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,201467
+2011,Argentina,Colombia,ARG,COL,456
+2011,Australia,Colombia,AUS,COL,133
+2011,Austria,Colombia,AUT,COL,20
+2011,Belgium,Colombia,BEL,COL,39
+2011,Bolivia (Plurinational State of),Colombia,BOL,COL,148
+2011,Brazil,Colombia,BRA,COL,654
+2011,Canada,Colombia,CAN,COL,17243
+2011,Chile,Colombia,CHL,COL,924
+2011,Costa Rica,Colombia,CRI,COL,10297
+2011,Cuba,Colombia,CUB,COL,5
+2011,Ecuador,Colombia,ECU,COL,122587
+2011,Finland,Colombia,FIN,COL,11
+2011,France,Colombia,FRA,COL,455
+2011,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,564
+2011,Germany,Colombia,DEU,COL,242
+2011,Guatemala,Colombia,GTM,COL,5
+2011,Honduras,Colombia,HND,COL,5
+2011,Italy,Colombia,ITA,COL,387
+2011,Mexico,Colombia,MEX,COL,252
+2011,Netherlands (Kingdom of the),Colombia,NLD,COL,300
+2011,Nicaragua,Colombia,NIC,COL,8
+2011,Norway,Colombia,NOR,COL,32
+2011,New Zealand,Colombia,NZL,COL,32
+2011,Panama,Colombia,PAN,COL,15598
+2011,Paraguay,Colombia,PRY,COL,40
+2011,Peru,Colombia,PER,COL,308
+2011,Portugal,Colombia,PRT,COL,71
+2011,El Salvador,Colombia,SLV,COL,5
+2011,Spain,Colombia,ESP,COL,664
+2011,Sweden,Colombia,SWE,COL,105
+2011,Switzerland,Colombia,CHE,COL,324
+2011,Trinidad and Tobago,Colombia,TTO,COL,5
+2011,Uruguay,Colombia,URY,COL,86
+2011,United States of America,Colombia,USA,COL,22004
+2011,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,201941
+2012,Argentina,Colombia,ARG,COL,497
+2012,Australia,Colombia,AUS,COL,118
+2012,Austria,Colombia,AUT,COL,19
+2012,Belgium,Colombia,BEL,COL,39
+2012,Bolivia (Plurinational State of),Colombia,BOL,COL,168
+2012,Brazil,Colombia,BRA,COL,742
+2012,Canada,Colombia,CAN,COL,17563
+2012,Chile,Colombia,CHL,COL,942
+2012,Costa Rica,Colombia,CRI,COL,10305
+2012,Curacao,Colombia,CUW,COL,6
+2012,Ecuador,Colombia,ECU,COL,122964
+2012,France,Colombia,FRA,COL,476
+2012,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,341
+2012,Germany,Colombia,DEU,COL,241
+2012,Guatemala,Colombia,GTM,COL,7
+2012,Honduras,Colombia,HND,COL,5
+2012,Italy,Colombia,ITA,COL,373
+2012,Mexico,Colombia,MEX,COL,247
+2012,Netherlands (Kingdom of the),Colombia,NLD,COL,295
+2012,Nicaragua,Colombia,NIC,COL,8
+2012,Norway,Colombia,NOR,COL,27
+2012,New Zealand,Colombia,NZL,COL,17
+2012,Panama,Colombia,PAN,COL,15723
+2012,Paraguay,Colombia,PRY,COL,40
+2012,Peru,Colombia,PER,COL,413
+2012,Portugal,Colombia,PRT,COL,76
+2012,El Salvador,Colombia,SLV,COL,5
+2012,Spain,Colombia,ESP,COL,637
+2012,Sweden,Colombia,SWE,COL,60
+2012,Switzerland,Colombia,CHE,COL,327
+2012,Trinidad and Tobago,Colombia,TTO,COL,8
+2012,Uruguay,Colombia,URY,COL,94
+2012,United States of America,Colombia,USA,COL,17766
+2012,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,203563
+2013,Argentina,Colombia,ARG,COL,526
+2013,Australia,Colombia,AUS,COL,124
+2013,Austria,Colombia,AUT,COL,19
+2013,Belgium,Colombia,BEL,COL,28
+2013,Bolivia (Plurinational State of),Colombia,BOL,COL,178
+2013,Brazil,Colombia,BRA,COL,1147
+2013,Canada,Colombia,CAN,COL,17381
+2013,Chile,Colombia,CHL,COL,977
+2013,Costa Rica,Colombia,CRI,COL,16586
+2013,Curacao,Colombia,CUW,COL,6
+2013,Ecuador,Colombia,ECU,COL,122359
+2013,France,Colombia,FRA,COL,480
+2013,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,162
+2013,Germany,Colombia,DEU,COL,70
+2013,Guatemala,Colombia,GTM,COL,6
+2013,Honduras,Colombia,HND,COL,5
+2013,Italy,Colombia,ITA,COL,407
+2013,Mexico,Colombia,MEX,COL,255
+2013,Netherlands (Kingdom of the),Colombia,NLD,COL,281
+2013,Nicaragua,Colombia,NIC,COL,9
+2013,Norway,Colombia,NOR,COL,24
+2013,New Zealand,Colombia,NZL,COL,14
+2013,Panama,Colombia,PAN,COL,15957
+2013,Paraguay,Colombia,PRY,COL,40
+2013,Peru,Colombia,PER,COL,436
+2013,Portugal,Colombia,PRT,COL,77
+2013,El Salvador,Colombia,SLV,COL,5
+2013,Spain,Colombia,ESP,COL,497
+2013,Sweden,Colombia,SWE,COL,55
+2013,Switzerland,Colombia,CHE,COL,308
+2013,Trinidad and Tobago,Colombia,TTO,COL,5
+2013,Uruguay,Colombia,URY,COL,115
+2013,United States of America,Colombia,USA,COL,13913
+2013,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,204259
+2014,Argentina,Colombia,ARG,COL,551
+2014,Australia,Colombia,AUS,COL,135
+2014,Austria,Colombia,AUT,COL,19
+2014,Belgium,Colombia,BEL,COL,28
+2014,Bolivia (Plurinational State of),Colombia,BOL,COL,184
+2014,Brazil,Colombia,BRA,COL,1200
+2014,Canada,Colombia,CAN,COL,16428
+2014,Chile,Colombia,CHL,COL,996
+2014,Costa Rica,Colombia,CRI,COL,16623
+2014,Curacao,Colombia,CUW,COL,27
+2014,Ecuador,Colombia,ECU,COL,121317
+2014,France,Colombia,FRA,COL,470
+2014,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,105
+2014,Germany,Colombia,DEU,COL,63
+2014,Guatemala,Colombia,GTM,COL,6
+2014,Honduras,Colombia,HND,COL,5
+2014,Italy,Colombia,ITA,COL,475
+2014,Mexico,Colombia,MEX,COL,255
+2014,Netherlands (Kingdom of the),Colombia,NLD,COL,273
+2014,Nicaragua,Colombia,NIC,COL,10
+2014,Norway,Colombia,NOR,COL,16
+2014,New Zealand,Colombia,NZL,COL,10
+2014,Panama,Colombia,PAN,COL,15551
+2014,Paraguay,Colombia,PRY,COL,39
+2014,Peru,Colombia,PER,COL,507
+2014,Portugal,Colombia,PRT,COL,77
+2014,El Salvador,Colombia,SLV,COL,5
+2014,Spain,Colombia,ESP,COL,364
+2014,Sweden,Colombia,SWE,COL,41
+2014,Switzerland,Colombia,CHE,COL,302
+2014,Trinidad and Tobago,Colombia,TTO,COL,8
+2014,Uruguay,Colombia,URY,COL,130
+2014,United States of America,Colombia,USA,COL,10552
+2014,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,173519
+2015,Argentina,Colombia,ARG,COL,541
+2015,Australia,Colombia,AUS,COL,132
+2015,Austria,Colombia,AUT,COL,11
+2015,Belgium,Colombia,BEL,COL,36
+2015,Bolivia (Plurinational State of),Colombia,BOL,COL,193
+2015,Brazil,Colombia,BRA,COL,1280
+2015,Canada,Colombia,CAN,COL,13666
+2015,Chile,Colombia,CHL,COL,1054
+2015,Costa Rica,Colombia,CRI,COL,2247
+2015,Curacao,Colombia,CUW,COL,34
+2015,Ecuador,Colombia,ECU,COL,120685
+2015,France,Colombia,FRA,COL,475
+2015,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,60
+2015,Germany,Colombia,DEU,COL,61
+2015,Guatemala,Colombia,GTM,COL,6
+2015,Italy,Colombia,ITA,COL,506
+2015,Mexico,Colombia,MEX,COL,264
+2015,Netherlands (Kingdom of the),Colombia,NLD,COL,135
+2015,Nicaragua,Colombia,NIC,COL,6
+2015,Norway,Colombia,NOR,COL,11
+2015,New Zealand,Colombia,NZL,COL,21
+2015,Panama,Colombia,PAN,COL,15593
+2015,Paraguay,Colombia,PRY,COL,34
+2015,Peru,Colombia,PER,COL,559
+2015,Portugal,Colombia,PRT,COL,88
+2015,El Salvador,Colombia,SLV,COL,5
+2015,Spain,Colombia,ESP,COL,240
+2015,Sweden,Colombia,SWE,COL,31
+2015,Switzerland,Colombia,CHE,COL,274
+2015,Trinidad and Tobago,Colombia,TTO,COL,12
+2015,Uruguay,Colombia,URY,COL,140
+2015,United States of America,Colombia,USA,COL,8043
+2015,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,173673
+2016,Argentina,Colombia,ARG,COL,542
+2016,Australia,Colombia,AUS,COL,125
+2016,Belgium,Colombia,BEL,COL,33
+2016,Bolivia (Plurinational State of),Colombia,BOL,COL,195
+2016,Brazil,Colombia,BRA,COL,1288
+2016,Canada,Colombia,CAN,COL,8228
+2016,Chile,Colombia,CHL,COL,1062
+2016,Costa Rica,Colombia,CRI,COL,2335
+2016,Curacao,Colombia,CUW,COL,35
+2016,Ecuador,Colombia,ECU,COL,101161
+2016,France,Colombia,FRA,COL,472
+2016,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,54
+2016,Germany,Colombia,DEU,COL,65
+2016,Guatemala,Colombia,GTM,COL,6
+2016,Italy,Colombia,ITA,COL,368
+2016,Mexico,Colombia,MEX,COL,276
+2016,Netherlands (Kingdom of the),Colombia,NLD,COL,69
+2016,Nicaragua,Colombia,NIC,COL,6
+2016,Norway,Colombia,NOR,COL,15
+2016,New Zealand,Colombia,NZL,COL,24
+2016,Panama,Colombia,PAN,COL,15614
+2016,Paraguay,Colombia,PRY,COL,35
+2016,Peru,Colombia,PER,COL,591
+2016,Portugal,Colombia,PRT,COL,90
+2016,El Salvador,Colombia,SLV,COL,5
+2016,Spain,Colombia,ESP,COL,197
+2016,Sweden,Colombia,SWE,COL,31
+2016,Switzerland,Colombia,CHE,COL,266
+2016,Trinidad and Tobago,Colombia,TTO,COL,13
+2016,Uruguay,Colombia,URY,COL,135
+2016,United States of America,Colombia,USA,COL,5803
+2016,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,171920
+2017,Argentina,Colombia,ARG,COL,544
+2017,Australia,Colombia,AUS,COL,116
+2017,Belgium,Colombia,BEL,COL,33
+2017,Bolivia (Plurinational State of),Colombia,BOL,COL,213
+2017,Brazil,Colombia,BRA,COL,1291
+2017,Canada,Colombia,CAN,COL,8049
+2017,Chile,Colombia,CHL,COL,1117
+2017,Costa Rica,Colombia,CRI,COL,2340
+2017,Curacao,Colombia,CUW,COL,45
+2017,Denmark,Colombia,DNK,COL,5
+2017,Ecuador,Colombia,ECU,COL,46616
+2017,France,Colombia,FRA,COL,488
+2017,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,40
+2017,Germany,Colombia,DEU,COL,67
+2017,Guatemala,Colombia,GTM,COL,8
+2017,Italy,Colombia,ITA,COL,353
+2017,Mexico,Colombia,MEX,COL,284
+2017,Netherlands (Kingdom of the),Colombia,NLD,COL,45
+2017,Nicaragua,Colombia,NIC,COL,6
+2017,Norway,Colombia,NOR,COL,17
+2017,New Zealand,Colombia,NZL,COL,24
+2017,Panama,Colombia,PAN,COL,1660
+2017,Paraguay,Colombia,PRY,COL,35
+2017,Peru,Colombia,PER,COL,604
+2017,Portugal,Colombia,PRT,COL,71
+2017,El Salvador,Colombia,SLV,COL,5
+2017,Spain,Colombia,ESP,COL,179
+2017,Sweden,Colombia,SWE,COL,30
+2017,Switzerland,Colombia,CHE,COL,254
+2017,Trinidad and Tobago,Colombia,TTO,COL,14
+2017,Uruguay,Colombia,URY,COL,141
+2017,United States of America,Colombia,USA,COL,4264
+2017,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,122677
+2018,Argentina,Colombia,ARG,COL,547
+2018,Australia,Colombia,AUS,COL,110
+2018,Belgium,Colombia,BEL,COL,33
+2018,Bahamas,Colombia,BHS,COL,5
+2018,Bolivia (Plurinational State of),Colombia,BOL,COL,213
+2018,Brazil,Colombia,BRA,COL,1297
+2018,Canada,Colombia,CAN,COL,7356
+2018,Chile,Colombia,CHL,COL,1218
+2018,Costa Rica,Colombia,CRI,COL,2258
+2018,Curacao,Colombia,CUW,COL,53
+2018,Denmark,Colombia,DNK,COL,5
+2018,Ecuador,Colombia,ECU,COL,50532
+2018,France,Colombia,FRA,COL,527
+2018,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,31
+2018,Germany,Colombia,DEU,COL,66
+2018,Guatemala,Colombia,GTM,COL,8
+2018,Italy,Colombia,ITA,COL,450
+2018,Mexico,Colombia,MEX,COL,311
+2018,Netherlands (Kingdom of the),Colombia,NLD,COL,29
+2018,Nicaragua,Colombia,NIC,COL,6
+2018,Norway,Colombia,NOR,COL,10
+2018,New Zealand,Colombia,NZL,COL,26
+2018,Panama,Colombia,PAN,COL,1691
+2018,Paraguay,Colombia,PRY,COL,35
+2018,Peru,Colombia,PER,COL,623
+2018,Portugal,Colombia,PRT,COL,58
+2018,El Salvador,Colombia,SLV,COL,5
+2018,Spain,Colombia,ESP,COL,208
+2018,Sweden,Colombia,SWE,COL,32
+2018,Switzerland,Colombia,CHE,COL,228
+2018,Trinidad and Tobago,Colombia,TTO,COL,15
+2018,Uruguay,Colombia,URY,COL,149
+2018,United States of America,Colombia,USA,COL,3292
+2018,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,67156
+2019,Argentina,Colombia,ARG,COL,558
+2019,Australia,Colombia,AUS,COL,102
+2019,Belgium,Colombia,BEL,COL,73
+2019,Bahamas,Colombia,BHS,COL,5
+2019,Bolivia (Plurinational State of),Colombia,BOL,COL,201
+2019,Brazil,Colombia,BRA,COL,1295
+2019,Canada,Colombia,CAN,COL,4982
+2019,Chile,Colombia,CHL,COL,1227
+2019,Costa Rica,Colombia,CRI,COL,2325
+2019,Curacao,Colombia,CUW,COL,28
+2019,Denmark,Colombia,DNK,COL,5
+2019,Ecuador,Colombia,ECU,COL,102928
+2019,France,Colombia,FRA,COL,587
+2019,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,24
+2019,Germany,Colombia,DEU,COL,69
+2019,Guatemala,Colombia,GTM,COL,8
+2019,Italy,Colombia,ITA,COL,690
+2019,Mexico,Colombia,MEX,COL,351
+2019,Netherlands (Kingdom of the),Colombia,NLD,COL,19
+2019,Nicaragua,Colombia,NIC,COL,6
+2019,Norway,Colombia,NOR,COL,12
+2019,New Zealand,Colombia,NZL,COL,30
+2019,Panama,Colombia,PAN,COL,1702
+2019,Paraguay,Colombia,PRY,COL,17
+2019,Peru,Colombia,PER,COL,705
+2019,Portugal,Colombia,PRT,COL,45
+2019,El Salvador,Colombia,SLV,COL,5
+2019,Spain,Colombia,ESP,COL,242
+2019,Sweden,Colombia,SWE,COL,39
+2019,Switzerland,Colombia,CHE,COL,246
+2019,Trinidad and Tobago,Colombia,TTO,COL,12
+2019,Uruguay,Colombia,URY,COL,158
+2019,United States of America,Colombia,USA,COL,2936
+2019,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,67622
+2020,Argentina,Colombia,ARG,COL,560
+2020,Australia,Colombia,AUS,COL,103
+2020,Belgium,Colombia,BEL,COL,105
+2020,Bahamas,Colombia,BHS,COL,5
+2020,Bolivia (Plurinational State of),Colombia,BOL,COL,202
+2020,Brazil,Colombia,BRA,COL,1297
+2020,Canada,Colombia,CAN,COL,4577
+2020,Chile,Colombia,CHL,COL,1231
+2020,Costa Rica,Colombia,CRI,COL,2322
+2020,Curacao,Colombia,CUW,COL,44
+2020,Denmark,Colombia,DNK,COL,5
+2020,Ecuador,Colombia,ECU,COL,102931
+2020,France,Colombia,FRA,COL,644
+2020,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,23
+2020,Germany,Colombia,DEU,COL,69
+2020,Guatemala,Colombia,GTM,COL,10
+2020,Italy,Colombia,ITA,COL,664
+2020,Mexico,Colombia,MEX,COL,448
+2020,Netherlands (Kingdom of the),Colombia,NLD,COL,43
+2020,Nicaragua,Colombia,NIC,COL,6
+2020,Norway,Colombia,NOR,COL,12
+2020,New Zealand,Colombia,NZL,COL,29
+2020,Panama,Colombia,PAN,COL,1698
+2020,Paraguay,Colombia,PRY,COL,17
+2020,Peru,Colombia,PER,COL,706
+2020,Portugal,Colombia,PRT,COL,33
+2020,El Salvador,Colombia,SLV,COL,5
+2020,Spain,Colombia,ESP,COL,985
+2020,Sweden,Colombia,SWE,COL,40
+2020,Switzerland,Colombia,CHE,COL,275
+2020,Trinidad and Tobago,Colombia,TTO,COL,12
+2020,Uruguay,Colombia,URY,COL,162
+2020,United States of America,Colombia,USA,COL,2668
+2020,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,67935
+2021,Argentina,Colombia,ARG,COL,561
+2021,Australia,Colombia,AUS,COL,87
+2021,Austria,Colombia,AUT,COL,5
+2021,Belgium,Colombia,BEL,COL,135
+2021,Bolivia (Plurinational State of),Colombia,BOL,COL,200
+2021,Brazil,Colombia,BRA,COL,1300
+2021,Canada,Colombia,CAN,COL,5835
+2021,Chile,Colombia,CHL,COL,1234
+2021,Costa Rica,Colombia,CRI,COL,2317
+2021,Denmark,Colombia,DNK,COL,5
+2021,Ecuador,Colombia,ECU,COL,54491
+2021,France,Colombia,FRA,COL,1036
+2021,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,15
+2021,Germany,Colombia,DEU,COL,79
+2021,Guatemala,Colombia,GTM,COL,10
+2021,Italy,Colombia,ITA,COL,950
+2021,Mexico,Colombia,MEX,COL,530
+2021,Netherlands (Kingdom of the),Colombia,NLD,COL,118
+2021,Nicaragua,Colombia,NIC,COL,6
+2021,Norway,Colombia,NOR,COL,8
+2021,New Zealand,Colombia,NZL,COL,32
+2021,Panama,Colombia,PAN,COL,1683
+2021,Paraguay,Colombia,PRY,COL,17
+2021,Peru,Colombia,PER,COL,712
+2021,Portugal,Colombia,PRT,COL,24
+2021,El Salvador,Colombia,SLV,COL,18
+2021,Spain,Colombia,ESP,COL,2158
+2021,Sweden,Colombia,SWE,COL,40
+2021,Switzerland,Colombia,CHE,COL,288
+2021,Trinidad and Tobago,Colombia,TTO,COL,11
+2021,Uruguay,Colombia,URY,COL,162
+2021,United States of America,Colombia,USA,COL,2557
+2021,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,39168
+2023,Argentina,Colombia,ARG,COL,564
+2023,Australia,Colombia,AUS,COL,39
+2023,Austria,Colombia,AUT,COL,8
+2023,Belgium,Colombia,BEL,COL,182
+2023,Bolivia (Plurinational State of),Colombia,BOL,COL,200
+2023,Brazil,Colombia,BRA,COL,270
+2023,Canada,Colombia,CAN,COL,7002
+2023,Chile,Colombia,CHL,COL,1235
+2023,Costa Rica,Colombia,CRI,COL,2292
+2023,Czechia,Colombia,CZE,COL,5
+2023,Denmark,Colombia,DNK,COL,5
+2023,Ecuador,Colombia,ECU,COL,59358
+2023,Finland,Colombia,FIN,COL,8
+2023,France,Colombia,FRA,COL,1821
+2023,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,27
+2023,Germany,Colombia,DEU,COL,199
+2023,Guatemala,Colombia,GTM,COL,10
+2023,Honduras,Colombia,HND,COL,5
+2023,Iceland,Colombia,ISL,COL,7
+2023,Ireland,Colombia,IRL,COL,5
+2023,Italy,Colombia,ITA,COL,1218
+2023,Mexico,Colombia,MEX,COL,556
+2023,Netherlands (Kingdom of the),Colombia,NLD,COL,370
+2023,Nicaragua,Colombia,NIC,COL,6
+2023,Norway,Colombia,NOR,COL,105
+2023,New Zealand,Colombia,NZL,COL,36
+2023,Panama,Colombia,PAN,COL,1686
+2023,Paraguay,Colombia,PRY,COL,21
+2023,Peru,Colombia,PER,COL,748
+2023,Poland,Colombia,POL,COL,5
+2023,Portugal,Colombia,PRT,COL,17
+2023,El Salvador,Colombia,SLV,COL,16
+2023,Spain,Colombia,ESP,COL,3475
+2023,Sweden,Colombia,SWE,COL,43
+2023,Switzerland,Colombia,CHE,COL,335
+2023,Sint Maarten (Dutch part),Colombia,SXM,COL,5
+2023,Trinidad and Tobago,Colombia,TTO,COL,7
+2023,Uruguay,Colombia,URY,COL,174
+2023,United States of America,Colombia,USA,COL,4272
+2023,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,29176
+2022,Argentina,Colombia,ARG,COL,562
+2022,Australia,Colombia,AUS,COL,85
+2022,Austria,Colombia,AUT,COL,5
+2022,Belgium,Colombia,BEL,COL,160
+2022,Bolivia (Plurinational State of),Colombia,BOL,COL,200
+2022,Brazil,Colombia,BRA,COL,1318
+2022,Canada,Colombia,CAN,COL,4351
+2022,Chile,Colombia,CHL,COL,1235
+2022,Costa Rica,Colombia,CRI,COL,2304
+2022,Czechia,Colombia,CZE,COL,5
+2022,Denmark,Colombia,DNK,COL,5
+2022,Ecuador,Colombia,ECU,COL,57160
+2022,Finland,Colombia,FIN,COL,6
+2022,France,Colombia,FRA,COL,1427
+2022,United Kingdom of Great Britain and Northern Ireland,Colombia,GBR,COL,15
+2022,Germany,Colombia,DEU,COL,132
+2022,Guatemala,Colombia,GTM,COL,10
+2022,Honduras,Colombia,HND,COL,5
+2022,Italy,Colombia,ITA,COL,1094
+2022,Mexico,Colombia,MEX,COL,616
+2022,Netherlands (Kingdom of the),Colombia,NLD,COL,290
+2022,Nicaragua,Colombia,NIC,COL,6
+2022,Norway,Colombia,NOR,COL,49
+2022,New Zealand,Colombia,NZL,COL,33
+2022,Panama,Colombia,PAN,COL,1654
+2022,Paraguay,Colombia,PRY,COL,18
+2022,Peru,Colombia,PER,COL,734
+2022,Poland,Colombia,POL,COL,5
+2022,Portugal,Colombia,PRT,COL,21
+2022,El Salvador,Colombia,SLV,COL,16
+2022,Spain,Colombia,ESP,COL,2785
+2022,Sweden,Colombia,SWE,COL,40
+2022,Switzerland,Colombia,CHE,COL,323
+2022,Trinidad and Tobago,Colombia,TTO,COL,8
+2022,Uruguay,Colombia,URY,COL,170
+2022,United States of America,Colombia,USA,COL,2984
+2022,Venezuela (Bolivarian Republic of),Colombia,VEN,COL,29181
+2010,Argentina,Nigeria,ARG,NGA,51
+2010,Australia,Nigeria,AUS,NGA,101
+2010,Austria,Nigeria,AUT,NGA,228
+2010,Belgium,Nigeria,BEL,NGA,37
+2010,Benin,Nigeria,BEN,NGA,63
+2010,Brazil,Nigeria,BRA,NGA,29
+2010,Bulgaria,Nigeria,BGR,NGA,10
+2010,Canada,Nigeria,CAN,NGA,3171
+2010,Central African Rep.,Nigeria,CAF,NGA,5
+2010,Cameroon,Nigeria,CMR,NGA,2873
+2010,Costa Rica,Nigeria,CRI,NGA,8
+2010,Cyprus,Nigeria,CYP,NGA,5
+2010,Denmark,Nigeria,DNK,NGA,13
+2010,Ecuador,Nigeria,ECU,NGA,21
+2010,Finland,Nigeria,FIN,NGA,75
+2010,France,Nigeria,FRA,NGA,726
+2010,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,1044
+2010,Germany,Nigeria,DEU,NGA,2601
+2010,Guinea-Bissau,Nigeria,GNB,NGA,5
+2010,Greece,Nigeria,GRC,NGA,40
+2010,Guinea,Nigeria,GIN,NGA,5
+2010,Hungary,Nigeria,HUN,NGA,91
+2010,Cote d'Ivoire,Nigeria,CIV,NGA,14
+2010,Ireland,Nigeria,IRL,NGA,777
+2010,Italy,Nigeria,ITA,NGA,2200
+2010,Rep. of Korea,Nigeria,KOR,NGA,5
+2010,Lithuania,Nigeria,LTU,NGA,5
+2010,Mexico,Nigeria,MEX,NGA,12
+2010,Mali,Nigeria,MLI,NGA,76
+2010,Morocco,Nigeria,MAR,NGA,5
+2010,Malta,Nigeria,MLT,NGA,5
+2010,Netherlands (Kingdom of the),Nigeria,NLD,NGA,203
+2010,Norway,Nigeria,NOR,NGA,65
+2010,New Zealand,Nigeria,NZL,NGA,5
+2010,Panama,Nigeria,PAN,NGA,10
+2010,Poland,Nigeria,POL,NGA,11
+2010,Portugal,Nigeria,PRT,NGA,6
+2010,Romania,Nigeria,ROU,NGA,5
+2010,South Africa,Nigeria,ZAF,NGA,34
+2010,Senegal,Nigeria,SEN,NGA,7
+2010,Spain,Nigeria,ESP,NGA,31
+2010,Slovenia,Nigeria,SVN,NGA,5
+2010,Sweden,Nigeria,SWE,NGA,124
+2010,Switzerland,Nigeria,CHE,NGA,66
+2010,Togo,Nigeria,TGO,NGA,18
+2010,Türkiye,Nigeria,TUR,NGA,5
+2010,Ukraine,Nigeria,UKR,NGA,5
+2010,Uruguay,Nigeria,URY,NGA,15
+2010,United States of America,Nigeria,USA,NGA,719
+2010,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,5
+2010,Zambia,Nigeria,ZMB,NGA,5
+2011,Argentina,Nigeria,ARG,NGA,50
+2011,Australia,Nigeria,AUS,NGA,106
+2011,Austria,Nigeria,AUT,NGA,288
+2011,Belgium,Nigeria,BEL,NGA,17
+2011,Benin,Nigeria,BEN,NGA,67
+2011,Brazil,Nigeria,BRA,NGA,33
+2011,Bulgaria,Nigeria,BGR,NGA,10
+2011,Canada,Nigeria,CAN,NGA,3608
+2011,Chile,Nigeria,CHL,NGA,5
+2011,Cameroon,Nigeria,CMR,NGA,3223
+2011,Congo,Nigeria,COG,NGA,5
+2011,Costa Rica,Nigeria,CRI,NGA,15
+2011,Cyprus,Nigeria,CYP,NGA,5
+2011,Denmark,Nigeria,DNK,NGA,13
+2011,Ecuador,Nigeria,ECU,NGA,23
+2011,Finland,Nigeria,FIN,NGA,91
+2011,France,Nigeria,FRA,NGA,794
+2011,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,1089
+2011,Germany,Nigeria,DEU,NGA,2667
+2011,Greece,Nigeria,GRC,NGA,39
+2011,Guinea,Nigeria,GIN,NGA,5
+2011,Hungary,Nigeria,HUN,NGA,86
+2011,Cote d'Ivoire,Nigeria,CIV,NGA,10
+2011,Ireland,Nigeria,IRL,NGA,706
+2011,Italy,Nigeria,ITA,NGA,2369
+2011,Kenya,Nigeria,KEN,NGA,5
+2011,Rep. of Korea,Nigeria,KOR,NGA,5
+2011,Libya,Nigeria,LBY,NGA,300
+2011,Lithuania,Nigeria,LTU,NGA,5
+2011,Mexico,Nigeria,MEX,NGA,29
+2011,Mali,Nigeria,MLI,NGA,76
+2011,Morocco,Nigeria,MAR,NGA,6
+2011,Malta,Nigeria,MLT,NGA,7
+2011,Netherlands (Kingdom of the),Nigeria,NLD,NGA,216
+2011,Norway,Nigeria,NOR,NGA,93
+2011,New Zealand,Nigeria,NZL,NGA,5
+2011,Panama,Nigeria,PAN,NGA,10
+2011,Poland,Nigeria,POL,NGA,15
+2011,Portugal,Nigeria,PRT,NGA,6
+2011,Romania,Nigeria,ROU,NGA,5
+2011,South Africa,Nigeria,ZAF,NGA,34
+2011,Senegal,Nigeria,SEN,NGA,7
+2011,Spain,Nigeria,ESP,NGA,29
+2011,Sweden,Nigeria,SWE,NGA,147
+2011,Switzerland,Nigeria,CHE,NGA,83
+2011,Togo,Nigeria,TGO,NGA,18
+2011,Türkiye,Nigeria,TUR,NGA,5
+2011,Ukraine,Nigeria,UKR,NGA,5
+2011,Uruguay,Nigeria,URY,NGA,14
+2011,United States of America,Nigeria,USA,NGA,686
+2011,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,5
+2012,Argentina,Nigeria,ARG,NGA,52
+2012,Australia,Nigeria,AUS,NGA,116
+2012,Austria,Nigeria,AUT,NGA,315
+2012,Belgium,Nigeria,BEL,NGA,19
+2012,Benin,Nigeria,BEN,NGA,43
+2012,Brazil,Nigeria,BRA,NGA,37
+2012,Bulgaria,Nigeria,BGR,NGA,10
+2012,Canada,Nigeria,CAN,NGA,3990
+2012,Chile,Nigeria,CHL,NGA,5
+2012,Cameroon,Nigeria,CMR,NGA,3223
+2012,Congo,Nigeria,COG,NGA,5
+2012,Costa Rica,Nigeria,CRI,NGA,18
+2012,Cyprus,Nigeria,CYP,NGA,5
+2012,Czechia,Nigeria,CZE,NGA,18
+2012,Denmark,Nigeria,DNK,NGA,13
+2012,Ecuador,Nigeria,ECU,NGA,25
+2012,Finland,Nigeria,FIN,NGA,95
+2012,France,Nigeria,FRA,NGA,889
+2012,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,1166
+2012,Germany,Nigeria,DEU,NGA,2833
+2012,Greece,Nigeria,GRC,NGA,49
+2012,Guinea,Nigeria,GIN,NGA,5
+2012,Hungary,Nigeria,HUN,NGA,60
+2012,Cote d'Ivoire,Nigeria,CIV,NGA,18
+2012,Ireland,Nigeria,IRL,NGA,540
+2012,Italy,Nigeria,ITA,NGA,2964
+2012,Rep. of Korea,Nigeria,KOR,NGA,6
+2012,Lithuania,Nigeria,LTU,NGA,5
+2012,Mexico,Nigeria,MEX,NGA,5
+2012,Morocco,Nigeria,MAR,NGA,5
+2012,Malta,Nigeria,MLT,NGA,11
+2012,Netherlands (Kingdom of the),Nigeria,NLD,NGA,213
+2012,Norway,Nigeria,NOR,NGA,109
+2012,Panama,Nigeria,PAN,NGA,10
+2012,Peru,Nigeria,PER,NGA,5
+2012,Poland,Nigeria,POL,NGA,17
+2012,Portugal,Nigeria,PRT,NGA,11
+2012,Romania,Nigeria,ROU,NGA,6
+2012,South Africa,Nigeria,ZAF,NGA,34
+2012,Senegal,Nigeria,SEN,NGA,7
+2012,Spain,Nigeria,ESP,NGA,24
+2012,Sweden,Nigeria,SWE,NGA,178
+2012,Switzerland,Nigeria,CHE,NGA,92
+2012,Togo,Nigeria,TGO,NGA,19
+2012,Türkiye,Nigeria,TUR,NGA,5
+2012,Ukraine,Nigeria,UKR,NGA,5
+2012,Uruguay,Nigeria,URY,NGA,13
+2012,United States of America,Nigeria,USA,NGA,719
+2012,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,5
+2013,Argentina,Nigeria,ARG,NGA,50
+2013,Australia,Nigeria,AUS,NGA,132
+2013,Austria,Nigeria,AUT,NGA,346
+2013,Belgium,Nigeria,BEL,NGA,23
+2013,Brazil,Nigeria,BRA,NGA,55
+2013,Bulgaria,Nigeria,BGR,NGA,8
+2013,Canada,Nigeria,CAN,NGA,4441
+2013,Chad,Nigeria,TCD,NGA,553
+2013,Chile,Nigeria,CHL,NGA,5
+2013,Cameroon,Nigeria,CMR,NGA,7459
+2013,Congo,Nigeria,COG,NGA,5
+2013,Costa Rica,Nigeria,CRI,NGA,28
+2013,Cyprus,Nigeria,CYP,NGA,5
+2013,Czechia,Nigeria,CZE,NGA,13
+2013,Denmark,Nigeria,DNK,NGA,14
+2013,Ecuador,Nigeria,ECU,NGA,25
+2013,Ethiopia,Nigeria,ETH,NGA,5
+2013,Finland,Nigeria,FIN,NGA,115
+2013,France,Nigeria,FRA,NGA,988
+2013,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,1244
+2013,Germany,Nigeria,DEU,NGA,720
+2013,Ghana,Nigeria,GHA,NGA,5
+2013,Greece,Nigeria,GRC,NGA,103
+2013,Guinea,Nigeria,GIN,NGA,5
+2013,Hungary,Nigeria,HUN,NGA,24
+2013,Cote d'Ivoire,Nigeria,CIV,NGA,19
+2013,Ireland,Nigeria,IRL,NGA,477
+2013,Israel,Nigeria,ISR,NGA,5
+2013,Italy,Nigeria,ITA,NGA,4192
+2013,Rep. of Korea,Nigeria,KOR,NGA,7
+2013,Lithuania,Nigeria,LTU,NGA,5
+2013,Luxembourg,Nigeria,LUX,NGA,5
+2013,Mexico,Nigeria,MEX,NGA,18
+2013,Morocco,Nigeria,MAR,NGA,5
+2013,Malta,Nigeria,MLT,NGA,21
+2013,Netherlands (Kingdom of the),Nigeria,NLD,NGA,225
+2013,Niger,Nigeria,NER,NGA,8385
+2013,Norway,Nigeria,NOR,NGA,176
+2013,Panama,Nigeria,PAN,NGA,10
+2013,Peru,Nigeria,PER,NGA,9
+2013,Poland,Nigeria,POL,NGA,18
+2013,Portugal,Nigeria,PRT,NGA,18
+2013,Romania,Nigeria,ROU,NGA,7
+2013,South Africa,Nigeria,ZAF,NGA,34
+2013,Senegal,Nigeria,SEN,NGA,7
+2013,Spain,Nigeria,ESP,NGA,22
+2013,Sweden,Nigeria,SWE,NGA,257
+2013,Switzerland,Nigeria,CHE,NGA,113
+2013,Togo,Nigeria,TGO,NGA,8
+2013,Türkiye,Nigeria,TUR,NGA,5
+2013,Ukraine,Nigeria,UKR,NGA,5
+2013,Uruguay,Nigeria,URY,NGA,11
+2013,United States of America,Nigeria,USA,NGA,733
+2013,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,5
+2014,Egypt,Nigeria,EGY,NGA,5
+2014,Argentina,Nigeria,ARG,NGA,55
+2014,Australia,Nigeria,AUS,NGA,144
+2014,Austria,Nigeria,AUT,NGA,370
+2014,Belgium,Nigeria,BEL,NGA,28
+2014,Brazil,Nigeria,BRA,NGA,89
+2014,Canada,Nigeria,CAN,NGA,4683
+2014,Chad,Nigeria,TCD,NGA,2930
+2014,Chile,Nigeria,CHL,NGA,5
+2014,Cameroon,Nigeria,CMR,NGA,39968
+2014,Congo,Nigeria,COG,NGA,5
+2014,Costa Rica,Nigeria,CRI,NGA,28
+2014,Cyprus,Nigeria,CYP,NGA,8
+2014,Czechia,Nigeria,CZE,NGA,10
+2014,Denmark,Nigeria,DNK,NGA,14
+2014,Ecuador,Nigeria,ECU,NGA,25
+2014,Ethiopia,Nigeria,ETH,NGA,5
+2014,Finland,Nigeria,FIN,NGA,168
+2014,France,Nigeria,FRA,NGA,1102
+2014,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,1471
+2014,Germany,Nigeria,DEU,NGA,867
+2014,Ghana,Nigeria,GHA,NGA,9
+2014,Greece,Nigeria,GRC,NGA,185
+2014,Guinea,Nigeria,GIN,NGA,5
+2014,Croatia,Nigeria,HRV,NGA,5
+2014,Hungary,Nigeria,HUN,NGA,27
+2014,Cote d'Ivoire,Nigeria,CIV,NGA,19
+2014,Ireland,Nigeria,IRL,NGA,426
+2014,Israel,Nigeria,ISR,NGA,5
+2014,Italy,Nigeria,ITA,NGA,6293
+2014,Kenya,Nigeria,KEN,NGA,5
+2014,Rep. of Korea,Nigeria,KOR,NGA,8
+2014,Lithuania,Nigeria,LTU,NGA,5
+2014,Luxembourg,Nigeria,LUX,NGA,5
+2014,Mexico,Nigeria,MEX,NGA,18
+2014,Malaysia,Nigeria,MYS,NGA,5
+2014,Morocco,Nigeria,MAR,NGA,9
+2014,Malta,Nigeria,MLT,NGA,36
+2014,Netherlands (Kingdom of the),Nigeria,NLD,NGA,265
+2014,Niger,Nigeria,NER,NGA,30000
+2014,Norway,Nigeria,NOR,NGA,181
+2014,Panama,Nigeria,PAN,NGA,10
+2014,Peru,Nigeria,PER,NGA,12
+2014,Poland,Nigeria,POL,NGA,11
+2014,Portugal,Nigeria,PRT,NGA,22
+2014,Romania,Nigeria,ROU,NGA,5
+2014,South Africa,Nigeria,ZAF,NGA,17
+2014,Senegal,Nigeria,SEN,NGA,7
+2014,Spain,Nigeria,ESP,NGA,15
+2014,Sweden,Nigeria,SWE,NGA,365
+2014,Switzerland,Nigeria,CHE,NGA,142
+2014,Togo,Nigeria,TGO,NGA,8
+2014,Türkiye,Nigeria,TUR,NGA,6
+2014,Ukraine,Nigeria,UKR,NGA,5
+2014,Uruguay,Nigeria,URY,NGA,10
+2014,United States of America,Nigeria,USA,NGA,805
+2014,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,5
+2015,Egypt,Nigeria,EGY,NGA,5
+2015,Argentina,Nigeria,ARG,NGA,44
+2015,Australia,Nigeria,AUS,NGA,148
+2015,Austria,Nigeria,AUT,NGA,393
+2015,Belgium,Nigeria,BEL,NGA,37
+2015,Brazil,Nigeria,BRA,NGA,100
+2015,Canada,Nigeria,CAN,NGA,4502
+2015,Chad,Nigeria,TCD,NGA,5689
+2015,Chile,Nigeria,CHL,NGA,5
+2015,Cameroon,Nigeria,CMR,NGA,71840
+2015,Congo,Nigeria,COG,NGA,5
+2015,Costa Rica,Nigeria,CRI,NGA,20
+2015,Cyprus,Nigeria,CYP,NGA,8
+2015,Czechia,Nigeria,CZE,NGA,13
+2015,Denmark,Nigeria,DNK,NGA,14
+2015,Ecuador,Nigeria,ECU,NGA,25
+2015,Finland,Nigeria,FIN,NGA,165
+2015,France,Nigeria,FRA,NGA,1250
+2015,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,1679
+2015,Germany,Nigeria,DEU,NGA,981
+2015,Ghana,Nigeria,GHA,NGA,9
+2015,Greece,Nigeria,GRC,NGA,231
+2015,Guinea,Nigeria,GIN,NGA,8
+2015,Croatia,Nigeria,HRV,NGA,10
+2015,Hungary,Nigeria,HUN,NGA,39
+2015,Cote d'Ivoire,Nigeria,CIV,NGA,19
+2015,Ireland,Nigeria,IRL,NGA,438
+2015,Israel,Nigeria,ISR,NGA,5
+2015,Italy,Nigeria,ITA,NGA,9931
+2015,Rep. of Korea,Nigeria,KOR,NGA,8
+2015,Lithuania,Nigeria,LTU,NGA,5
+2015,Luxembourg,Nigeria,LUX,NGA,6
+2015,Mauritania,Nigeria,MRT,NGA,13
+2015,Mexico,Nigeria,MEX,NGA,22
+2015,Malaysia,Nigeria,MYS,NGA,5
+2015,Morocco,Nigeria,MAR,NGA,8
+2015,Malta,Nigeria,MLT,NGA,47
+2015,Netherlands (Kingdom of the),Nigeria,NLD,NGA,299
+2015,Niger,Nigeria,NER,NGA,68321
+2015,Panama,Nigeria,PAN,NGA,10
+2015,Peru,Nigeria,PER,NGA,15
+2015,Poland,Nigeria,POL,NGA,9
+2015,Portugal,Nigeria,PRT,NGA,25
+2015,Romania,Nigeria,ROU,NGA,6
+2015,South Africa,Nigeria,ZAF,NGA,9
+2015,Russian Federation,Nigeria,RUS,NGA,5
+2015,Senegal,Nigeria,SEN,NGA,7
+2015,Spain,Nigeria,ESP,NGA,13
+2015,Sweden,Nigeria,SWE,NGA,398
+2015,Switzerland,Nigeria,CHE,NGA,179
+2015,Togo,Nigeria,TGO,NGA,8
+2015,Trinidad and Tobago,Nigeria,TTO,NGA,5
+2015,Türkiye,Nigeria,TUR,NGA,8
+2015,Ukraine,Nigeria,UKR,NGA,5
+2015,Uruguay,Nigeria,URY,NGA,11
+2015,United States of America,Nigeria,USA,NGA,908
+2015,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,5
+2016,Egypt,Nigeria,EGY,NGA,9
+2016,Argentina,Nigeria,ARG,NGA,41
+2016,Australia,Nigeria,AUS,NGA,178
+2016,Austria,Nigeria,AUT,NGA,402
+2016,Belgium,Nigeria,BEL,NGA,43
+2016,Brazil,Nigeria,BRA,NGA,114
+2016,Canada,Nigeria,CAN,NGA,4068
+2016,Chad,Nigeria,TCD,NGA,7777
+2016,Cameroon,Nigeria,CMR,NGA,88706
+2016,Congo,Nigeria,COG,NGA,6
+2016,Costa Rica,Nigeria,CRI,NGA,19
+2016,Cyprus,Nigeria,CYP,NGA,9
+2016,Czechia,Nigeria,CZE,NGA,13
+2016,Denmark,Nigeria,DNK,NGA,13
+2016,Finland,Nigeria,FIN,NGA,166
+2016,France,Nigeria,FRA,NGA,1653
+2016,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,2003
+2016,Germany,Nigeria,DEU,NGA,1121
+2016,Ghana,Nigeria,GHA,NGA,11
+2016,Greece,Nigeria,GRC,NGA,237
+2016,Guinea,Nigeria,GIN,NGA,7
+2016,Croatia,Nigeria,HRV,NGA,10
+2016,Hungary,Nigeria,HUN,NGA,52
+2016,Iceland,Nigeria,ISL,NGA,5
+2016,Cote d'Ivoire,Nigeria,CIV,NGA,5
+2016,Ireland,Nigeria,IRL,NGA,423
+2016,Israel,Nigeria,ISR,NGA,5
+2016,Italy,Nigeria,ITA,NGA,14247
+2016,Kenya,Nigeria,KEN,NGA,5
+2016,Rep. of Korea,Nigeria,KOR,NGA,8
+2016,Lithuania,Nigeria,LTU,NGA,5
+2016,Luxembourg,Nigeria,LUX,NGA,10
+2016,Mauritania,Nigeria,MRT,NGA,16
+2016,Mexico,Nigeria,MEX,NGA,25
+2016,Malaysia,Nigeria,MYS,NGA,5
+2016,Morocco,Nigeria,MAR,NGA,8
+2016,Malta,Nigeria,MLT,NGA,82
+2016,Netherlands (Kingdom of the),Nigeria,NLD,NGA,296
+2016,Niger,Nigeria,NER,NGA,105501
+2016,Norway,Nigeria,NOR,NGA,183
+2016,Panama,Nigeria,PAN,NGA,10
+2016,Peru,Nigeria,PER,NGA,16
+2016,Poland,Nigeria,POL,NGA,9
+2016,Portugal,Nigeria,PRT,NGA,27
+2016,Romania,Nigeria,ROU,NGA,6
+2016,South Africa,Nigeria,ZAF,NGA,6
+2016,Russian Federation,Nigeria,RUS,NGA,5
+2016,Senegal,Nigeria,SEN,NGA,7
+2016,Spain,Nigeria,ESP,NGA,34
+2016,Sweden,Nigeria,SWE,NGA,483
+2016,Switzerland,Nigeria,CHE,NGA,175
+2016,Togo,Nigeria,TGO,NGA,7
+2016,Türkiye,Nigeria,TUR,NGA,10
+2016,Ukraine,Nigeria,UKR,NGA,5
+2016,Uruguay,Nigeria,URY,NGA,13
+2016,United States of America,Nigeria,USA,NGA,983
+2016,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,7
+2017,Egypt,Nigeria,EGY,NGA,17
+2017,Argentina,Nigeria,ARG,NGA,42
+2017,Australia,Nigeria,AUS,NGA,187
+2017,Austria,Nigeria,AUT,NGA,407
+2017,Belgium,Nigeria,BEL,NGA,43
+2017,Brazil,Nigeria,BRA,NGA,119
+2017,Canada,Nigeria,CAN,NGA,4800
+2017,Chad,Nigeria,TCD,NGA,9541
+2017,Cameroon,Nigeria,CMR,NGA,85319
+2017,Congo,Nigeria,COG,NGA,6
+2017,Costa Rica,Nigeria,CRI,NGA,19
+2017,Cyprus,Nigeria,CYP,NGA,9
+2017,Czechia,Nigeria,CZE,NGA,13
+2017,Denmark,Nigeria,DNK,NGA,12
+2017,Ecuador,Nigeria,ECU,NGA,23
+2017,Finland,Nigeria,FIN,NGA,161
+2017,France,Nigeria,FRA,NGA,2101
+2017,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,2205
+2017,Germany,Nigeria,DEU,NGA,3971
+2017,Ghana,Nigeria,GHA,NGA,9
+2017,Guinea-Bissau,Nigeria,GNB,NGA,5
+2017,Greece,Nigeria,GRC,NGA,265
+2017,Guinea,Nigeria,GIN,NGA,7
+2017,Croatia,Nigeria,HRV,NGA,10
+2017,Hungary,Nigeria,HUN,NGA,54
+2017,Iceland,Nigeria,ISL,NGA,6
+2017,Cote d'Ivoire,Nigeria,CIV,NGA,5
+2017,Ireland,Nigeria,IRL,NGA,421
+2017,Israel,Nigeria,ISR,NGA,5
+2017,Italy,Nigeria,ITA,NGA,18026
+2017,Kenya,Nigeria,KEN,NGA,5
+2017,Rep. of Korea,Nigeria,KOR,NGA,10
+2017,Lithuania,Nigeria,LTU,NGA,5
+2017,Luxembourg,Nigeria,LUX,NGA,10
+2017,Mauritania,Nigeria,MRT,NGA,17
+2017,Mexico,Nigeria,MEX,NGA,25
+2017,Malaysia,Nigeria,MYS,NGA,5
+2017,Morocco,Nigeria,MAR,NGA,9
+2017,Malta,Nigeria,MLT,NGA,107
+2017,Netherlands (Kingdom of the),Nigeria,NLD,NGA,303
+2017,Niger,Nigeria,NER,NGA,108470
+2017,Norway,Nigeria,NOR,NGA,178
+2017,Panama,Nigeria,PAN,NGA,10
+2017,Peru,Nigeria,PER,NGA,16
+2017,Philippines,Nigeria,PHL,NGA,5
+2017,Poland,Nigeria,POL,NGA,10
+2017,Portugal,Nigeria,PRT,NGA,27
+2017,Romania,Nigeria,ROU,NGA,5
+2017,Russian Federation,Nigeria,RUS,NGA,5
+2017,Senegal,Nigeria,SEN,NGA,7
+2017,Spain,Nigeria,ESP,NGA,47
+2017,Sweden,Nigeria,SWE,NGA,510
+2017,Switzerland,Nigeria,CHE,NGA,185
+2017,Togo,Nigeria,TGO,NGA,8
+2017,Türkiye,Nigeria,TUR,NGA,11
+2017,Ukraine,Nigeria,UKR,NGA,5
+2017,Uruguay,Nigeria,URY,NGA,13
+2017,United States of America,Nigeria,USA,NGA,1154
+2017,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,7
+2018,Egypt,Nigeria,EGY,NGA,18
+2018,Argentina,Nigeria,ARG,NGA,41
+2018,Armenia,Nigeria,ARM,NGA,5
+2018,Australia,Nigeria,AUS,NGA,201
+2018,Austria,Nigeria,AUT,NGA,422
+2018,Belgium,Nigeria,BEL,NGA,43
+2018,Brazil,Nigeria,BRA,NGA,133
+2018,Canada,Nigeria,CAN,NGA,5483
+2018,Chad,Nigeria,TCD,NGA,11310
+2018,Cameroon,Nigeria,CMR,NGA,102287
+2018,Congo,Nigeria,COG,NGA,5
+2018,Costa Rica,Nigeria,CRI,NGA,19
+2018,Cyprus,Nigeria,CYP,NGA,12
+2018,Czechia,Nigeria,CZE,NGA,8
+2018,Denmark,Nigeria,DNK,NGA,12
+2018,Ecuador,Nigeria,ECU,NGA,26
+2018,Finland,Nigeria,FIN,NGA,160
+2018,France,Nigeria,FRA,NGA,2525
+2018,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,2535
+2018,Germany,Nigeria,DEU,NGA,6435
+2018,Ghana,Nigeria,GHA,NGA,9
+2018,Guinea-Bissau,Nigeria,GNB,NGA,5
+2018,Greece,Nigeria,GRC,NGA,285
+2018,Guinea,Nigeria,GIN,NGA,7
+2018,Croatia,Nigeria,HRV,NGA,12
+2018,Hungary,Nigeria,HUN,NGA,57
+2018,Iceland,Nigeria,ISL,NGA,6
+2018,Cote d'Ivoire,Nigeria,CIV,NGA,5
+2018,Ireland,Nigeria,IRL,NGA,255
+2018,Israel,Nigeria,ISR,NGA,5
+2018,Italy,Nigeria,ITA,NGA,22319
+2018,Kenya,Nigeria,KEN,NGA,6
+2018,Rep. of Korea,Nigeria,KOR,NGA,10
+2018,Lithuania,Nigeria,LTU,NGA,5
+2018,Luxembourg,Nigeria,LUX,NGA,10
+2018,Latvia,Nigeria,LVA,NGA,5
+2018,Mauritania,Nigeria,MRT,NGA,11
+2018,Mexico,Nigeria,MEX,NGA,30
+2018,Malaysia,Nigeria,MYS,NGA,5
+2018,Morocco,Nigeria,MAR,NGA,12
+2018,Malta,Nigeria,MLT,NGA,124
+2018,Netherlands (Kingdom of the),Nigeria,NLD,NGA,303
+2018,Niger,Nigeria,NER,NGA,118868
+2018,Norway,Nigeria,NOR,NGA,166
+2018,Panama,Nigeria,PAN,NGA,10
+2018,Peru,Nigeria,PER,NGA,16
+2018,Philippines,Nigeria,PHL,NGA,5
+2018,Poland,Nigeria,POL,NGA,10
+2018,Portugal,Nigeria,PRT,NGA,24
+2018,Romania,Nigeria,ROU,NGA,5
+2018,Spain,Nigeria,ESP,NGA,52
+2018,Sweden,Nigeria,SWE,NGA,539
+2018,Switzerland,Nigeria,CHE,NGA,208
+2018,Togo,Nigeria,TGO,NGA,8
+2018,Trinidad and Tobago,Nigeria,TTO,NGA,5
+2018,Türkiye,Nigeria,TUR,NGA,10
+2018,Uganda,Nigeria,UGA,NGA,10
+2018,Ukraine,Nigeria,UKR,NGA,5
+2018,Uruguay,Nigeria,URY,NGA,17
+2018,United States of America,Nigeria,USA,NGA,1703
+2018,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,7
+2019,Algeria,Nigeria,DZA,NGA,5
+2019,Egypt,Nigeria,EGY,NGA,21
+2019,Argentina,Nigeria,ARG,NGA,41
+2019,Armenia,Nigeria,ARM,NGA,5
+2019,Australia,Nigeria,AUS,NGA,193
+2019,Austria,Nigeria,AUT,NGA,430
+2019,Belgium,Nigeria,BEL,NGA,66
+2019,Brazil,Nigeria,BRA,NGA,135
+2019,Canada,Nigeria,CAN,NGA,6640
+2019,Chad,Nigeria,TCD,NGA,12720
+2019,Cameroon,Nigeria,CMR,NGA,110627
+2019,Costa Rica,Nigeria,CRI,NGA,17
+2019,Cyprus,Nigeria,CYP,NGA,14
+2019,Czechia,Nigeria,CZE,NGA,8
+2019,Denmark,Nigeria,DNK,NGA,9
+2019,Ecuador,Nigeria,ECU,NGA,36
+2019,Finland,Nigeria,FIN,NGA,160
+2019,France,Nigeria,FRA,NGA,3216
+2019,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,2816
+2019,Germany,Nigeria,DEU,NGA,7828
+2019,Ghana,Nigeria,GHA,NGA,9
+2019,Greece,Nigeria,GRC,NGA,297
+2019,Guinea,Nigeria,GIN,NGA,7
+2019,Croatia,Nigeria,HRV,NGA,12
+2019,Hungary,Nigeria,HUN,NGA,56
+2019,Iceland,Nigeria,ISL,NGA,10
+2019,Cote d'Ivoire,Nigeria,CIV,NGA,5
+2019,Ireland,Nigeria,IRL,NGA,293
+2019,Israel,Nigeria,ISR,NGA,6
+2019,Italy,Nigeria,ITA,NGA,25241
+2019,Japan,Nigeria,JPN,NGA,5
+2019,Kenya,Nigeria,KEN,NGA,5
+2019,Rep. of Korea,Nigeria,KOR,NGA,10
+2019,Lithuania,Nigeria,LTU,NGA,5
+2019,Luxembourg,Nigeria,LUX,NGA,9
+2019,Latvia,Nigeria,LVA,NGA,5
+2019,Mauritania,Nigeria,MRT,NGA,11
+2019,Mexico,Nigeria,MEX,NGA,36
+2019,Malaysia,Nigeria,MYS,NGA,5
+2019,Morocco,Nigeria,MAR,NGA,17
+2019,Malta,Nigeria,MLT,NGA,124
+2019,Netherlands (Kingdom of the),Nigeria,NLD,NGA,289
+2019,Niger,Nigeria,NER,NGA,120621
+2019,Norway,Nigeria,NOR,NGA,163
+2019,Panama,Nigeria,PAN,NGA,10
+2019,Peru,Nigeria,PER,NGA,24
+2019,Philippines,Nigeria,PHL,NGA,6
+2019,Poland,Nigeria,POL,NGA,11
+2019,Portugal,Nigeria,PRT,NGA,25
+2019,Romania,Nigeria,ROU,NGA,5
+2019,South Africa,Nigeria,ZAF,NGA,9
+2019,Spain,Nigeria,ESP,NGA,87
+2019,Slovenia,Nigeria,SVN,NGA,5
+2019,Sweden,Nigeria,SWE,NGA,588
+2019,Switzerland,Nigeria,CHE,NGA,246
+2019,Togo,Nigeria,TGO,NGA,8
+2019,Ukraine,Nigeria,UKR,NGA,6
+2019,Uruguay,Nigeria,URY,NGA,22
+2019,United States of America,Nigeria,USA,NGA,2291
+2019,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,7
+2020,Algeria,Nigeria,DZA,NGA,5
+2020,Egypt,Nigeria,EGY,NGA,24
+2020,Argentina,Nigeria,ARG,NGA,42
+2020,Armenia,Nigeria,ARM,NGA,5
+2020,Australia,Nigeria,AUS,NGA,208
+2020,Austria,Nigeria,AUT,NGA,417
+2020,Belgium,Nigeria,BEL,NGA,55
+2020,Brazil,Nigeria,BRA,NGA,140
+2020,Canada,Nigeria,CAN,NGA,8082
+2020,Chad,Nigeria,TCD,NGA,16126
+2020,Cameroon,Nigeria,CMR,NGA,117422
+2020,Congo,Nigeria,COG,NGA,5
+2020,Costa Rica,Nigeria,CRI,NGA,17
+2020,Cyprus,Nigeria,CYP,NGA,14
+2020,Czechia,Nigeria,CZE,NGA,8
+2020,Denmark,Nigeria,DNK,NGA,10
+2020,Ecuador,Nigeria,ECU,NGA,37
+2020,Finland,Nigeria,FIN,NGA,148
+2020,France,Nigeria,FRA,NGA,3661
+2020,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,3059
+2020,Germany,Nigeria,DEU,NGA,8813
+2020,Ghana,Nigeria,GHA,NGA,9
+2020,Greece,Nigeria,GRC,NGA,331
+2020,Guinea,Nigeria,GIN,NGA,12
+2020,Croatia,Nigeria,HRV,NGA,12
+2020,Hungary,Nigeria,HUN,NGA,52
+2020,Iceland,Nigeria,ISL,NGA,55
+2020,Cote d'Ivoire,Nigeria,CIV,NGA,5
+2020,Ireland,Nigeria,IRL,NGA,339
+2020,Israel,Nigeria,ISR,NGA,8
+2020,Italy,Nigeria,ITA,NGA,18473
+2020,Japan,Nigeria,JPN,NGA,5
+2020,Kenya,Nigeria,KEN,NGA,6
+2020,Rep. of Korea,Nigeria,KOR,NGA,12
+2020,Lithuania,Nigeria,LTU,NGA,5
+2020,Luxembourg,Nigeria,LUX,NGA,9
+2020,Mauritania,Nigeria,MRT,NGA,11
+2020,Mexico,Nigeria,MEX,NGA,44
+2020,Malaysia,Nigeria,MYS,NGA,5
+2020,Morocco,Nigeria,MAR,NGA,22
+2020,Malta,Nigeria,MLT,NGA,124
+2020,Netherlands (Kingdom of the),Nigeria,NLD,NGA,288
+2020,Niger,Nigeria,NER,NGA,171014
+2020,Norway,Nigeria,NOR,NGA,144
+2020,Panama,Nigeria,PAN,NGA,10
+2020,Peru,Nigeria,PER,NGA,24
+2020,Philippines,Nigeria,PHL,NGA,5
+2020,Poland,Nigeria,POL,NGA,6
+2020,Portugal,Nigeria,PRT,NGA,23
+2020,Romania,Nigeria,ROU,NGA,8
+2020,South Africa,Nigeria,ZAF,NGA,11
+2020,Spain,Nigeria,ESP,NGA,122
+2020,Sudan,Nigeria,SDN,NGA,12
+2020,Slovenia,Nigeria,SVN,NGA,6
+2020,Sweden,Nigeria,SWE,NGA,590
+2020,Switzerland,Nigeria,CHE,NGA,278
+2020,Thailand,Nigeria,THA,NGA,5
+2020,Togo,Nigeria,TGO,NGA,9
+2020,Trinidad and Tobago,Nigeria,TTO,NGA,5
+2020,Tunisia,Nigeria,TUN,NGA,5
+2020,Ukraine,Nigeria,UKR,NGA,6
+2020,Uruguay,Nigeria,URY,NGA,22
+2020,United States of America,Nigeria,USA,NGA,2523
+2020,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,7
+2021,Algeria,Nigeria,DZA,NGA,5
+2021,Egypt,Nigeria,EGY,NGA,25
+2021,Argentina,Nigeria,ARG,NGA,42
+2021,Armenia,Nigeria,ARM,NGA,5
+2021,Australia,Nigeria,AUS,NGA,247
+2021,Austria,Nigeria,AUT,NGA,425
+2021,Belgium,Nigeria,BEL,NGA,55
+2021,Brazil,Nigeria,BRA,NGA,148
+2021,Canada,Nigeria,CAN,NGA,10172
+2021,Chad,Nigeria,TCD,NGA,19321
+2021,Cameroon,Nigeria,CMR,NGA,120928
+2021,Congo,Nigeria,COG,NGA,5
+2021,Costa Rica,Nigeria,CRI,NGA,17
+2021,Cyprus,Nigeria,CYP,NGA,23
+2021,Czechia,Nigeria,CZE,NGA,8
+2021,Denmark,Nigeria,DNK,NGA,11
+2021,Ecuador,Nigeria,ECU,NGA,40
+2021,Ethiopia,Nigeria,ETH,NGA,5
+2021,Finland,Nigeria,FIN,NGA,139
+2021,France,Nigeria,FRA,NGA,5491
+2021,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,3101
+2021,Germany,Nigeria,DEU,NGA,10023
+2021,Ghana,Nigeria,GHA,NGA,9
+2021,Greece,Nigeria,GRC,NGA,374
+2021,Guinea,Nigeria,GIN,NGA,10
+2021,Croatia,Nigeria,HRV,NGA,12
+2021,Hungary,Nigeria,HUN,NGA,53
+2021,Iceland,Nigeria,ISL,NGA,65
+2021,Cote d'Ivoire,Nigeria,CIV,NGA,6
+2021,Ireland,Nigeria,IRL,NGA,396
+2021,Israel,Nigeria,ISR,NGA,8
+2021,Italy,Nigeria,ITA,NGA,20557
+2021,Jordan,Nigeria,JOR,NGA,5
+2021,Japan,Nigeria,JPN,NGA,5
+2021,Kenya,Nigeria,KEN,NGA,6
+2021,Rep. of Korea,Nigeria,KOR,NGA,13
+2021,Lebanon,Nigeria,LBN,NGA,5
+2021,Lithuania,Nigeria,LTU,NGA,5
+2021,Luxembourg,Nigeria,LUX,NGA,9
+2021,Mauritania,Nigeria,MRT,NGA,13
+2021,Mexico,Nigeria,MEX,NGA,45
+2021,Malaysia,Nigeria,MYS,NGA,5
+2021,Morocco,Nigeria,MAR,NGA,25
+2021,Malta,Nigeria,MLT,NGA,124
+2021,Netherlands (Kingdom of the),Nigeria,NLD,NGA,332
+2021,Niger,Nigeria,NER,NGA,187065
+2021,Norway,Nigeria,NOR,NGA,118
+2021,Panama,Nigeria,PAN,NGA,10
+2021,Peru,Nigeria,PER,NGA,24
+2021,Philippines,Nigeria,PHL,NGA,6
+2021,Poland,Nigeria,POL,NGA,7
+2021,Portugal,Nigeria,PRT,NGA,30
+2021,Romania,Nigeria,ROU,NGA,8
+2021,South Africa,Nigeria,ZAF,NGA,11
+2021,Spain,Nigeria,ESP,NGA,162
+2021,Sudan,Nigeria,SDN,NGA,12
+2021,Slovenia,Nigeria,SVN,NGA,6
+2021,Sweden,Nigeria,SWE,NGA,598
+2021,Switzerland,Nigeria,CHE,NGA,282
+2021,Thailand,Nigeria,THA,NGA,5
+2021,Togo,Nigeria,TGO,NGA,9
+2021,Trinidad and Tobago,Nigeria,TTO,NGA,5
+2021,Ukraine,Nigeria,UKR,NGA,7
+2021,Uruguay,Nigeria,URY,NGA,22
+2021,United States of America,Nigeria,USA,NGA,2948
+2021,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,7
+2023,Algeria,Nigeria,DZA,NGA,12
+2023,Egypt,Nigeria,EGY,NGA,31
+2023,Argentina,Nigeria,ARG,NGA,42
+2023,Armenia,Nigeria,ARM,NGA,17
+2023,Australia,Nigeria,AUS,NGA,109
+2023,Austria,Nigeria,AUT,NGA,427
+2023,Belgium,Nigeria,BEL,NGA,74
+2023,Benin,Nigeria,BEN,NGA,5
+2023,Brazil,Nigeria,BRA,NGA,222
+2023,Canada,Nigeria,CAN,NGA,3601
+2023,Chad,Nigeria,TCD,NGA,21381
+2023,Cameroon,Nigeria,CMR,NGA,128339
+2023,Congo,Nigeria,COG,NGA,5
+2023,Costa Rica,Nigeria,CRI,NGA,17
+2023,Cyprus,Nigeria,CYP,NGA,79
+2023,Czechia,Nigeria,CZE,NGA,10
+2023,Denmark,Nigeria,DNK,NGA,18
+2023,Dominican Rep.,Nigeria,DOM,NGA,5
+2023,Ecuador,Nigeria,ECU,NGA,58
+2023,Estonia,Nigeria,EST,NGA,6
+2023,Finland,Nigeria,FIN,NGA,265
+2023,France,Nigeria,FRA,NGA,7863
+2023,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,4288
+2023,Germany,Nigeria,DEU,NGA,13083
+2023,Ghana,Nigeria,GHA,NGA,17
+2023,Greece,Nigeria,GRC,NGA,354
+2023,Guinea,Nigeria,GIN,NGA,10
+2023,Croatia,Nigeria,HRV,NGA,16
+2023,Hungary,Nigeria,HUN,NGA,88
+2023,Iceland,Nigeria,ISL,NGA,105
+2023,Cote d'Ivoire,Nigeria,CIV,NGA,6
+2023,Ireland,Nigeria,IRL,NGA,912
+2023,Israel,Nigeria,ISR,NGA,10
+2023,Italy,Nigeria,ITA,NGA,19664
+2023,Jordan,Nigeria,JOR,NGA,6
+2023,Japan,Nigeria,JPN,NGA,11
+2023,Kenya,Nigeria,KEN,NGA,6
+2023,Rep. of Korea,Nigeria,KOR,NGA,15
+2023,Liberia,Nigeria,LBR,NGA,5
+2023,Lebanon,Nigeria,LBN,NGA,5
+2023,Lesotho,Nigeria,LSO,NGA,5
+2023,Lithuania,Nigeria,LTU,NGA,10
+2023,Luxembourg,Nigeria,LUX,NGA,16
+2023,Latvia,Nigeria,LVA,NGA,5
+2023,Mauritania,Nigeria,MRT,NGA,15
+2023,Mexico,Nigeria,MEX,NGA,46
+2023,Mali,Nigeria,MLI,NGA,5
+2023,Malaysia,Nigeria,MYS,NGA,5
+2023,Morocco,Nigeria,MAR,NGA,28
+2023,Malta,Nigeria,MLT,NGA,108
+2023,Netherlands (Kingdom of the),Nigeria,NLD,NGA,649
+2023,Niger,Nigeria,NER,NGA,200497
+2023,Norway,Nigeria,NOR,NGA,40
+2023,Panama,Nigeria,PAN,NGA,14
+2023,Peru,Nigeria,PER,NGA,24
+2023,Philippines,Nigeria,PHL,NGA,10
+2023,Poland,Nigeria,POL,NGA,26
+2023,Portugal,Nigeria,PRT,NGA,2342
+2023,Romania,Nigeria,ROU,NGA,25
+2023,South Africa,Nigeria,ZAF,NGA,7
+2023,Senegal,Nigeria,SEN,NGA,5
+2023,Spain,Nigeria,ESP,NGA,372
+2023,Sudan,Nigeria,SDN,NGA,12
+2023,Slovakia,Nigeria,SVK,NGA,25
+2023,Slovenia,Nigeria,SVN,NGA,7
+2023,Sweden,Nigeria,SWE,NGA,543
+2023,Switzerland,Nigeria,CHE,NGA,32
+2023,Togo,Nigeria,TGO,NGA,9
+2023,Trinidad and Tobago,Nigeria,TTO,NGA,5
+2023,Tunisia,Nigeria,TUN,NGA,11
+2023,Ukraine,Nigeria,UKR,NGA,5
+2023,Uruguay,Nigeria,URY,NGA,24
+2023,United States of America,Nigeria,USA,NGA,4187
+2023,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,7
+2022,Algeria,Nigeria,DZA,NGA,6
+2022,Egypt,Nigeria,EGY,NGA,30
+2022,Argentina,Nigeria,ARG,NGA,42
+2022,Armenia,Nigeria,ARM,NGA,11
+2022,Australia,Nigeria,AUS,NGA,282
+2022,Austria,Nigeria,AUT,NGA,458
+2022,Belgium,Nigeria,BEL,NGA,72
+2022,Benin,Nigeria,BEN,NGA,5
+2022,Brazil,Nigeria,BRA,NGA,167
+2022,Bulgaria,Nigeria,BGR,NGA,5
+2022,Canada,Nigeria,CAN,NGA,3693
+2022,Chad,Nigeria,TCD,NGA,20461
+2022,Cameroon,Nigeria,CMR,NGA,124651
+2022,Congo,Nigeria,COG,NGA,5
+2022,Costa Rica,Nigeria,CRI,NGA,17
+2022,Cyprus,Nigeria,CYP,NGA,34
+2022,Czechia,Nigeria,CZE,NGA,7
+2022,Denmark,Nigeria,DNK,NGA,20
+2022,Ecuador,Nigeria,ECU,NGA,51
+2022,Estonia,Nigeria,EST,NGA,8
+2022,Ethiopia,Nigeria,ETH,NGA,5
+2022,Finland,Nigeria,FIN,NGA,163
+2022,France,Nigeria,FRA,NGA,7037
+2022,United Kingdom of Great Britain and Northern Ireland,Nigeria,GBR,NGA,3181
+2022,Germany,Nigeria,DEU,NGA,9440
+2022,Ghana,Nigeria,GHA,NGA,17
+2022,Greece,Nigeria,GRC,NGA,387
+2022,Guinea,Nigeria,GIN,NGA,10
+2022,Croatia,Nigeria,HRV,NGA,15
+2022,Hungary,Nigeria,HUN,NGA,78
+2022,Iceland,Nigeria,ISL,NGA,68
+2022,Cote d'Ivoire,Nigeria,CIV,NGA,6
+2022,Ireland,Nigeria,IRL,NGA,506
+2022,Israel,Nigeria,ISR,NGA,8
+2022,Italy,Nigeria,ITA,NGA,20946
+2022,Jordan,Nigeria,JOR,NGA,5
+2022,Japan,Nigeria,JPN,NGA,6
+2022,Kenya,Nigeria,KEN,NGA,6
+2022,Rep. of Korea,Nigeria,KOR,NGA,15
+2022,Liberia,Nigeria,LBR,NGA,5
+2022,Lebanon,Nigeria,LBN,NGA,5
+2022,Lesotho,Nigeria,LSO,NGA,5
+2022,Lithuania,Nigeria,LTU,NGA,10
+2022,Luxembourg,Nigeria,LUX,NGA,16
+2022,Mauritania,Nigeria,MRT,NGA,14
+2022,Rep. of Moldova,Nigeria,MDA,NGA,19
+2022,Mexico,Nigeria,MEX,NGA,49
+2022,Mali,Nigeria,MLI,NGA,5
+2022,Malaysia,Nigeria,MYS,NGA,5
+2022,Morocco,Nigeria,MAR,NGA,31
+2022,Malta,Nigeria,MLT,NGA,124
+2022,Netherlands (Kingdom of the),Nigeria,NLD,NGA,1955
+2022,Niger,Nigeria,NER,NGA,188107
+2022,Norway,Nigeria,NOR,NGA,104
+2022,Panama,Nigeria,PAN,NGA,10
+2022,Peru,Nigeria,PER,NGA,24
+2022,Philippines,Nigeria,PHL,NGA,7
+2022,Poland,Nigeria,POL,NGA,27
+2022,Portugal,Nigeria,PRT,NGA,3871
+2022,Romania,Nigeria,ROU,NGA,12
+2022,South Africa,Nigeria,ZAF,NGA,7
+2022,Senegal,Nigeria,SEN,NGA,5
+2022,Spain,Nigeria,ESP,NGA,239
+2022,Sudan,Nigeria,SDN,NGA,12
+2022,Slovakia,Nigeria,SVK,NGA,19
+2022,Slovenia,Nigeria,SVN,NGA,6
+2022,Sweden,Nigeria,SWE,NGA,616
+2022,Switzerland,Nigeria,CHE,NGA,320
+2022,Thailand,Nigeria,THA,NGA,5
+2022,Togo,Nigeria,TGO,NGA,15
+2022,Trinidad and Tobago,Nigeria,TTO,NGA,5
+2022,Tunisia,Nigeria,TUN,NGA,6
+2022,Ukraine,Nigeria,UKR,NGA,5
+2022,Uruguay,Nigeria,URY,NGA,23
+2022,United States of America,Nigeria,USA,NGA,3501
+2022,Venezuela (Bolivarian Republic of),Nigeria,VEN,NGA,7
+2010,Egypt,Syria,EGY,SYR,8
+2010,Australia,Syria,AUS,SYR,68
+2010,Austria,Syria,AUT,SYR,505
+2010,Belgium,Syria,BEL,SYR,229
+2010,Brazil,Syria,BRA,SYR,5
+2010,Bulgaria,Syria,BGR,SYR,95
+2010,Canada,Syria,CAN,SYR,545
+2010,Cyprus,Syria,CYP,SYR,125
+2010,Czechia,Syria,CZE,SYR,23
+2010,Denmark,Syria,DNK,SYR,750
+2010,Ecuador,Syria,ECU,SYR,9
+2010,Finland,Syria,FIN,SYR,59
+2010,France,Syria,FRA,SYR,280
+2010,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,499
+2010,Germany,Syria,DEU,SYR,10518
+2010,Greece,Syria,GRC,SYR,16
+2010,Hungary,Syria,HUN,SYR,39
+2010,Ireland,Syria,IRL,SYR,34
+2010,Iraq,Syria,IRQ,SYR,254
+2010,Italy,Syria,ITA,SYR,211
+2010,Jordan,Syria,JOR,SYR,198
+2010,Kyrgyzstan,Syria,KGZ,SYR,11
+2010,Kuwait,Syria,KWT,SYR,5
+2010,Lebanon,Syria,LBN,SYR,64
+2010,Lithuania,Syria,LTU,SYR,5
+2010,Rep. of Moldova,Syria,MDA,SYR,10
+2010,Malta,Syria,MLT,SYR,33
+2010,Netherlands (Kingdom of the),Syria,NLD,SYR,1186
+2010,Norway,Syria,NOR,SYR,186
+2010,New Zealand,Syria,NZL,SYR,36
+2010,Oman,Syria,OMN,SYR,7
+2010,Pakistan,Syria,PAK,SYR,8
+2010,Poland,Syria,POL,SYR,8
+2010,Qatar,Syria,QAT,SYR,8
+2010,Romania,Syria,ROU,SYR,21
+2010,Russian Federation,Syria,RUS,SYR,5
+2010,Saudi Arabia,Syria,SAU,SYR,14
+2010,Spain,Syria,ESP,SYR,35
+2010,Slovakia,Syria,SVK,SYR,22
+2010,Sweden,Syria,SWE,SYR,1169
+2010,Switzerland,Syria,CHE,SYR,694
+2010,Tunisia,Syria,TUN,SYR,5
+2010,Türkiye,Syria,TUR,SYR,9
+2010,United Arab Emirates,Syria,ARE,SYR,34
+2010,Ukraine,Syria,UKR,SYR,42
+2010,United States of America,Syria,USA,SYR,312
+2010,Yemen,Syria,YEM,SYR,52
+2011,Egypt,Syria,EGY,SYR,9
+2011,Armenia,Syria,ARM,SYR,6
+2011,Australia,Syria,AUS,SYR,84
+2011,Austria,Syria,AUT,SYR,903
+2011,Belgium,Syria,BEL,SYR,312
+2011,Brazil,Syria,BRA,SYR,6
+2011,Bulgaria,Syria,BGR,SYR,98
+2011,Canada,Syria,CAN,SYR,547
+2011,Chad,Syria,TCD,SYR,5
+2011,Cyprus,Syria,CYP,SYR,137
+2011,Czechia,Syria,CZE,SYR,23
+2011,Denmark,Syria,DNK,SYR,1197
+2011,Ecuador,Syria,ECU,SYR,11
+2011,Finland,Syria,FIN,SYR,86
+2011,France,Syria,FRA,SYR,351
+2011,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,693
+2011,Germany,Syria,DEU,SYR,10155
+2011,Greece,Syria,GRC,SYR,10
+2011,Hungary,Syria,HUN,SYR,42
+2011,Ireland,Syria,IRL,SYR,27
+2011,Iraq,Syria,IRQ,SYR,323
+2011,Italy,Syria,ITA,SYR,262
+2011,Jordan,Syria,JOR,SYR,193
+2011,Kyrgyzstan,Syria,KGZ,SYR,9
+2011,Kuwait,Syria,KWT,SYR,10
+2011,Lebanon,Syria,LBN,SYR,124
+2011,Lithuania,Syria,LTU,SYR,5
+2011,Latvia,Syria,LVA,SYR,5
+2011,Rep. of Moldova,Syria,MDA,SYR,11
+2011,Malaysia,Syria,MYS,SYR,5
+2011,Malta,Syria,MLT,SYR,80
+2011,Netherlands (Kingdom of the),Syria,NLD,SYR,1064
+2011,Norway,Syria,NOR,SYR,171
+2011,New Zealand,Syria,NZL,SYR,35
+2011,Oman,Syria,OMN,SYR,7
+2011,Pakistan,Syria,PAK,SYR,8
+2011,Poland,Syria,POL,SYR,10
+2011,Qatar,Syria,QAT,SYR,8
+2011,Romania,Syria,ROU,SYR,20
+2011,Russian Federation,Syria,RUS,SYR,5
+2011,Saudi Arabia,Syria,SAU,SYR,14
+2011,Spain,Syria,ESP,SYR,32
+2011,Slovakia,Syria,SVK,SYR,23
+2011,Sweden,Syria,SWE,SYR,1206
+2011,Switzerland,Syria,CHE,SYR,1074
+2011,Tunisia,Syria,TUN,SYR,11
+2011,Türkiye,Syria,TUR,SYR,19
+2011,United Arab Emirates,Syria,ARE,SYR,37
+2011,Ukraine,Syria,UKR,SYR,43
+2011,United States of America,Syria,USA,SYR,373
+2011,Yemen,Syria,YEM,SYR,42
+2012,Egypt,Syria,EGY,SYR,12836
+2012,Argentina,Syria,ARG,SYR,40
+2012,Armenia,Syria,ARM,SYR,136
+2012,Australia,Syria,AUS,SYR,204
+2012,Austria,Syria,AUT,SYR,1675
+2012,Azerbaijan,Syria,AZE,SYR,5
+2012,Belgium,Syria,BEL,SYR,355
+2012,Brazil,Syria,BRA,SYR,42
+2012,Bosnia and Herzegovina,Syria,BIH,SYR,5
+2012,Bulgaria,Syria,BGR,SYR,97
+2012,Canada,Syria,CAN,SYR,533
+2012,Chad,Syria,TCD,SYR,5
+2012,Cuba,Syria,CUB,SYR,11
+2012,Cyprus,Syria,CYP,SYR,139
+2012,Czechia,Syria,CZE,SYR,54
+2012,Denmark,Syria,DNK,SYR,1903
+2012,Dominican Rep.,Syria,DOM,SYR,7
+2012,Ecuador,Syria,ECU,SYR,11
+2012,Finland,Syria,FIN,SYR,218
+2012,France,Syria,FRA,SYR,640
+2012,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,1717
+2012,Georgia,Syria,GEO,SYR,140
+2012,Germany,Syria,DEU,SYR,18165
+2012,Greece,Syria,GRC,SYR,20
+2012,Croatia,Syria,HRV,SYR,12
+2012,Hungary,Syria,HUN,SYR,86
+2012,India,Syria,IND,SYR,6
+2012,Indonesia,Syria,IDN,SYR,5
+2012,Ireland,Syria,IRL,SYR,38
+2012,Iraq,Syria,IRQ,SYR,63586
+2012,Italy,Syria,ITA,SYR,445
+2012,Jordan,Syria,JOR,SYR,238798
+2012,Kyrgyzstan,Syria,KGZ,SYR,7
+2012,Kuwait,Syria,KWT,SYR,15
+2012,Lebanon,Syria,LBN,SYR,126939
+2012,Lithuania,Syria,LTU,SYR,5
+2012,Latvia,Syria,LVA,SYR,17
+2012,Rep. of Moldova,Syria,MDA,SYR,55
+2012,Malaysia,Syria,MYS,SYR,5
+2012,Malta,Syria,MLT,SYR,191
+2012,Netherlands (Kingdom of the),Syria,NLD,SYR,1449
+2012,Norway,Syria,NOR,SYR,565
+2012,New Zealand,Syria,NZL,SYR,41
+2012,Oman,Syria,OMN,SYR,7
+2012,Pakistan,Syria,PAK,SYR,11
+2012,Poland,Syria,POL,SYR,17
+2012,Qatar,Syria,QAT,SYR,8
+2012,Romania,Syria,ROU,SYR,152
+2012,Russian Federation,Syria,RUS,SYR,53
+2012,Saudi Arabia,Syria,SAU,SYR,14
+2012,Spain,Syria,ESP,SYR,32
+2012,Slovakia,Syria,SVK,SYR,24
+2012,Sweden,Syria,SWE,SYR,6051
+2012,Switzerland,Syria,CHE,SYR,1391
+2012,Thailand,Syria,THA,SYR,10
+2012,Tunisia,Syria,TUN,SYR,6
+2012,Türkiye,Syria,TUR,SYR,248466
+2012,United Arab Emirates,Syria,ARE,SYR,16
+2012,Ukraine,Syria,UKR,SYR,63
+2012,United States of America,Syria,USA,SYR,1425
+2012,Yemen,Syria,YEM,SYR,42
+2013,Egypt,Syria,EGY,SYR,131659
+2013,Argentina,Syria,ARG,SYR,159
+2013,Armenia,Syria,ARM,SYR,11090
+2013,Australia,Syria,AUS,SYR,265
+2013,Austria,Syria,AUT,SYR,2748
+2013,Azerbaijan,Syria,AZE,SYR,9
+2013,Belgium,Syria,BEL,SYR,1987
+2013,Belarus,Syria,BLR,SYR,35
+2013,Bolivia (Plurinational State of),Syria,BOL,SYR,5
+2013,Brazil,Syria,BRA,SYR,333
+2013,Bosnia and Herzegovina,Syria,BIH,SYR,48
+2013,Bulgaria,Syria,BGR,SYR,2104
+2013,Canada,Syria,CAN,SYR,592
+2013,Chad,Syria,TCD,SYR,15
+2013,Chile,Syria,CHL,SYR,5
+2013,Cuba,Syria,CUB,SYR,24
+2013,Cyprus,Syria,CYP,SYR,316
+2013,Czechia,Syria,CZE,SYR,149
+2013,Denmark,Syria,DNK,SYR,3271
+2013,Dominican Rep.,Syria,DOM,SYR,5
+2013,Ecuador,Syria,ECU,SYR,11
+2013,Finland,Syria,FIN,SYR,352
+2013,France,Syria,FRA,SYR,1474
+2013,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,3169
+2013,Georgia,Syria,GEO,SYR,516
+2013,Germany,Syria,DEU,SYR,21253
+2013,Greece,Syria,GRC,SYR,195
+2013,Croatia,Syria,HRV,SYR,22
+2013,Hungary,Syria,HUN,SYR,141
+2013,Iceland,Syria,ISL,SYR,7
+2013,India,Syria,IND,SYR,18
+2013,Indonesia,Syria,IDN,SYR,36
+2013,Ireland,Syria,IRL,SYR,71
+2013,Iraq,Syria,IRQ,SYR,212809
+2013,Italy,Syria,ITA,SYR,840
+2013,Jordan,Syria,JOR,SYR,585304
+2013,Japan,Syria,JPN,SYR,26
+2013,Kazakhstan,Syria,KAZ,SYR,7
+2013,Kyrgyzstan,Syria,KGZ,SYR,14
+2013,Kuwait,Syria,KWT,SYR,13
+2013,Libya,Syria,LBY,SYR,16796
+2013,Lebanon,Syria,LBN,SYR,851284
+2013,Lithuania,Syria,LTU,SYR,18
+2013,Luxembourg,Syria,LUX,SYR,5
+2013,Latvia,Syria,LVA,SYR,33
+2013,Mauritania,Syria,MRT,SYR,5
+2013,Rep. of Moldova,Syria,MDA,SYR,139
+2013,Mexico,Syria,MEX,SYR,13
+2013,Malaysia,Syria,MYS,SYR,101
+2013,Morocco,Syria,MAR,SYR,856
+2013,Malta,Syria,MLT,SYR,776
+2013,Netherlands (Kingdom of the),Syria,NLD,SYR,3404
+2013,Niger,Syria,NER,SYR,6
+2013,Nigeria,Syria,NGA,SYR,9
+2013,Norway,Syria,NOR,SYR,1311
+2013,New Zealand,Syria,NZL,SYR,43
+2013,Oman,Syria,OMN,SYR,7
+2013,Pakistan,Syria,PAK,SYR,13
+2013,Peru,Syria,PER,SYR,5
+2013,Philippines,Syria,PHL,SYR,7
+2013,Poland,Syria,POL,SYR,108
+2013,Portugal,Syria,PRT,SYR,14
+2013,Qatar,Syria,QAT,SYR,8
+2013,Romania,Syria,ROU,SYR,932
+2013,South Africa,Syria,ZAF,SYR,8
+2013,Russian Federation,Syria,RUS,SYR,1163
+2013,Saudi Arabia,Syria,SAU,SYR,14
+2013,Spain,Syria,ESP,SYR,180
+2013,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,5
+2013,Sudan,Syria,SDN,SYR,84
+2013,Slovakia,Syria,SVK,SYR,26
+2013,Slovenia,Syria,SVN,SYR,9
+2013,Sweden,Syria,SWE,SYR,17984
+2013,Switzerland,Syria,CHE,SYR,2012
+2013,Thailand,Syria,THA,SYR,44
+2013,Tunisia,Syria,TUN,SYR,164
+2013,Türkiye,Syria,TUR,SYR,585601
+2013,United Arab Emirates,Syria,ARE,SYR,16
+2013,Ukraine,Syria,UKR,SYR,167
+2013,United States of America,Syria,USA,SYR,3802
+2013,Yemen,Syria,YEM,SYR,54
+2014,Albania,Syria,ALB,SYR,5
+2014,Egypt,Syria,EGY,SYR,138381
+2014,Argentina,Syria,ARG,SYR,233
+2014,Armenia,Syria,ARM,SYR,14994
+2014,Australia,Syria,AUS,SYR,302
+2014,Austria,Syria,AUT,SYR,6653
+2014,Azerbaijan,Syria,AZE,SYR,7
+2014,Belgium,Syria,BEL,SYR,2620
+2014,Belarus,Syria,BLR,SYR,72
+2014,Bolivia (Plurinational State of),Syria,BOL,SYR,6
+2014,Brazil,Syria,BRA,SYR,1739
+2014,Bosnia and Herzegovina,Syria,BIH,SYR,25
+2014,Bulgaria,Syria,BGR,SYR,8501
+2014,Canada,Syria,CAN,SYR,705
+2014,Chad,Syria,TCD,SYR,15
+2014,China,Syria,CHN,SYR,5
+2014,Chile,Syria,CHL,SYR,6
+2014,Colombia,Syria,COL,SYR,5
+2014,Costa Rica,Syria,CRI,SYR,5
+2014,Cuba,Syria,CUB,SYR,20
+2014,Cyprus,Syria,CYP,SYR,1451
+2014,Czechia,Syria,CZE,SYR,236
+2014,Denmark,Syria,DNK,SYR,7253
+2014,Ecuador,Syria,ECU,SYR,13
+2014,Estonia,Syria,EST,SYR,6
+2014,Finland,Syria,FIN,SYR,438
+2014,France,Syria,FRA,SYR,2882
+2014,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,4573
+2014,Georgia,Syria,GEO,SYR,471
+2014,Germany,Syria,DEU,SYR,40994
+2014,Ghana,Syria,GHA,SYR,5
+2014,Greece,Syria,GRC,SYR,3913
+2014,Croatia,Syria,HRV,SYR,22
+2014,Hungary,Syria,HUN,SYR,334
+2014,Iceland,Syria,ISL,SYR,7
+2014,Cote d'Ivoire,Syria,CIV,SYR,5
+2014,India,Syria,IND,SYR,27
+2014,Indonesia,Syria,IDN,SYR,43
+2014,Ireland,Syria,IRL,SYR,176
+2014,Iraq,Syria,IRQ,SYR,234196
+2014,Italy,Syria,ITA,SYR,1144
+2014,Jamaica,Syria,JAM,SYR,5
+2014,Jordan,Syria,JOR,SYR,623112
+2014,Japan,Syria,JPN,SYR,41
+2014,Kazakhstan,Syria,KAZ,SYR,14
+2014,Kyrgyzstan,Syria,KGZ,SYR,56
+2014,Rep. of Korea,Syria,KOR,SYR,503
+2014,Kuwait,Syria,KWT,SYR,15
+2014,Liberia,Syria,LBR,SYR,6
+2014,Libya,Syria,LBY,SYR,18653
+2014,Lebanon,Syria,LBN,SYR,1147494
+2014,Liechtenstein,Syria,LIE,SYR,5
+2014,Sri Lanka,Syria,LKA,SYR,5
+2014,Lithuania,Syria,LTU,SYR,20
+2014,Luxembourg,Syria,LUX,SYR,59
+2014,Latvia,Syria,LVA,SYR,52
+2014,Mauritania,Syria,MRT,SYR,41
+2014,North Macedonia,Syria,MKD,SYR,11
+2014,Rep. of Moldova,Syria,MDA,SYR,186
+2014,Mexico,Syria,MEX,SYR,13
+2014,Mali,Syria,MLI,SYR,16
+2014,Malaysia,Syria,MYS,SYR,447
+2014,Mongolia,Syria,MNG,SYR,5
+2014,Morocco,Syria,MAR,SYR,647
+2014,Malta,Syria,MLT,SYR,1047
+2014,Netherlands (Kingdom of the),Syria,NLD,SYR,8692
+2014,Niger,Syria,NER,SYR,6
+2014,Nigeria,Syria,NGA,SYR,11
+2014,Norway,Syria,NOR,SYR,2568
+2014,New Zealand,Syria,NZL,SYR,48
+2014,Oman,Syria,OMN,SYR,7
+2014,Pakistan,Syria,PAK,SYR,16
+2014,Paraguay,Syria,PRY,SYR,7
+2014,Peru,Syria,PER,SYR,20
+2014,Philippines,Syria,PHL,SYR,19
+2014,Poland,Syria,POL,SYR,240
+2014,Portugal,Syria,PRT,SYR,15
+2014,Qatar,Syria,QAT,SYR,14
+2014,Romania,Syria,ROU,SYR,1278
+2014,South Africa,Syria,ZAF,SYR,28
+2014,Russian Federation,Syria,RUS,SYR,1927
+2014,Saudi Arabia,Syria,SAU,SYR,18
+2014,Spain,Syria,ESP,SYR,1336
+2014,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,6
+2014,Sudan,Syria,SDN,SYR,797
+2014,Slovakia,Syria,SVK,SYR,40
+2014,Slovenia,Syria,SVN,SYR,20
+2014,Sweden,Syria,SWE,SYR,34285
+2014,Switzerland,Syria,CHE,SYR,5161
+2014,Thailand,Syria,THA,SYR,82
+2014,Trinidad and Tobago,Syria,TTO,SYR,8
+2014,Tunisia,Syria,TUN,SYR,558
+2014,Türkiye,Syria,TUR,SYR,1557899
+2014,United Arab Emirates,Syria,ARE,SYR,28
+2014,Ukraine,Syria,UKR,SYR,341
+2014,Uruguay,Syria,URY,SYR,48
+2014,United States of America,Syria,USA,SYR,4750
+2014,Yemen,Syria,YEM,SYR,2276
+2015,Albania,Syria,ALB,SYR,5
+2015,Antigua and Barbuda,Syria,ATG,SYR,15
+2015,Egypt,Syria,EGY,SYR,117635
+2015,Argentina,Syria,ARG,SYR,276
+2015,Armenia,Syria,ARM,SYR,16611
+2015,Australia,Syria,AUS,SYR,301
+2015,Austria,Syria,AUT,SYR,14894
+2015,Azerbaijan,Syria,AZE,SYR,8
+2015,Belgium,Syria,BEL,SYR,4239
+2015,Belarus,Syria,BLR,SYR,138
+2015,Bolivia (Plurinational State of),Syria,BOL,SYR,7
+2015,Brazil,Syria,BRA,SYR,2271
+2015,Bosnia and Herzegovina,Syria,BIH,SYR,14
+2015,Bulgaria,Syria,BGR,SYR,13819
+2015,Canada,Syria,CAN,SYR,1513
+2015,Chad,Syria,TCD,SYR,6
+2015,China,Syria,CHN,SYR,14
+2015,Chile,Syria,CHL,SYR,13
+2015,Cameroon,Syria,CMR,SYR,15
+2015,Congo,Syria,COG,SYR,5
+2015,Dem. Rep. of the Congo,Syria,COD,SYR,7
+2015,Colombia,Syria,COL,SYR,7
+2015,Costa Rica,Syria,CRI,SYR,8
+2015,Cuba,Syria,CUB,SYR,41
+2015,Cyprus,Syria,CYP,SYR,3110
+2015,Czechia,Syria,CZE,SYR,365
+2015,Denmark,Syria,DNK,SYR,12988
+2015,Djibouti,Syria,DJI,SYR,5
+2015,Ecuador,Syria,ECU,SYR,17
+2015,Estonia,Syria,EST,SYR,6
+2015,Ethiopia,Syria,ETH,SYR,9
+2015,Finland,Syria,FIN,SYR,565
+2015,France,Syria,FRA,SYR,5179
+2015,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,6496
+2015,Georgia,Syria,GEO,SYR,475
+2015,Germany,Syria,DEU,SYR,115604
+2015,Ghana,Syria,GHA,SYR,47
+2015,Greece,Syria,GRC,SYR,9101
+2015,Croatia,Syria,HRV,SYR,23
+2015,Hungary,Syria,HUN,SYR,476
+2015,Iceland,Syria,ISL,SYR,37
+2015,Cote d'Ivoire,Syria,CIV,SYR,20
+2015,India,Syria,IND,SYR,41
+2015,Indonesia,Syria,IDN,SYR,61
+2015,Ireland,Syria,IRL,SYR,109
+2015,Iraq,Syria,IRQ,SYR,244642
+2015,Italy,Syria,ITA,SYR,1460
+2015,Jamaica,Syria,JAM,SYR,5
+2015,Jordan,Syria,JOR,SYR,628223
+2015,Japan,Syria,JPN,SYR,59
+2015,Kazakhstan,Syria,KAZ,SYR,23
+2015,Kenya,Syria,KEN,SYR,9
+2015,Kyrgyzstan,Syria,KGZ,SYR,55
+2015,Rep. of Korea,Syria,KOR,SYR,646
+2015,Kuwait,Syria,KWT,SYR,14
+2015,Liberia,Syria,LBR,SYR,6
+2015,Libya,Syria,LBY,SYR,97
+2015,Lebanon,Syria,LBN,SYR,1062690
+2015,Liechtenstein,Syria,LIE,SYR,23
+2015,Sri Lanka,Syria,LKA,SYR,5
+2015,Lithuania,Syria,LTU,SYR,23
+2015,Luxembourg,Syria,LUX,SYR,177
+2015,Latvia,Syria,LVA,SYR,65
+2015,Mauritania,Syria,MRT,SYR,215
+2015,North Macedonia,Syria,MKD,SYR,13
+2015,Rep. of Moldova,Syria,MDA,SYR,206
+2015,Mexico,Syria,MEX,SYR,18
+2015,Mali,Syria,MLI,SYR,82
+2015,Malaysia,Syria,MYS,SYR,473
+2015,Morocco,Syria,MAR,SYR,2619
+2015,Malta,Syria,MLT,SYR,1328
+2015,Netherlands (Kingdom of the),Syria,NLD,SYR,16184
+2015,Niger,Syria,NER,SYR,6
+2015,Nigeria,Syria,NGA,SYR,32
+2015,Norway,Syria,NOR,SYR,4121
+2015,New Zealand,Syria,NZL,SYR,52
+2015,Oman,Syria,OMN,SYR,7
+2015,Pakistan,Syria,PAK,SYR,16
+2015,Paraguay,Syria,PRY,SYR,30
+2015,Peru,Syria,PER,SYR,29
+2015,Philippines,Syria,PHL,SYR,36
+2015,Poland,Syria,POL,SYR,445
+2015,Portugal,Syria,PRT,SYR,17
+2015,Qatar,Syria,QAT,SYR,14
+2015,Romania,Syria,ROU,SYR,1591
+2015,South Africa,Syria,ZAF,SYR,31
+2015,Russian Federation,Syria,RUS,SYR,1304
+2015,El Salvador,Syria,SLV,SYR,5
+2015,Saudi Arabia,Syria,SAU,SYR,9
+2015,Somalia,Syria,SOM,SYR,24
+2015,Spain,Syria,ESP,SYR,1992
+2015,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,11
+2015,Sudan,Syria,SDN,SYR,2692
+2015,Slovakia,Syria,SVK,SYR,47
+2015,Slovenia,Syria,SVN,SYR,30
+2015,Sweden,Syria,SWE,SYR,52707
+2015,Switzerland,Syria,CHE,SYR,8695
+2015,Thailand,Syria,THA,SYR,95
+2015,Togo,Syria,TGO,SYR,5
+2015,Trinidad and Tobago,Syria,TTO,SYR,22
+2015,Tunisia,Syria,TUN,SYR,499
+2015,Türkiye,Syria,TUR,SYR,2503549
+2015,United Arab Emirates,Syria,ARE,SYR,36
+2015,Uganda,Syria,UGA,SYR,6
+2015,Ukraine,Syria,UKR,SYR,399
+2015,Uruguay,Syria,URY,SYR,58
+2015,United States of America,Syria,USA,SYR,5651
+2015,Yemen,Syria,YEM,SYR,3011
+2015,Zambia,Syria,ZMB,SYR,6
+2016,Albania,Syria,ALB,SYR,5
+2016,Antigua and Barbuda,Syria,ATG,SYR,5
+2016,Egypt,Syria,EGY,SYR,116013
+2016,Argentina,Syria,ARG,SYR,357
+2016,Armenia,Syria,ARM,SYR,14626
+2016,Australia,Syria,AUS,SYR,378
+2016,Austria,Syria,AUT,SYR,30958
+2016,Azerbaijan,Syria,AZE,SYR,15
+2016,Belgium,Syria,BEL,SYR,9080
+2016,Belarus,Syria,BLR,SYR,77
+2016,Bolivia (Plurinational State of),Syria,BOL,SYR,13
+2016,Brazil,Syria,BRA,SYR,2591
+2016,Bosnia and Herzegovina,Syria,BIH,SYR,15
+2016,Bulgaria,Syria,BGR,SYR,15027
+2016,Canada,Syria,CAN,SYR,2757
+2016,Chad,Syria,TCD,SYR,17
+2016,China,Syria,CHN,SYR,20
+2016,Chile,Syria,CHL,SYR,18
+2016,Cameroon,Syria,CMR,SYR,23
+2016,Congo,Syria,COG,SYR,5
+2016,Dem. Rep. of the Congo,Syria,COD,SYR,11
+2016,Colombia,Syria,COL,SYR,8
+2016,Costa Rica,Syria,CRI,SYR,8
+2016,Cuba,Syria,CUB,SYR,39
+2016,Cyprus,Syria,CYP,SYR,4263
+2016,Czechia,Syria,CZE,SYR,365
+2016,Denmark,Syria,DNK,SYR,18215
+2016,Djibouti,Syria,DJI,SYR,13
+2016,Estonia,Syria,EST,SYR,76
+2016,Ethiopia,Syria,ETH,SYR,9
+2016,Finland,Syria,FIN,SYR,1677
+2016,France,Syria,FRA,SYR,8991
+2016,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,8269
+2016,Georgia,Syria,GEO,SYR,425
+2016,Germany,Syria,DEU,SYR,375122
+2016,Ghana,Syria,GHA,SYR,8
+2016,Greece,Syria,GRC,SYR,14420
+2016,Croatia,Syria,HRV,SYR,60
+2016,Hungary,Syria,HUN,SYR,584
+2016,Iceland,Syria,ISL,SYR,37
+2016,Cote d'Ivoire,Syria,CIV,SYR,5
+2016,India,Syria,IND,SYR,65
+2016,Indonesia,Syria,IDN,SYR,30
+2016,Ireland,Syria,IRL,SYR,243
+2016,Iraq,Syria,IRQ,SYR,230836
+2016,Italy,Syria,ITA,SYR,2613
+2016,Jamaica,Syria,JAM,SYR,5
+2016,Jordan,Syria,JOR,SYR,648836
+2016,Japan,Syria,JPN,SYR,61
+2016,Kazakhstan,Syria,KAZ,SYR,19
+2016,Kyrgyzstan,Syria,KGZ,SYR,66
+2016,Rep. of Korea,Syria,KOR,SYR,876
+2016,Kuwait,Syria,KWT,SYR,50
+2016,Liberia,Syria,LBR,SYR,6
+2016,Libya,Syria,LBY,SYR,142
+2016,Lebanon,Syria,LBN,SYR,1005503
+2016,Liechtenstein,Syria,LIE,SYR,23
+2016,Sri Lanka,Syria,LKA,SYR,8
+2016,Lithuania,Syria,LTU,SYR,161
+2016,Luxembourg,Syria,LUX,SYR,686
+2016,Latvia,Syria,LVA,SYR,143
+2016,Mauritania,Syria,MRT,SYR,417
+2016,North Macedonia,Syria,MKD,SYR,13
+2016,Rep. of Moldova,Syria,MDA,SYR,218
+2016,Mexico,Syria,MEX,SYR,23
+2016,Mali,Syria,MLI,SYR,11
+2016,Malaysia,Syria,MYS,SYR,458
+2016,Montenegro,Syria,MNE,SYR,10
+2016,Morocco,Syria,MAR,SYR,3242
+2016,Malta,Syria,MLT,SYR,1668
+2016,Netherlands (Kingdom of the),Syria,NLD,SYR,28394
+2016,Niger,Syria,NER,SYR,7
+2016,Nigeria,Syria,NGA,SYR,88
+2016,Norway,Syria,NOR,SYR,11537
+2016,New Zealand,Syria,NZL,SYR,61
+2016,Oman,Syria,OMN,SYR,7
+2016,Pakistan,Syria,PAK,SYR,13
+2016,Paraguay,Syria,PRY,SYR,51
+2016,Peru,Syria,PER,SYR,32
+2016,Philippines,Syria,PHL,SYR,51
+2016,Poland,Syria,POL,SYR,483
+2016,Portugal,Syria,PRT,SYR,82
+2016,Qatar,Syria,QAT,SYR,32
+2016,Romania,Syria,ROU,SYR,1775
+2016,South Africa,Syria,ZAF,SYR,44
+2016,Russian Federation,Syria,RUS,SYR,1319
+2016,El Salvador,Syria,SLV,SYR,5
+2016,Saudi Arabia,Syria,SAU,SYR,19
+2016,Somalia,Syria,SOM,SYR,145
+2016,Spain,Syria,ESP,SYR,8205
+2016,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,747
+2016,South Sudan,Syria,SSD,SYR,5
+2016,Sudan,Syria,SDN,SYR,6997
+2016,Slovakia,Syria,SVK,SYR,54
+2016,Slovenia,Syria,SVN,SYR,118
+2016,Sweden,Syria,SWE,SYR,96914
+2016,Switzerland,Syria,CHE,SYR,11159
+2016,Thailand,Syria,THA,SYR,268
+2016,Togo,Syria,TGO,SYR,5
+2016,Trinidad and Tobago,Syria,TTO,SYR,31
+2016,Tunisia,Syria,TUN,SYR,504
+2016,Türkiye,Syria,TUR,SYR,2823987
+2016,United Arab Emirates,Syria,ARE,SYR,119
+2016,Uganda,Syria,UGA,SYR,7
+2016,Ukraine,Syria,UKR,SYR,446
+2016,Uruguay,Syria,URY,SYR,60
+2016,United States of America,Syria,USA,SYR,6444
+2016,Venezuela (Bolivarian Republic of),Syria,VEN,SYR,5
+2016,Yemen,Syria,YEM,SYR,3249
+2016,Zambia,Syria,ZMB,SYR,5
+2017,Albania,Syria,ALB,SYR,5
+2017,Algeria,Syria,DZA,SYR,8
+2017,Egypt,Syria,EGY,SYR,126688
+2017,Argentina,Syria,ARG,SYR,370
+2017,Armenia,Syria,ARM,SYR,14680
+2017,Australia,Syria,AUS,SYR,477
+2017,Austria,Syria,AUT,SYR,43888
+2017,Azerbaijan,Syria,AZE,SYR,15
+2017,Belgium,Syria,BEL,SYR,9080
+2017,Benin,Syria,BEN,SYR,7
+2017,Belarus,Syria,BLR,SYR,87
+2017,Bolivia (Plurinational State of),Syria,BOL,SYR,21
+2017,Brazil,Syria,BRA,SYR,2905
+2017,Bosnia and Herzegovina,Syria,BIH,SYR,15
+2017,Bulgaria,Syria,BGR,SYR,16549
+2017,Canada,Syria,CAN,SYR,3095
+2017,Chad,Syria,TCD,SYR,39
+2017,China,Syria,CHN,SYR,42
+2017,Chile,Syria,CHL,SYR,85
+2017,Cameroon,Syria,CMR,SYR,15
+2017,Congo,Syria,COG,SYR,9
+2017,Dem. Rep. of the Congo,Syria,COD,SYR,8
+2017,Colombia,Syria,COL,SYR,8
+2017,Costa Rica,Syria,CRI,SYR,9
+2017,Cuba,Syria,CUB,SYR,43
+2017,Cyprus,Syria,CYP,SYR,5274
+2017,Czechia,Syria,CZE,SYR,365
+2017,Denmark,Syria,DNK,SYR,19221
+2017,Djibouti,Syria,DJI,SYR,9
+2017,Ecuador,Syria,ECU,SYR,39
+2017,Estonia,Syria,EST,SYR,151
+2017,Ethiopia,Syria,ETH,SYR,9
+2017,Finland,Syria,FIN,SYR,2370
+2017,France,Syria,FRA,SYR,12520
+2017,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,9100
+2017,Georgia,Syria,GEO,SYR,445
+2017,Germany,Syria,DEU,SYR,496674
+2017,Ghana,Syria,GHA,SYR,39
+2017,Greece,Syria,GRC,SYR,13714
+2017,Croatia,Syria,HRV,SYR,194
+2017,Hungary,Syria,HUN,SYR,925
+2017,Iceland,Syria,ISL,SYR,58
+2017,Cote d'Ivoire,Syria,CIV,SYR,12
+2017,India,Syria,IND,SYR,87
+2017,Indonesia,Syria,IDN,SYR,35
+2017,Ireland,Syria,IRL,SYR,718
+2017,Iraq,Syria,IRQ,SYR,247057
+2017,Italy,Syria,ITA,SYR,3618
+2017,Jamaica,Syria,JAM,SYR,5
+2017,Jordan,Syria,JOR,SYR,653031
+2017,Japan,Syria,JPN,SYR,66
+2017,Kazakhstan,Syria,KAZ,SYR,17
+2017,Kyrgyzstan,Syria,KGZ,SYR,69
+2017,Rep. of Korea,Syria,KOR,SYR,1122
+2017,Kuwait,Syria,KWT,SYR,44
+2017,Liberia,Syria,LBR,SYR,7
+2017,Libya,Syria,LBY,SYR,257
+2017,Lebanon,Syria,LBN,SYR,992127
+2017,Liechtenstein,Syria,LIE,SYR,32
+2017,Sri Lanka,Syria,LKA,SYR,14
+2017,Lithuania,Syria,LTU,SYR,362
+2017,Luxembourg,Syria,LUX,SYR,686
+2017,Latvia,Syria,LVA,SYR,393
+2017,Mauritania,Syria,MRT,SYR,464
+2017,North Macedonia,Syria,MKD,SYR,15
+2017,Rep. of Moldova,Syria,MDA,SYR,204
+2017,Mexico,Syria,MEX,SYR,23
+2017,Mali,Syria,MLI,SYR,9
+2017,Malaysia,Syria,MYS,SYR,372
+2017,Morocco,Syria,MAR,SYR,2953
+2017,Malta,Syria,MLT,SYR,1289
+2017,Mauritius,Syria,MUS,SYR,5
+2017,Netherlands (Kingdom of the),Syria,NLD,SYR,30851
+2017,Niger,Syria,NER,SYR,7
+2017,Nigeria,Syria,NGA,SYR,154
+2017,Norway,Syria,NOR,SYR,13349
+2017,New Zealand,Syria,NZL,SYR,65
+2017,Oman,Syria,OMN,SYR,7
+2017,Pakistan,Syria,PAK,SYR,29
+2017,Paraguay,Syria,PRY,SYR,53
+2017,Peru,Syria,PER,SYR,38
+2017,Philippines,Syria,PHL,SYR,74
+2017,Poland,Syria,POL,SYR,512
+2017,Portugal,Syria,PRT,SYR,307
+2017,Qatar,Syria,QAT,SYR,34
+2017,Romania,Syria,ROU,SYR,2282
+2017,South Africa,Syria,ZAF,SYR,45
+2017,Russian Federation,Syria,RUS,SYR,1130
+2017,El Salvador,Syria,SLV,SYR,5
+2017,Saudi Arabia,Syria,SAU,SYR,14
+2017,Somalia,Syria,SOM,SYR,172
+2017,Spain,Syria,ESP,SYR,11752
+2017,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,73
+2017,Sudan,Syria,SDN,SYR,11240
+2017,Slovakia,Syria,SVK,SYR,17
+2017,Slovenia,Syria,SVN,SYR,215
+2017,Sweden,Syria,SWE,SYR,103614
+2017,Switzerland,Syria,CHE,SYR,13639
+2017,Thailand,Syria,THA,SYR,327
+2017,Trinidad and Tobago,Syria,TTO,SYR,53
+2017,Tunisia,Syria,TUN,SYR,603
+2017,Türkiye,Syria,TUR,SYR,3424237
+2017,United Arab Emirates,Syria,ARE,SYR,128
+2017,Uganda,Syria,UGA,SYR,7
+2017,Ukraine,Syria,UKR,SYR,483
+2017,Uruguay,Syria,URY,SYR,61
+2017,United States of America,Syria,USA,SYR,7282
+2017,Venezuela (Bolivarian Republic of),Syria,VEN,SYR,5
+2017,Yemen,Syria,YEM,SYR,3286
+2018,Albania,Syria,ALB,SYR,6
+2018,Algeria,Syria,DZA,SYR,14
+2018,Egypt,Syria,EGY,SYR,132871
+2018,Argentina,Syria,ARG,SYR,385
+2018,Armenia,Syria,ARM,SYR,14701
+2018,Australia,Syria,AUS,SYR,582
+2018,Austria,Syria,AUT,SYR,49179
+2018,Azerbaijan,Syria,AZE,SYR,15
+2018,Belgium,Syria,BEL,SYR,9080
+2018,Benin,Syria,BEN,SYR,12
+2018,Belarus,Syria,BLR,SYR,66
+2018,Bolivia (Plurinational State of),Syria,BOL,SYR,21
+2018,Brazil,Syria,BRA,SYR,3455
+2018,Bosnia and Herzegovina,Syria,BIH,SYR,15
+2018,Bulgaria,Syria,BGR,SYR,17161
+2018,Canada,Syria,CAN,SYR,3558
+2018,Chad,Syria,TCD,SYR,57
+2018,China,Syria,CHN,SYR,53
+2018,Chile,Syria,CHL,SYR,107
+2018,Cameroon,Syria,CMR,SYR,22
+2018,Congo,Syria,COG,SYR,12
+2018,Dem. Rep. of the Congo,Syria,COD,SYR,5
+2018,Colombia,Syria,COL,SYR,8
+2018,Costa Rica,Syria,CRI,SYR,9
+2018,Cuba,Syria,CUB,SYR,44
+2018,Cyprus,Syria,CYP,SYR,6259
+2018,Czechia,Syria,CZE,SYR,448
+2018,Denmark,Syria,DNK,SYR,19698
+2018,Djibouti,Syria,DJI,SYR,10
+2018,Ecuador,Syria,ECU,SYR,102
+2018,Estonia,Syria,EST,SYR,146
+2018,Ethiopia,Syria,ETH,SYR,9
+2018,Finland,Syria,FIN,SYR,2497
+2018,France,Syria,FRA,SYR,15822
+2018,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,9720
+2018,Georgia,Syria,GEO,SYR,428
+2018,Germany,Syria,DEU,SYR,532065
+2018,Ghana,Syria,GHA,SYR,157
+2018,Greece,Syria,GRC,SYR,23931
+2018,Guinea,Syria,GIN,SYR,5
+2018,Croatia,Syria,HRV,SYR,398
+2018,Hungary,Syria,HUN,SYR,971
+2018,Iceland,Syria,ISL,SYR,87
+2018,Cote d'Ivoire,Syria,CIV,SYR,92
+2018,India,Syria,IND,SYR,83
+2018,Indonesia,Syria,IDN,SYR,29
+2018,Ireland,Syria,IRL,SYR,2126
+2018,Iraq,Syria,IRQ,SYR,252526
+2018,Italy,Syria,ITA,SYR,4652
+2018,Jamaica,Syria,JAM,SYR,5
+2018,Jordan,Syria,JOR,SYR,676283
+2018,Japan,Syria,JPN,SYR,69
+2018,Kazakhstan,Syria,KAZ,SYR,15
+2018,Kyrgyzstan,Syria,KGZ,SYR,77
+2018,Rep. of Korea,Syria,KOR,SYR,1177
+2018,Kuwait,Syria,KWT,SYR,73
+2018,Liberia,Syria,LBR,SYR,10
+2018,Libya,Syria,LBY,SYR,552
+2018,Lebanon,Syria,LBN,SYR,944181
+2018,Liechtenstein,Syria,LIE,SYR,32
+2018,Sri Lanka,Syria,LKA,SYR,14
+2018,Lithuania,Syria,LTU,SYR,435
+2018,Luxembourg,Syria,LUX,SYR,686
+2018,Latvia,Syria,LVA,SYR,384
+2018,Mauritania,Syria,MRT,SYR,332
+2018,North Macedonia,Syria,MKD,SYR,17
+2018,Rep. of Moldova,Syria,MDA,SYR,213
+2018,Mexico,Syria,MEX,SYR,28
+2018,Mali,Syria,MLI,SYR,9
+2018,Malaysia,Syria,MYS,SYR,421
+2018,Montenegro,Syria,MNE,SYR,5
+2018,Morocco,Syria,MAR,SYR,3506
+2018,Malta,Syria,MLT,SYR,1497
+2018,Mauritius,Syria,MUS,SYR,5
+2018,Netherlands (Kingdom of the),Syria,NLD,SYR,32092
+2018,Niger,Syria,NER,SYR,11
+2018,Nigeria,Syria,NGA,SYR,224
+2018,Norway,Syria,NOR,SYR,13914
+2018,New Zealand,Syria,NZL,SYR,68
+2018,Oman,Syria,OMN,SYR,7
+2018,Pakistan,Syria,PAK,SYR,29
+2018,Paraguay,Syria,PRY,SYR,63
+2018,Peru,Syria,PER,SYR,44
+2018,Philippines,Syria,PHL,SYR,105
+2018,Poland,Syria,POL,SYR,531
+2018,Portugal,Syria,PRT,SYR,602
+2018,Qatar,Syria,QAT,SYR,34
+2018,Romania,Syria,ROU,SYR,2292
+2018,South Africa,Syria,ZAF,SYR,45
+2018,Russian Federation,Syria,RUS,SYR,828
+2018,El Salvador,Syria,SLV,SYR,5
+2018,Saudi Arabia,Syria,SAU,SYR,103
+2018,Somalia,Syria,SOM,SYR,206
+2018,Spain,Syria,ESP,SYR,13765
+2018,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,74
+2018,Sudan,Syria,SDN,SYR,93502
+2018,Slovakia,Syria,SVK,SYR,14
+2018,Slovenia,Syria,SVN,SYR,290
+2018,Sweden,Syria,SWE,SYR,109343
+2018,Switzerland,Syria,CHE,SYR,16565
+2018,Thailand,Syria,THA,SYR,276
+2018,Trinidad and Tobago,Syria,TTO,SYR,57
+2018,Tunisia,Syria,TUN,SYR,927
+2018,Türkiye,Syria,TUR,SYR,3622366
+2018,United Arab Emirates,Syria,ARE,SYR,287
+2018,Uganda,Syria,UGA,SYR,5
+2018,Ukraine,Syria,UKR,SYR,457
+2018,Uruguay,Syria,URY,SYR,61
+2018,United States of America,Syria,USA,SYR,7998
+2018,Venezuela (Bolivarian Republic of),Syria,VEN,SYR,5
+2018,Yemen,Syria,YEM,SYR,3446
+2018,Zambia,Syria,ZMB,SYR,8
+2019,Albania,Syria,ALB,SYR,13
+2019,Algeria,Syria,DZA,SYR,7757
+2019,Egypt,Syria,EGY,SYR,129210
+2019,Argentina,Syria,ARG,SYR,401
+2019,Armenia,Syria,ARM,SYR,14730
+2019,Australia,Syria,AUS,SYR,613
+2019,Austria,Syria,AUT,SYR,51955
+2019,Azerbaijan,Syria,AZE,SYR,20
+2019,Belgium,Syria,BEL,SYR,16604
+2019,Benin,Syria,BEN,SYR,12
+2019,Burkina Faso,Syria,BFA,SYR,5
+2019,Belarus,Syria,BLR,SYR,68
+2019,Bolivia (Plurinational State of),Syria,BOL,SYR,21
+2019,Brazil,Syria,BRA,SYR,3761
+2019,Bosnia and Herzegovina,Syria,BIH,SYR,21
+2019,Bulgaria,Syria,BGR,SYR,17551
+2019,Canada,Syria,CAN,SYR,5
+2019,Chad,Syria,TCD,SYR,35
+2019,China,Syria,CHN,SYR,50
+2019,Chile,Syria,CHL,SYR,112
+2019,Cameroon,Syria,CMR,SYR,24
+2019,Dem. Rep. of the Congo,Syria,COD,SYR,5
+2019,Colombia,Syria,COL,SYR,8
+2019,Costa Rica,Syria,CRI,SYR,5
+2019,Cuba,Syria,CUB,SYR,40
+2019,Cyprus,Syria,CYP,SYR,7372
+2019,Czechia,Syria,CZE,SYR,408
+2019,Denmark,Syria,DNK,SYR,20046
+2019,Djibouti,Syria,DJI,SYR,10
+2019,Ecuador,Syria,ECU,SYR,146
+2019,Estonia,Syria,EST,SYR,127
+2019,Finland,Syria,FIN,SYR,2585
+2019,France,Syria,FRA,SYR,18244
+2019,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,10389
+2019,Georgia,Syria,GEO,SYR,91
+2019,Germany,Syria,DEU,SYR,572818
+2019,Ghana,Syria,GHA,SYR,167
+2019,Greece,Syria,GRC,SYR,26696
+2019,Guinea,Syria,GIN,SYR,14
+2019,Croatia,Syria,HRV,SYR,527
+2019,Hungary,Syria,HUN,SYR,934
+2019,Iceland,Syria,ISL,SYR,109
+2019,Cote d'Ivoire,Syria,CIV,SYR,132
+2019,India,Syria,IND,SYR,70
+2019,Indonesia,Syria,IDN,SYR,23
+2019,Ireland,Syria,IRL,SYR,2882
+2019,Iraq,Syria,IRQ,SYR,245810
+2019,Italy,Syria,ITA,SYR,4781
+2019,Jordan,Syria,JOR,SYR,654692
+2019,Japan,Syria,JPN,SYR,69
+2019,Kazakhstan,Syria,KAZ,SYR,14
+2019,Kenya,Syria,KEN,SYR,5
+2019,Kyrgyzstan,Syria,KGZ,SYR,86
+2019,Rep. of Korea,Syria,KOR,SYR,1199
+2019,Kuwait,Syria,KWT,SYR,106
+2019,Liberia,Syria,LBR,SYR,11
+2019,Libya,Syria,LBY,SYR,612
+2019,Lebanon,Syria,LBN,SYR,910586
+2019,Liechtenstein,Syria,LIE,SYR,32
+2019,Sri Lanka,Syria,LKA,SYR,5
+2019,Lithuania,Syria,LTU,SYR,453
+2019,Luxembourg,Syria,LUX,SYR,951
+2019,Latvia,Syria,LVA,SYR,354
+2019,Madagascar,Syria,MDG,SYR,5
+2019,Mauritania,Syria,MRT,SYR,355
+2019,North Macedonia,Syria,MKD,SYR,17
+2019,Rep. of Moldova,Syria,MDA,SYR,210
+2019,Mexico,Syria,MEX,SYR,29
+2019,Mali,Syria,MLI,SYR,20
+2019,Malaysia,Syria,MYS,SYR,425
+2019,Morocco,Syria,MAR,SYR,3676
+2019,Malta,Syria,MLT,SYR,1706
+2019,Netherlands (Kingdom of the),Syria,NLD,SYR,31694
+2019,Niger,Syria,NER,SYR,7
+2019,Nigeria,Syria,NGA,SYR,263
+2019,Norway,Syria,NOR,SYR,14359
+2019,New Zealand,Syria,NZL,SYR,69
+2019,Oman,Syria,OMN,SYR,8
+2019,Pakistan,Syria,PAK,SYR,43
+2019,Paraguay,Syria,PRY,SYR,88
+2019,Peru,Syria,PER,SYR,42
+2019,Philippines,Syria,PHL,SYR,115
+2019,Poland,Syria,POL,SYR,542
+2019,Portugal,Syria,PRT,SYR,768
+2019,Qatar,Syria,QAT,SYR,34
+2019,Romania,Syria,ROU,SYR,2090
+2019,South Africa,Syria,ZAF,SYR,40
+2019,Russian Federation,Syria,RUS,SYR,593
+2019,El Salvador,Syria,SLV,SYR,5
+2019,Saudi Arabia,Syria,SAU,SYR,152
+2019,Somalia,Syria,SOM,SYR,245
+2019,Spain,Syria,ESP,SYR,14133
+2019,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,25
+2019,Sudan,Syria,SDN,SYR,93495
+2019,Slovakia,Syria,SVK,SYR,14
+2019,Slovenia,Syria,SVN,SYR,307
+2019,Sweden,Syria,SWE,SYR,113418
+2019,Switzerland,Syria,CHE,SYR,18755
+2019,United Rep. of Tanzania,Syria,TZA,SYR,5
+2019,Thailand,Syria,THA,SYR,217
+2019,Togo,Syria,TGO,SYR,6
+2019,Trinidad and Tobago,Syria,TTO,SYR,58
+2019,Tunisia,Syria,TUN,SYR,1382
+2019,Türkiye,Syria,TUR,SYR,3576370
+2019,United Arab Emirates,Syria,ARE,SYR,333
+2019,Uganda,Syria,UGA,SYR,6
+2019,Ukraine,Syria,UKR,SYR,462
+2019,Uruguay,Syria,URY,SYR,61
+2019,United States of America,Syria,USA,SYR,8449
+2019,Venezuela (Bolivarian Republic of),Syria,VEN,SYR,5
+2019,Yemen,Syria,YEM,SYR,3551
+2019,Zambia,Syria,ZMB,SYR,15
+2020,Albania,Syria,ALB,SYR,9
+2020,Algeria,Syria,DZA,SYR,6627
+2020,Egypt,Syria,EGY,SYR,130577
+2020,Argentina,Syria,ARG,SYR,407
+2020,Armenia,Syria,ARM,SYR,14741
+2020,Australia,Syria,AUS,SYR,645
+2020,Austria,Syria,AUT,SYR,54903
+2020,Azerbaijan,Syria,AZE,SYR,34
+2020,Belgium,Syria,BEL,SYR,17693
+2020,Benin,Syria,BEN,SYR,22
+2020,Burkina Faso,Syria,BFA,SYR,5
+2020,Belarus,Syria,BLR,SYR,64
+2020,Bolivia (Plurinational State of),Syria,BOL,SYR,22
+2020,Brazil,Syria,BRA,SYR,3924
+2020,Bosnia and Herzegovina,Syria,BIH,SYR,22
+2020,Bulgaria,Syria,BGR,SYR,18310
+2020,Canada,Syria,CAN,SYR,131
+2020,Chad,Syria,TCD,SYR,32
+2020,China,Syria,CHN,SYR,41
+2020,Chile,Syria,CHL,SYR,113
+2020,Cameroon,Syria,CMR,SYR,24
+2020,Congo,Syria,COG,SYR,5
+2020,Dem. Rep. of the Congo,Syria,COD,SYR,8
+2020,Colombia,Syria,COL,SYR,8
+2020,Costa Rica,Syria,CRI,SYR,5
+2020,Cuba,Syria,CUB,SYR,40
+2020,Cyprus,Syria,CYP,SYR,8797
+2020,Czechia,Syria,CZE,SYR,386
+2020,Denmark,Syria,DNK,SYR,19878
+2020,Djibouti,Syria,DJI,SYR,10
+2020,Ecuador,Syria,ECU,SYR,142
+2020,Estonia,Syria,EST,SYR,105
+2020,Ethiopia,Syria,ETH,SYR,6
+2020,Finland,Syria,FIN,SYR,2620
+2020,France,Syria,FRA,SYR,21849
+2020,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,10919
+2020,Georgia,Syria,GEO,SYR,437
+2020,Germany,Syria,DEU,SYR,605338
+2020,Ghana,Syria,GHA,SYR,230
+2020,Greece,Syria,GRC,SYR,36448
+2020,Guinea,Syria,GIN,SYR,17
+2020,Croatia,Syria,HRV,SYR,539
+2020,Hungary,Syria,HUN,SYR,923
+2020,Iceland,Syria,ISL,SYR,167
+2020,Cote d'Ivoire,Syria,CIV,SYR,142
+2020,India,Syria,IND,SYR,63
+2020,Indonesia,Syria,IDN,SYR,23
+2020,Ireland,Syria,IRL,SYR,3126
+2020,Iraq,Syria,IRQ,SYR,242163
+2020,Italy,Syria,ITA,SYR,3508
+2020,Jordan,Syria,JOR,SYR,662790
+2020,Japan,Syria,JPN,SYR,73
+2020,Kazakhstan,Syria,KAZ,SYR,14
+2020,Kenya,Syria,KEN,SYR,5
+2020,Kyrgyzstan,Syria,KGZ,SYR,78
+2020,Rep. of Korea,Syria,KOR,SYR,1236
+2020,Kuwait,Syria,KWT,SYR,139
+2020,Liberia,Syria,LBR,SYR,12
+2020,Libya,Syria,LBY,SYR,717
+2020,Lebanon,Syria,LBN,SYR,865300
+2020,Liechtenstein,Syria,LIE,SYR,32
+2020,Sri Lanka,Syria,LKA,SYR,5
+2020,Lithuania,Syria,LTU,SYR,463
+2020,Luxembourg,Syria,LUX,SYR,2069
+2020,Latvia,Syria,LVA,SYR,314
+2020,Madagascar,Syria,MDG,SYR,5
+2020,Mauritania,Syria,MRT,SYR,364
+2020,North Macedonia,Syria,MKD,SYR,17
+2020,Rep. of Moldova,Syria,MDA,SYR,190
+2020,Mexico,Syria,MEX,SYR,30
+2020,Mali,Syria,MLI,SYR,20
+2020,Malaysia,Syria,MYS,SYR,407
+2020,Morocco,Syria,MAR,SYR,4528
+2020,Malta,Syria,MLT,SYR,1871
+2020,Netherlands (Kingdom of the),Syria,NLD,SYR,35810
+2020,Niger,Syria,NER,SYR,5
+2020,Nigeria,Syria,NGA,SYR,308
+2020,Norway,Syria,NOR,SYR,15311
+2020,New Zealand,Syria,NZL,SYR,72
+2020,Oman,Syria,OMN,SYR,8
+2020,Pakistan,Syria,PAK,SYR,43
+2020,Paraguay,Syria,PRY,SYR,88
+2020,Peru,Syria,PER,SYR,42
+2020,Philippines,Syria,PHL,SYR,134
+2020,Poland,Syria,POL,SYR,237
+2020,Portugal,Syria,PRT,SYR,789
+2020,Qatar,Syria,QAT,SYR,34
+2020,Romania,Syria,ROU,SYR,2002
+2020,South Africa,Syria,ZAF,SYR,38
+2020,Russian Federation,Syria,RUS,SYR,361
+2020,El Salvador,Syria,SLV,SYR,5
+2020,Saudi Arabia,Syria,SAU,SYR,173
+2020,Somalia,Syria,SOM,SYR,603
+2020,Spain,Syria,ESP,SYR,14660
+2020,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,31
+2020,Sudan,Syria,SDN,SYR,93498
+2020,Slovakia,Syria,SVK,SYR,21
+2020,Slovenia,Syria,SVN,SYR,322
+2020,Sweden,Syria,SWE,SYR,114609
+2020,Switzerland,Syria,CHE,SYR,19869
+2020,United Rep. of Tanzania,Syria,TZA,SYR,5
+2020,Thailand,Syria,THA,SYR,226
+2020,Togo,Syria,TGO,SYR,16
+2020,Trinidad and Tobago,Syria,TTO,SYR,66
+2020,Tunisia,Syria,TUN,SYR,1997
+2020,Türkiye,Syria,TUR,SYR,3641370
+2020,United Arab Emirates,Syria,ARE,SYR,383
+2020,Uganda,Syria,UGA,SYR,16
+2020,Ukraine,Syria,UKR,SYR,491
+2020,Uruguay,Syria,URY,SYR,63
+2020,United States of America,Syria,USA,SYR,8616
+2020,Venezuela (Bolivarian Republic of),Syria,VEN,SYR,32
+2020,Yemen,Syria,YEM,SYR,3609
+2020,Zambia,Syria,ZMB,SYR,20
+2021,Albania,Syria,ALB,SYR,15
+2021,Algeria,Syria,DZA,SYR,6659
+2021,Egypt,Syria,EGY,SYR,136727
+2021,Argentina,Syria,ARG,SYR,433
+2021,Armenia,Syria,ARM,SYR,5335
+2021,Australia,Syria,AUS,SYR,640
+2021,Austria,Syria,AUT,SYR,62408
+2021,Azerbaijan,Syria,AZE,SYR,33
+2021,Bahrain,Syria,BHR,SYR,5
+2021,Belgium,Syria,BEL,SYR,19188
+2021,Benin,Syria,BEN,SYR,32
+2021,Burkina Faso,Syria,BFA,SYR,5
+2021,Belarus,Syria,BLR,SYR,68
+2021,Bolivia (Plurinational State of),Syria,BOL,SYR,22
+2021,Brazil,Syria,BRA,SYR,3920
+2021,Bosnia and Herzegovina,Syria,BIH,SYR,28
+2021,Bulgaria,Syria,BGR,SYR,20067
+2021,Canada,Syria,CAN,SYR,190
+2021,Chad,Syria,TCD,SYR,48
+2021,China,Syria,CHN,SYR,43
+2021,Chile,Syria,CHL,SYR,113
+2021,Cameroon,Syria,CMR,SYR,5
+2021,Congo,Syria,COG,SYR,5
+2021,Dem. Rep. of the Congo,Syria,COD,SYR,12
+2021,Colombia,Syria,COL,SYR,11
+2021,Costa Rica,Syria,CRI,SYR,5
+2021,Cuba,Syria,CUB,SYR,36
+2021,Cyprus,Syria,CYP,SYR,10735
+2021,Czechia,Syria,CZE,SYR,358
+2021,Denmark,Syria,DNK,SYR,19706
+2021,Djibouti,Syria,DJI,SYR,14
+2021,Ecuador,Syria,ECU,SYR,157
+2021,Estonia,Syria,EST,SYR,105
+2021,Ethiopia,Syria,ETH,SYR,38
+2021,Finland,Syria,FIN,SYR,2660
+2021,France,Syria,FRA,SYR,37375
+2021,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,11980
+2021,Georgia,Syria,GEO,SYR,444
+2021,Germany,Syria,DEU,SYR,621740
+2021,Ghana,Syria,GHA,SYR,229
+2021,Greece,Syria,GRC,SYR,39372
+2021,Guinea,Syria,GIN,SYR,14
+2021,Croatia,Syria,HRV,SYR,548
+2021,Hungary,Syria,HUN,SYR,869
+2021,Iceland,Syria,ISL,SYR,195
+2021,Cote d'Ivoire,Syria,CIV,SYR,148
+2021,India,Syria,IND,SYR,69
+2021,Indonesia,Syria,IDN,SYR,20
+2021,Ireland,Syria,IRL,SYR,2832
+2021,Iraq,Syria,IRQ,SYR,254561
+2021,Italy,Syria,ITA,SYR,3527
+2021,Jordan,Syria,JOR,SYR,672952
+2021,Japan,Syria,JPN,SYR,93
+2021,Kazakhstan,Syria,KAZ,SYR,14
+2021,Kenya,Syria,KEN,SYR,5
+2021,Kyrgyzstan,Syria,KGZ,SYR,75
+2021,Rep. of Korea,Syria,KOR,SYR,1250
+2021,Kuwait,Syria,KWT,SYR,150
+2021,Liberia,Syria,LBR,SYR,27
+2021,Libya,Syria,LBY,SYR,492
+2021,Lebanon,Syria,LBN,SYR,840929
+2021,Liechtenstein,Syria,LIE,SYR,32
+2021,Lithuania,Syria,LTU,SYR,463
+2021,Luxembourg,Syria,LUX,SYR,2409
+2021,Latvia,Syria,LVA,SYR,312
+2021,Madagascar,Syria,MDG,SYR,5
+2021,Mauritania,Syria,MRT,SYR,368
+2021,North Macedonia,Syria,MKD,SYR,17
+2021,Monaco,Syria,MCO,SYR,5
+2021,Rep. of Moldova,Syria,MDA,SYR,166
+2021,Mexico,Syria,MEX,SYR,34
+2021,Mali,Syria,MLI,SYR,24
+2021,Malaysia,Syria,MYS,SYR,449
+2021,Morocco,Syria,MAR,SYR,5082
+2021,Malta,Syria,MLT,SYR,1918
+2021,Netherlands (Kingdom of the),Syria,NLD,SYR,39388
+2021,Niger,Syria,NER,SYR,5
+2021,Nigeria,Syria,NGA,SYR,422
+2021,Norway,Syria,NOR,SYR,15865
+2021,New Zealand,Syria,NZL,SYR,72
+2021,Oman,Syria,OMN,SYR,8
+2021,Pakistan,Syria,PAK,SYR,50
+2021,Paraguay,Syria,PRY,SYR,84
+2021,Peru,Syria,PER,SYR,47
+2021,Philippines,Syria,PHL,SYR,130
+2021,Poland,Syria,POL,SYR,254
+2021,Portugal,Syria,PRT,SYR,861
+2021,Qatar,Syria,QAT,SYR,30
+2021,Romania,Syria,ROU,SYR,2258
+2021,South Africa,Syria,ZAF,SYR,38
+2021,Russian Federation,Syria,RUS,SYR,297
+2021,El Salvador,Syria,SLV,SYR,5
+2021,Saudi Arabia,Syria,SAU,SYR,186
+2021,Somalia,Syria,SOM,SYR,991
+2021,Spain,Syria,ESP,SYR,14987
+2021,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,45
+2021,Sudan,Syria,SDN,SYR,93482
+2021,Slovakia,Syria,SVK,SYR,25
+2021,Slovenia,Syria,SVN,SYR,326
+2021,Sweden,Syria,SWE,SYR,115233
+2021,Switzerland,Syria,CHE,SYR,20146
+2021,United Rep. of Tanzania,Syria,TZA,SYR,5
+2021,Thailand,Syria,THA,SYR,215
+2021,Togo,Syria,TGO,SYR,18
+2021,Trinidad and Tobago,Syria,TTO,SYR,64
+2021,Tunisia,Syria,TUN,SYR,2523
+2021,Türkiye,Syria,TUR,SYR,3737369
+2021,United Arab Emirates,Syria,ARE,SYR,439
+2021,Uganda,Syria,UGA,SYR,18
+2021,Ukraine,Syria,UKR,SYR,512
+2021,Uruguay,Syria,URY,SYR,66
+2021,United States of America,Syria,USA,SYR,8799
+2021,Venezuela (Bolivarian Republic of),Syria,VEN,SYR,33
+2021,Yemen,Syria,YEM,SYR,2513
+2021,Zambia,Syria,ZMB,SYR,36
+2023,Albania,Syria,ALB,SYR,21
+2023,Algeria,Syria,DZA,SYR,7706
+2023,Egypt,Syria,EGY,SYR,153756
+2023,Argentina,Syria,ARG,SYR,402
+2023,Armenia,Syria,ARM,SYR,4906
+2023,Australia,Syria,AUS,SYR,154
+2023,Austria,Syria,AUT,SYR,87167
+2023,Azerbaijan,Syria,AZE,SYR,34
+2023,Bahrain,Syria,BHR,SYR,5
+2023,Belgium,Syria,BEL,SYR,18909
+2023,Benin,Syria,BEN,SYR,42
+2023,Belarus,Syria,BLR,SYR,27
+2023,Bolivia (Plurinational State of),Syria,BOL,SYR,22
+2023,Brazil,Syria,BRA,SYR,5982
+2023,Bosnia and Herzegovina,Syria,BIH,SYR,27
+2023,Bulgaria,Syria,BGR,SYR,27366
+2023,Canada,Syria,CAN,SYR,912
+2023,Chad,Syria,TCD,SYR,53
+2023,China,Syria,CHN,SYR,23
+2023,Chile,Syria,CHL,SYR,113
+2023,Cameroon,Syria,CMR,SYR,16
+2023,Congo,Syria,COG,SYR,18
+2023,Dem. Rep. of the Congo,Syria,COD,SYR,15
+2023,Colombia,Syria,COL,SYR,13
+2023,Costa Rica,Syria,CRI,SYR,6
+2023,Cuba,Syria,CUB,SYR,29
+2023,Cyprus,Syria,CYP,SYR,13062
+2023,Czechia,Syria,CZE,SYR,318
+2023,Denmark,Syria,DNK,SYR,18039
+2023,Djibouti,Syria,DJI,SYR,11
+2023,Ecuador,Syria,ECU,SYR,157
+2023,Estonia,Syria,EST,SYR,87
+2023,Ethiopia,Syria,ETH,SYR,110
+2023,Finland,Syria,FIN,SYR,2702
+2023,France,Syria,FRA,SYR,43589
+2023,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,17677
+2023,Georgia,Syria,GEO,SYR,465
+2023,Germany,Syria,DEU,SYR,705812
+2023,Ghana,Syria,GHA,SYR,272
+2023,Greece,Syria,GRC,SYR,45878
+2023,Guinea,Syria,GIN,SYR,14
+2023,Croatia,Syria,HRV,SYR,551
+2023,Hungary,Syria,HUN,SYR,805
+2023,Iceland,Syria,ISL,SYR,287
+2023,Cote d'Ivoire,Syria,CIV,SYR,164
+2023,India,Syria,IND,SYR,56
+2023,Indonesia,Syria,IDN,SYR,15
+2023,Ireland,Syria,IRL,SYR,2097
+2023,Iraq,Syria,IRQ,SYR,271997
+2023,Italy,Syria,ITA,SYR,3603
+2023,Jordan,Syria,JOR,SYR,649091
+2023,Japan,Syria,JPN,SYR,385
+2023,Kazakhstan,Syria,KAZ,SYR,12
+2023,Kenya,Syria,KEN,SYR,5
+2023,Kyrgyzstan,Syria,KGZ,SYR,50
+2023,Rep. of Korea,Syria,KOR,SYR,1273
+2023,Kuwait,Syria,KWT,SYR,174
+2023,Liberia,Syria,LBR,SYR,67
+2023,Libya,Syria,LBY,SYR,359
+2023,Lebanon,Syria,LBN,SYR,784884
+2023,Lithuania,Syria,LTU,SYR,496
+2023,Luxembourg,Syria,LUX,SYR,3367
+2023,Latvia,Syria,LVA,SYR,299
+2023,Madagascar,Syria,MDG,SYR,5
+2023,Mauritania,Syria,MRT,SYR,413
+2023,Monaco,Syria,MCO,SYR,5
+2023,Rep. of Moldova,Syria,MDA,SYR,200
+2023,Mexico,Syria,MEX,SYR,42
+2023,Mali,Syria,MLI,SYR,24
+2023,Malaysia,Syria,MYS,SYR,394
+2023,Morocco,Syria,MAR,SYR,5777
+2023,Malta,Syria,MLT,SYR,2191
+2023,Netherlands (Kingdom of the),Syria,NLD,SYR,58378
+2023,Niger,Syria,NER,SYR,5
+2023,Nigeria,Syria,NGA,SYR,433
+2023,Norway,Syria,NOR,SYR,15978
+2023,New Zealand,Syria,NZL,SYR,55
+2023,Oman,Syria,OMN,SYR,8
+2023,Pakistan,Syria,PAK,SYR,53
+2023,Panama,Syria,PAN,SYR,5
+2023,Paraguay,Syria,PRY,SYR,79
+2023,Peru,Syria,PER,SYR,46
+2023,Philippines,Syria,PHL,SYR,154
+2023,Poland,Syria,POL,SYR,298
+2023,Portugal,Syria,PRT,SYR,951
+2023,Qatar,Syria,QAT,SYR,26
+2023,Romania,Syria,ROU,SYR,2379
+2023,South Africa,Syria,ZAF,SYR,39
+2023,Russian Federation,Syria,RUS,SYR,136
+2023,Rwanda,Syria,RWA,SYR,5
+2023,Saudi Arabia,Syria,SAU,SYR,317
+2023,Somalia,Syria,SOM,SYR,1367
+2023,Spain,Syria,ESP,SYR,17258
+2023,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,48
+2023,Sudan,Syria,SDN,SYR,26582
+2023,Slovakia,Syria,SVK,SYR,60
+2023,Slovenia,Syria,SVN,SYR,368
+2023,Sweden,Syria,SWE,SYR,94873
+2023,Switzerland,Syria,CHE,SYR,20444
+2023,United Rep. of Tanzania,Syria,TZA,SYR,11
+2023,Thailand,Syria,THA,SYR,165
+2023,Togo,Syria,TGO,SYR,5
+2023,Trinidad and Tobago,Syria,TTO,SYR,42
+2023,Tunisia,Syria,TUN,SYR,3119
+2023,Türkiye,Syria,TUR,SYR,3214780
+2023,United Arab Emirates,Syria,ARE,SYR,526
+2023,Uganda,Syria,UGA,SYR,25
+2023,Ukraine,Syria,UKR,SYR,512
+2023,Uruguay,Syria,URY,SYR,66
+2023,United States of America,Syria,USA,SYR,8627
+2023,Venezuela (Bolivarian Republic of),Syria,VEN,SYR,33
+2023,Yemen,Syria,YEM,SYR,2482
+2023,Zambia,Syria,ZMB,SYR,45
+2022,Albania,Syria,ALB,SYR,23
+2022,Algeria,Syria,DZA,SYR,7803
+2022,Egypt,Syria,EGY,SYR,145658
+2022,Argentina,Syria,ARG,SYR,450
+2022,Armenia,Syria,ARM,SYR,4888
+2022,Australia,Syria,AUS,SYR,536
+2022,Austria,Syria,AUT,SYR,73923
+2022,Azerbaijan,Syria,AZE,SYR,35
+2022,Bahrain,Syria,BHR,SYR,5
+2022,Belgium,Syria,BEL,SYR,17808
+2022,Benin,Syria,BEN,SYR,41
+2022,Belarus,Syria,BLR,SYR,49
+2022,Bolivia (Plurinational State of),Syria,BOL,SYR,22
+2022,Brazil,Syria,BRA,SYR,3969
+2022,Bosnia and Herzegovina,Syria,BIH,SYR,25
+2022,Bulgaria,Syria,BGR,SYR,23726
+2022,Canada,Syria,CAN,SYR,512
+2022,Chad,Syria,TCD,SYR,50
+2022,China,Syria,CHN,SYR,37
+2022,Chile,Syria,CHL,SYR,113
+2022,Cameroon,Syria,CMR,SYR,5
+2022,Congo,Syria,COG,SYR,9
+2022,Dem. Rep. of the Congo,Syria,COD,SYR,12
+2022,Colombia,Syria,COL,SYR,13
+2022,Costa Rica,Syria,CRI,SYR,6
+2022,Cuba,Syria,CUB,SYR,27
+2022,Cyprus,Syria,CYP,SYR,10902
+2022,Czechia,Syria,CZE,SYR,341
+2022,Denmark,Syria,DNK,SYR,19153
+2022,Djibouti,Syria,DJI,SYR,10
+2022,Dominican Rep.,Syria,DOM,SYR,5
+2022,Ecuador,Syria,ECU,SYR,153
+2022,Estonia,Syria,EST,SYR,107
+2022,Ethiopia,Syria,ETH,SYR,69
+2022,Finland,Syria,FIN,SYR,2594
+2022,France,Syria,FRA,SYR,40339
+2022,United Kingdom of Great Britain and Northern Ireland,Syria,GBR,SYR,12682
+2022,Georgia,Syria,GEO,SYR,448
+2022,Germany,Syria,DEU,SYR,522575
+2022,Ghana,Syria,GHA,SYR,243
+2022,Greece,Syria,GRC,SYR,42827
+2022,Guinea,Syria,GIN,SYR,14
+2022,Croatia,Syria,HRV,SYR,550
+2022,Hungary,Syria,HUN,SYR,819
+2022,Iceland,Syria,ISL,SYR,256
+2022,Cote d'Ivoire,Syria,CIV,SYR,148
+2022,India,Syria,IND,SYR,71
+2022,Indonesia,Syria,IDN,SYR,19
+2022,Ireland,Syria,IRL,SYR,2520
+2022,Iraq,Syria,IRQ,SYR,257439
+2022,Italy,Syria,ITA,SYR,3578
+2022,Jordan,Syria,JOR,SYR,660892
+2022,Japan,Syria,JPN,SYR,309
+2022,Kazakhstan,Syria,KAZ,SYR,13
+2022,Kenya,Syria,KEN,SYR,5
+2022,Kyrgyzstan,Syria,KGZ,SYR,61
+2022,Rep. of Korea,Syria,KOR,SYR,1261
+2022,Kuwait,Syria,KWT,SYR,165
+2022,Liberia,Syria,LBR,SYR,40
+2022,Libya,Syria,LBY,SYR,424
+2022,Lebanon,Syria,LBN,SYR,814715
+2022,Liechtenstein,Syria,LIE,SYR,34
+2022,Lithuania,Syria,LTU,SYR,488
+2022,Luxembourg,Syria,LUX,SYR,2912
+2022,Latvia,Syria,LVA,SYR,318
+2022,Madagascar,Syria,MDG,SYR,5
+2022,Mauritania,Syria,MRT,SYR,378
+2022,Monaco,Syria,MCO,SYR,5
+2022,Rep. of Moldova,Syria,MDA,SYR,203
+2022,Mexico,Syria,MEX,SYR,38
+2022,Mali,Syria,MLI,SYR,24
+2022,Malaysia,Syria,MYS,SYR,409
+2022,Morocco,Syria,MAR,SYR,5511
+2022,Malta,Syria,MLT,SYR,1988
+2022,Netherlands (Kingdom of the),Syria,NLD,SYR,56580
+2022,Niger,Syria,NER,SYR,5
+2022,Nigeria,Syria,NGA,SYR,515
+2022,Norway,Syria,NOR,SYR,15964
+2022,New Zealand,Syria,NZL,SYR,60
+2022,Oman,Syria,OMN,SYR,8
+2022,Pakistan,Syria,PAK,SYR,50
+2022,Panama,Syria,PAN,SYR,5
+2022,Paraguay,Syria,PRY,SYR,79
+2022,Peru,Syria,PER,SYR,47
+2022,Philippines,Syria,PHL,SYR,141
+2022,Poland,Syria,POL,SYR,280
+2022,Portugal,Syria,PRT,SYR,918
+2022,Qatar,Syria,QAT,SYR,30
+2022,Romania,Syria,ROU,SYR,2332
+2022,South Africa,Syria,ZAF,SYR,36
+2022,Russian Federation,Syria,RUS,SYR,194
+2022,Rwanda,Syria,RWA,SYR,5
+2022,Saudi Arabia,Syria,SAU,SYR,293
+2022,Somalia,Syria,SOM,SYR,1121
+2022,Spain,Syria,ESP,SYR,16670
+2022,Serbia and Kosovo: S/RES/1244 (1999),Syria,SRB,SYR,47
+2022,Sudan,Syria,SDN,SYR,93478
+2022,Slovakia,Syria,SVK,SYR,55
+2022,Slovenia,Syria,SVN,SYR,340
+2022,Sweden,Syria,SWE,SYR,111199
+2022,Switzerland,Syria,CHE,SYR,20330
+2022,United Rep. of Tanzania,Syria,TZA,SYR,10
+2022,Thailand,Syria,THA,SYR,208
+2022,Togo,Syria,TGO,SYR,19
+2022,Trinidad and Tobago,Syria,TTO,SYR,50
+2022,Tunisia,Syria,TUN,SYR,2497
+2022,Türkiye,Syria,TUR,SYR,3535898
+2022,United Arab Emirates,Syria,ARE,SYR,475
+2022,Uganda,Syria,UGA,SYR,28
+2022,Ukraine,Syria,UKR,SYR,517
+2022,Uruguay,Syria,URY,SYR,66
+2022,United States of America,Syria,USA,SYR,8807
+2022,Venezuela (Bolivarian Republic of),Syria,VEN,SYR,33
+2022,Yemen,Syria,YEM,SYR,2520
+2022,Zambia,Syria,ZMB,SYR,21
+2010,Egypt,Yemen,EGY,YEM,205
+2010,Australia,Yemen,AUS,YEM,6
+2010,Austria,Yemen,AUT,YEM,9
+2010,Belgium,Yemen,BEL,YEM,5
+2010,Canada,Yemen,CAN,YEM,274
+2010,Cyprus,Yemen,CYP,YEM,5
+2010,Denmark,Yemen,DNK,YEM,5
+2010,Ethiopia,Yemen,ETH,YEM,12
+2010,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,150
+2010,Germany,Yemen,DEU,YEM,408
+2010,Ireland,Yemen,IRL,YEM,5
+2010,Italy,Yemen,ITA,YEM,5
+2010,Jordan,Yemen,JOR,YEM,5
+2010,Lebanon,Yemen,LBN,YEM,5
+2010,Malaysia,Yemen,MYS,YEM,9
+2010,Netherlands (Kingdom of the),Yemen,NLD,YEM,34
+2010,Norway,Yemen,NOR,YEM,108
+2010,South Africa,Yemen,ZAF,YEM,5
+2010,Somalia,Yemen,SOM,YEM,5
+2010,Sweden,Yemen,SWE,YEM,178
+2010,Switzerland,Yemen,CHE,YEM,246
+2010,Syrian Arab Rep.,Yemen,SYR,YEM,58
+2010,United States of America,Yemen,USA,YEM,328
+2011,Egypt,Yemen,EGY,YEM,205
+2011,Australia,Yemen,AUS,YEM,5
+2011,Austria,Yemen,AUT,YEM,10
+2011,Belgium,Yemen,BEL,YEM,5
+2011,Canada,Yemen,CAN,YEM,266
+2011,Cyprus,Yemen,CYP,YEM,5
+2011,Denmark,Yemen,DNK,YEM,5
+2011,Ethiopia,Yemen,ETH,YEM,22
+2011,Finland,Yemen,FIN,YEM,5
+2011,France,Yemen,FRA,YEM,11
+2011,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,183
+2011,Germany,Yemen,DEU,YEM,402
+2011,Ireland,Yemen,IRL,YEM,5
+2011,Italy,Yemen,ITA,YEM,13
+2011,Jordan,Yemen,JOR,YEM,5
+2011,Malaysia,Yemen,MYS,YEM,18
+2011,Netherlands (Kingdom of the),Yemen,NLD,YEM,38
+2011,Norway,Yemen,NOR,YEM,118
+2011,South Africa,Yemen,ZAF,YEM,5
+2011,Somalia,Yemen,SOM,YEM,5
+2011,Sweden,Yemen,SWE,YEM,325
+2011,Switzerland,Yemen,CHE,YEM,251
+2011,Syrian Arab Rep.,Yemen,SYR,YEM,68
+2011,Türkiye,Yemen,TUR,YEM,7
+2011,United States of America,Yemen,USA,YEM,339
+2012,Egypt,Yemen,EGY,YEM,207
+2012,Argentina,Yemen,ARG,YEM,15
+2012,Australia,Yemen,AUS,YEM,7
+2012,Austria,Yemen,AUT,YEM,12
+2012,Belgium,Yemen,BEL,YEM,5
+2012,Canada,Yemen,CAN,YEM,240
+2012,Cyprus,Yemen,CYP,YEM,5
+2012,Ethiopia,Yemen,ETH,YEM,43
+2012,Finland,Yemen,FIN,YEM,5
+2012,France,Yemen,FRA,YEM,17
+2012,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,209
+2012,Germany,Yemen,DEU,YEM,481
+2012,Ireland,Yemen,IRL,YEM,5
+2012,Italy,Yemen,ITA,YEM,13
+2012,Jordan,Yemen,JOR,YEM,8
+2012,Malaysia,Yemen,MYS,YEM,26
+2012,Netherlands (Kingdom of the),Yemen,NLD,YEM,43
+2012,Norway,Yemen,NOR,YEM,130
+2012,South Africa,Yemen,ZAF,YEM,5
+2012,Somalia,Yemen,SOM,YEM,5
+2012,Spain,Yemen,ESP,YEM,5
+2012,Sweden,Yemen,SWE,YEM,390
+2012,Switzerland,Yemen,CHE,YEM,268
+2012,Syrian Arab Rep.,Yemen,SYR,YEM,73
+2012,Thailand,Yemen,THA,YEM,5
+2012,Türkiye,Yemen,TUR,YEM,17
+2012,United States of America,Yemen,USA,YEM,343
+2013,Algeria,Yemen,DZA,YEM,5
+2013,Egypt,Yemen,EGY,YEM,216
+2013,Argentina,Yemen,ARG,YEM,15
+2013,Australia,Yemen,AUS,YEM,6
+2013,Austria,Yemen,AUT,YEM,14
+2013,Belgium,Yemen,BEL,YEM,6
+2013,Canada,Yemen,CAN,YEM,251
+2013,Cyprus,Yemen,CYP,YEM,5
+2013,Ethiopia,Yemen,ETH,YEM,58
+2013,Finland,Yemen,FIN,YEM,5
+2013,France,Yemen,FRA,YEM,20
+2013,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,224
+2013,Germany,Yemen,DEU,YEM,112
+2013,"China, Hong Kong SAR",Yemen,HKG,YEM,7
+2013,India,Yemen,IND,YEM,5
+2013,Ireland,Yemen,IRL,YEM,5
+2013,Italy,Yemen,ITA,YEM,19
+2013,Malaysia,Yemen,MYS,YEM,36
+2013,Netherlands (Kingdom of the),Yemen,NLD,YEM,56
+2013,Norway,Yemen,NOR,YEM,127
+2013,South Africa,Yemen,ZAF,YEM,5
+2013,Somalia,Yemen,SOM,YEM,5
+2013,Spain,Yemen,ESP,YEM,5
+2013,Sweden,Yemen,SWE,YEM,499
+2013,Switzerland,Yemen,CHE,YEM,252
+2013,Syrian Arab Rep.,Yemen,SYR,YEM,60
+2013,Thailand,Yemen,THA,YEM,5
+2013,Türkiye,Yemen,TUR,YEM,34
+2013,United States of America,Yemen,USA,YEM,356
+2014,Algeria,Yemen,DZA,YEM,5
+2014,Egypt,Yemen,EGY,YEM,198
+2014,Argentina,Yemen,ARG,YEM,15
+2014,Australia,Yemen,AUS,YEM,8
+2014,Austria,Yemen,AUT,YEM,17
+2014,Bahrain,Yemen,BHR,YEM,7
+2014,Belgium,Yemen,BEL,YEM,7
+2014,Canada,Yemen,CAN,YEM,239
+2014,Cyprus,Yemen,CYP,YEM,5
+2014,Ethiopia,Yemen,ETH,YEM,65
+2014,Finland,Yemen,FIN,YEM,5
+2014,France,Yemen,FRA,YEM,30
+2014,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,218
+2014,Germany,Yemen,DEU,YEM,109
+2014,Greece,Yemen,GRC,YEM,5
+2014,"China, Hong Kong SAR",Yemen,HKG,YEM,5
+2014,India,Yemen,IND,YEM,5
+2014,Indonesia,Yemen,IDN,YEM,5
+2014,Italy,Yemen,ITA,YEM,45
+2014,Jordan,Yemen,JOR,YEM,16
+2014,Rep. of Korea,Yemen,KOR,YEM,5
+2014,Malaysia,Yemen,MYS,YEM,45
+2014,Netherlands (Kingdom of the),Yemen,NLD,YEM,66
+2014,Norway,Yemen,NOR,YEM,133
+2014,Somalia,Yemen,SOM,YEM,5
+2014,Spain,Yemen,ESP,YEM,5
+2014,Slovenia,Yemen,SVN,YEM,5
+2014,Sweden,Yemen,SWE,YEM,536
+2014,Switzerland,Yemen,CHE,YEM,300
+2014,Syrian Arab Rep.,Yemen,SYR,YEM,59
+2014,Thailand,Yemen,THA,YEM,5
+2014,Türkiye,Yemen,TUR,YEM,40
+2014,United States of America,Yemen,USA,YEM,410
+2015,Algeria,Yemen,DZA,YEM,5
+2015,Egypt,Yemen,EGY,YEM,54
+2015,Argentina,Yemen,ARG,YEM,15
+2015,Armenia,Yemen,ARM,YEM,5
+2015,Australia,Yemen,AUS,YEM,13
+2015,Austria,Yemen,AUT,YEM,30
+2015,Azerbaijan,Yemen,AZE,YEM,5
+2015,Bahrain,Yemen,BHR,YEM,9
+2015,Belgium,Yemen,BEL,YEM,27
+2015,Belarus,Yemen,BLR,YEM,13
+2015,Canada,Yemen,CAN,YEM,215
+2015,Cuba,Yemen,CUB,YEM,11
+2015,Cyprus,Yemen,CYP,YEM,5
+2015,Denmark,Yemen,DNK,YEM,5
+2015,Djibouti,Yemen,DJI,YEM,6157
+2015,Ethiopia,Yemen,ETH,YEM,1088
+2015,Finland,Yemen,FIN,YEM,10
+2015,France,Yemen,FRA,YEM,63
+2015,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,292
+2015,Germany,Yemen,DEU,YEM,140
+2015,Greece,Yemen,GRC,YEM,6
+2015,Hungary,Yemen,HUN,YEM,10
+2015,Cote d'Ivoire,Yemen,CIV,YEM,5
+2015,India,Yemen,IND,YEM,5
+2015,Indonesia,Yemen,IDN,YEM,6
+2015,Ireland,Yemen,IRL,YEM,5
+2015,Italy,Yemen,ITA,YEM,58
+2015,Jordan,Yemen,JOR,YEM,47
+2015,Kenya,Yemen,KEN,YEM,5
+2015,Rep. of Korea,Yemen,KOR,YEM,5
+2015,Lebanon,Yemen,LBN,YEM,7
+2015,Rep. of Moldova,Yemen,MDA,YEM,5
+2015,Malaysia,Yemen,MYS,YEM,55
+2015,Morocco,Yemen,MAR,YEM,461
+2015,Netherlands (Kingdom of the),Yemen,NLD,YEM,74
+2015,Norway,Yemen,NOR,YEM,181
+2015,Poland,Yemen,POL,YEM,5
+2015,Russian Federation,Yemen,RUS,YEM,41
+2015,Saudi Arabia,Yemen,SAU,YEM,5
+2015,Somalia,Yemen,SOM,YEM,5183
+2015,Spain,Yemen,ESP,YEM,5
+2015,Sudan,Yemen,SDN,YEM,7
+2015,Slovenia,Yemen,SVN,YEM,5
+2015,Sweden,Yemen,SWE,YEM,610
+2015,Switzerland,Yemen,CHE,YEM,323
+2015,Syrian Arab Rep.,Yemen,SYR,YEM,52
+2015,Thailand,Yemen,THA,YEM,5
+2015,Türkiye,Yemen,TUR,YEM,101
+2015,Uganda,Yemen,UGA,YEM,5
+2015,United States of America,Yemen,USA,YEM,457
+2016,Algeria,Yemen,DZA,YEM,5
+2016,Egypt,Yemen,EGY,YEM,66
+2016,Argentina,Yemen,ARG,YEM,15
+2016,Armenia,Yemen,ARM,YEM,5
+2016,Australia,Yemen,AUS,YEM,18
+2016,Austria,Yemen,AUT,YEM,58
+2016,Azerbaijan,Yemen,AZE,YEM,5
+2016,Bahrain,Yemen,BHR,YEM,9
+2016,Belgium,Yemen,BEL,YEM,24
+2016,Belarus,Yemen,BLR,YEM,33
+2016,Bulgaria,Yemen,BGR,YEM,10
+2016,Canada,Yemen,CAN,YEM,390
+2016,Cuba,Yemen,CUB,YEM,12
+2016,Cyprus,Yemen,CYP,YEM,5
+2016,Denmark,Yemen,DNK,YEM,5
+2016,Djibouti,Yemen,DJI,YEM,3777
+2016,Estonia,Yemen,EST,YEM,5
+2016,Ethiopia,Yemen,ETH,YEM,1423
+2016,Finland,Yemen,FIN,YEM,94
+2016,France,Yemen,FRA,YEM,143
+2016,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,356
+2016,Germany,Yemen,DEU,YEM,291
+2016,Greece,Yemen,GRC,YEM,57
+2016,Hungary,Yemen,HUN,YEM,14
+2016,India,Yemen,IND,YEM,5
+2016,Indonesia,Yemen,IDN,YEM,11
+2016,Ireland,Yemen,IRL,YEM,5
+2016,Italy,Yemen,ITA,YEM,74
+2016,Jordan,Yemen,JOR,YEM,180
+2016,Kenya,Yemen,KEN,YEM,24
+2016,Rep. of Korea,Yemen,KOR,YEM,11
+2016,Lebanon,Yemen,LBN,YEM,14
+2016,Madagascar,Yemen,MDG,YEM,10
+2016,Mauritania,Yemen,MRT,YEM,5
+2016,Rep. of Moldova,Yemen,MDA,YEM,5
+2016,Malaysia,Yemen,MYS,YEM,51
+2016,Montenegro,Yemen,MNE,YEM,8
+2016,Morocco,Yemen,MAR,YEM,485
+2016,Netherlands (Kingdom of the),Yemen,NLD,YEM,79
+2016,Norway,Yemen,NOR,YEM,200
+2016,Pakistan,Yemen,PAK,YEM,24
+2016,Poland,Yemen,POL,YEM,5
+2016,Romania,Yemen,ROU,YEM,18
+2016,Russian Federation,Yemen,RUS,YEM,51
+2016,Saudi Arabia,Yemen,SAU,YEM,7
+2016,Somalia,Yemen,SOM,YEM,8297
+2016,Spain,Yemen,ESP,YEM,9
+2016,Slovenia,Yemen,SVN,YEM,5
+2016,Sweden,Yemen,SWE,YEM,929
+2016,Switzerland,Yemen,CHE,YEM,339
+2016,Syrian Arab Rep.,Yemen,SYR,YEM,40
+2016,Thailand,Yemen,THA,YEM,19
+2016,Türkiye,Yemen,TUR,YEM,156
+2016,Uganda,Yemen,UGA,YEM,27
+2016,Ukraine,Yemen,UKR,YEM,5
+2016,United States of America,Yemen,USA,YEM,509
+2017,Algeria,Yemen,DZA,YEM,5
+2017,Egypt,Yemen,EGY,YEM,85
+2017,Argentina,Yemen,ARG,YEM,15
+2017,Armenia,Yemen,ARM,YEM,5
+2017,Australia,Yemen,AUS,YEM,27
+2017,Austria,Yemen,AUT,YEM,163
+2017,Azerbaijan,Yemen,AZE,YEM,8
+2017,Bahrain,Yemen,BHR,YEM,9
+2017,Belgium,Yemen,BEL,YEM,24
+2017,Belarus,Yemen,BLR,YEM,42
+2017,Bulgaria,Yemen,BGR,YEM,11
+2017,Canada,Yemen,CAN,YEM,648
+2017,China,Yemen,CHN,YEM,7
+2017,Cuba,Yemen,CUB,YEM,17
+2017,Cyprus,Yemen,CYP,YEM,10
+2017,Denmark,Yemen,DNK,YEM,5
+2017,Djibouti,Yemen,DJI,YEM,3468
+2017,Ethiopia,Yemen,ETH,YEM,1578
+2017,Finland,Yemen,FIN,YEM,139
+2017,France,Yemen,FRA,YEM,218
+2017,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,453
+2017,Georgia,Yemen,GEO,YEM,5
+2017,Germany,Yemen,DEU,YEM,1171
+2017,Greece,Yemen,GRC,YEM,158
+2017,"China, Hong Kong SAR",Yemen,HKG,YEM,5
+2017,Croatia,Yemen,HRV,YEM,5
+2017,Hungary,Yemen,HUN,YEM,17
+2017,India,Yemen,IND,YEM,5
+2017,Indonesia,Yemen,IDN,YEM,76
+2017,Ireland,Yemen,IRL,YEM,5
+2017,Italy,Yemen,ITA,YEM,113
+2017,Jordan,Yemen,JOR,YEM,494
+2017,Kenya,Yemen,KEN,YEM,68
+2017,Rep. of Korea,Yemen,KOR,YEM,50
+2017,Kuwait,Yemen,KWT,YEM,5
+2017,Lebanon,Yemen,LBN,YEM,15
+2017,Sri Lanka,Yemen,LKA,YEM,12
+2017,Madagascar,Yemen,MDG,YEM,22
+2017,Mauritania,Yemen,MRT,YEM,5
+2017,Rep. of Moldova,Yemen,MDA,YEM,5
+2017,Mexico,Yemen,MEX,YEM,5
+2017,Malaysia,Yemen,MYS,YEM,76
+2017,Montenegro,Yemen,MNE,YEM,10
+2017,Morocco,Yemen,MAR,YEM,517
+2017,Netherlands (Kingdom of the),Yemen,NLD,YEM,250
+2017,Norway,Yemen,NOR,YEM,231
+2017,New Zealand,Yemen,NZL,YEM,5
+2017,Pakistan,Yemen,PAK,YEM,113
+2017,Poland,Yemen,POL,YEM,5
+2017,Romania,Yemen,ROU,YEM,27
+2017,Russian Federation,Yemen,RUS,YEM,54
+2017,Saudi Arabia,Yemen,SAU,YEM,9
+2017,Somalia,Yemen,SOM,YEM,10705
+2017,Spain,Yemen,ESP,YEM,21
+2017,Slovenia,Yemen,SVN,YEM,5
+2017,Sweden,Yemen,SWE,YEM,1099
+2017,Switzerland,Yemen,CHE,YEM,339
+2017,Syrian Arab Rep.,Yemen,SYR,YEM,123
+2017,Thailand,Yemen,THA,YEM,40
+2017,Türkiye,Yemen,TUR,YEM,161
+2017,Uganda,Yemen,UGA,YEM,33
+2017,Ukraine,Yemen,UKR,YEM,5
+2017,United States of America,Yemen,USA,YEM,549
+2018,Algeria,Yemen,DZA,YEM,10
+2018,Egypt,Yemen,EGY,YEM,100
+2018,Argentina,Yemen,ARG,YEM,15
+2018,Armenia,Yemen,ARM,YEM,20
+2018,Australia,Yemen,AUS,YEM,27
+2018,Austria,Yemen,AUT,YEM,258
+2018,Azerbaijan,Yemen,AZE,YEM,9
+2018,Bahrain,Yemen,BHR,YEM,9
+2018,Belgium,Yemen,BEL,YEM,24
+2018,Benin,Yemen,BEN,YEM,8
+2018,Belarus,Yemen,BLR,YEM,23
+2018,Bulgaria,Yemen,BGR,YEM,12
+2018,Canada,Yemen,CAN,YEM,1089
+2018,Chad,Yemen,TCD,YEM,5
+2018,China,Yemen,CHN,YEM,13
+2018,Cuba,Yemen,CUB,YEM,17
+2018,Cyprus,Yemen,CYP,YEM,20
+2018,Czechia,Yemen,CZE,YEM,15
+2018,Denmark,Yemen,DNK,YEM,5
+2018,Djibouti,Yemen,DJI,YEM,4694
+2018,Ecuador,Yemen,ECU,YEM,50
+2018,Estonia,Yemen,EST,YEM,5
+2018,Ethiopia,Yemen,ETH,YEM,1698
+2018,Finland,Yemen,FIN,YEM,182
+2018,France,Yemen,FRA,YEM,338
+2018,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,624
+2018,Georgia,Yemen,GEO,YEM,20
+2018,Germany,Yemen,DEU,YEM,1809
+2018,Greece,Yemen,GRC,YEM,369
+2018,Haiti,Yemen,HTI,YEM,5
+2018,"China, Hong Kong SAR",Yemen,HKG,YEM,12
+2018,Croatia,Yemen,HRV,YEM,7
+2018,Hungary,Yemen,HUN,YEM,18
+2018,Indonesia,Yemen,IDN,YEM,105
+2018,Ireland,Yemen,IRL,YEM,8
+2018,Italy,Yemen,ITA,YEM,141
+2018,Jordan,Yemen,JOR,YEM,642
+2018,Kenya,Yemen,KEN,YEM,66
+2018,Rep. of Korea,Yemen,KOR,YEM,483
+2018,Kuwait,Yemen,KWT,YEM,5
+2018,Lebanon,Yemen,LBN,YEM,18
+2018,Sri Lanka,Yemen,LKA,YEM,12
+2018,Madagascar,Yemen,MDG,YEM,22
+2018,Rep. of Moldova,Yemen,MDA,YEM,5
+2018,Mexico,Yemen,MEX,YEM,12
+2018,Malaysia,Yemen,MYS,YEM,163
+2018,Montenegro,Yemen,MNE,YEM,11
+2018,Morocco,Yemen,MAR,YEM,752
+2018,Netherlands (Kingdom of the),Yemen,NLD,YEM,376
+2018,Norway,Yemen,NOR,YEM,235
+2018,New Zealand,Yemen,NZL,YEM,8
+2018,Pakistan,Yemen,PAK,YEM,128
+2018,Philippines,Yemen,PHL,YEM,10
+2018,Poland,Yemen,POL,YEM,9
+2018,Portugal,Yemen,PRT,YEM,7
+2018,Romania,Yemen,ROU,YEM,33
+2018,Russian Federation,Yemen,RUS,YEM,92
+2018,Saudi Arabia,Yemen,SAU,YEM,27
+2018,Somalia,Yemen,SOM,YEM,12450
+2018,Spain,Yemen,ESP,YEM,103
+2018,Sudan,Yemen,SDN,YEM,1013
+2018,Slovakia,Yemen,SVK,YEM,19
+2018,Slovenia,Yemen,SVN,YEM,5
+2018,Sweden,Yemen,SWE,YEM,1343
+2018,Switzerland,Yemen,CHE,YEM,336
+2018,Syrian Arab Rep.,Yemen,SYR,YEM,159
+2018,Thailand,Yemen,THA,YEM,32
+2018,Türkiye,Yemen,TUR,YEM,169
+2018,United Arab Emirates,Yemen,ARE,YEM,5
+2018,Uganda,Yemen,UGA,YEM,20
+2018,Ukraine,Yemen,UKR,YEM,5
+2018,United States of America,Yemen,USA,YEM,606
+2019,Algeria,Yemen,DZA,YEM,257
+2019,Egypt,Yemen,EGY,YEM,126
+2019,Argentina,Yemen,ARG,YEM,19
+2019,Armenia,Yemen,ARM,YEM,22
+2019,Australia,Yemen,AUS,YEM,59
+2019,Austria,Yemen,AUT,YEM,311
+2019,Azerbaijan,Yemen,AZE,YEM,11
+2019,Bahrain,Yemen,BHR,YEM,9
+2019,Belgium,Yemen,BEL,YEM,51
+2019,Benin,Yemen,BEN,YEM,11
+2019,Bangladesh,Yemen,BGD,YEM,5
+2019,Belarus,Yemen,BLR,YEM,24
+2019,Bulgaria,Yemen,BGR,YEM,13
+2019,Canada,Yemen,CAN,YEM,1711
+2019,Chad,Yemen,TCD,YEM,5
+2019,China,Yemen,CHN,YEM,16
+2019,Cuba,Yemen,CUB,YEM,14
+2019,Cyprus,Yemen,CYP,YEM,25
+2019,Czechia,Yemen,CZE,YEM,20
+2019,Denmark,Yemen,DNK,YEM,5
+2019,Djibouti,Yemen,DJI,YEM,5322
+2019,Ecuador,Yemen,ECU,YEM,96
+2019,Estonia,Yemen,EST,YEM,5
+2019,Ethiopia,Yemen,ETH,YEM,1926
+2019,Finland,Yemen,FIN,YEM,263
+2019,France,Yemen,FRA,YEM,454
+2019,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,819
+2019,Georgia,Yemen,GEO,YEM,32
+2019,Germany,Yemen,DEU,YEM,2629
+2019,Greece,Yemen,GRC,YEM,574
+2019,"China, Hong Kong SAR",Yemen,HKG,YEM,11
+2019,Croatia,Yemen,HRV,YEM,7
+2019,Hungary,Yemen,HUN,YEM,18
+2019,Iceland,Yemen,ISL,YEM,5
+2019,India,Yemen,IND,YEM,5
+2019,Indonesia,Yemen,IDN,YEM,85
+2019,Ireland,Yemen,IRL,YEM,16
+2019,Italy,Yemen,ITA,YEM,151
+2019,Jordan,Yemen,JOR,YEM,715
+2019,Kenya,Yemen,KEN,YEM,60
+2019,Rep. of Korea,Yemen,KOR,YEM,682
+2019,Kuwait,Yemen,KWT,YEM,5
+2019,Lebanon,Yemen,LBN,YEM,23
+2019,Sri Lanka,Yemen,LKA,YEM,14
+2019,Luxembourg,Yemen,LUX,YEM,10
+2019,Madagascar,Yemen,MDG,YEM,22
+2019,Mauritania,Yemen,MRT,YEM,10
+2019,Rep. of Moldova,Yemen,MDA,YEM,8
+2019,Mexico,Yemen,MEX,YEM,13
+2019,Malaysia,Yemen,MYS,YEM,206
+2019,Montenegro,Yemen,MNE,YEM,7
+2019,Morocco,Yemen,MAR,YEM,843
+2019,Netherlands (Kingdom of the),Yemen,NLD,YEM,791
+2019,Norway,Yemen,NOR,YEM,219
+2019,New Zealand,Yemen,NZL,YEM,8
+2019,Pakistan,Yemen,PAK,YEM,137
+2019,Philippines,Yemen,PHL,YEM,15
+2019,Poland,Yemen,POL,YEM,9
+2019,Portugal,Yemen,PRT,YEM,9
+2019,Qatar,Yemen,QAT,YEM,5
+2019,Romania,Yemen,ROU,YEM,29
+2019,South Africa,Yemen,ZAF,YEM,5
+2019,Russian Federation,Yemen,RUS,YEM,97
+2019,Saudi Arabia,Yemen,SAU,YEM,27
+2019,Somalia,Yemen,SOM,YEM,13235
+2019,Spain,Yemen,ESP,YEM,206
+2019,Sudan,Yemen,SDN,YEM,1227
+2019,Slovakia,Yemen,SVK,YEM,21
+2019,Slovenia,Yemen,SVN,YEM,6
+2019,Sweden,Yemen,SWE,YEM,1659
+2019,Switzerland,Yemen,CHE,YEM,130
+2019,Syrian Arab Rep.,Yemen,SYR,YEM,159
+2019,United Rep. of Tanzania,Yemen,TZA,YEM,5
+2019,Thailand,Yemen,THA,YEM,37
+2019,United Arab Emirates,Yemen,ARE,YEM,12
+2019,Uganda,Yemen,UGA,YEM,27
+2019,Ukraine,Yemen,UKR,YEM,5
+2019,United States of America,Yemen,USA,YEM,692
+2020,Algeria,Yemen,DZA,YEM,261
+2020,Egypt,Yemen,EGY,YEM,154
+2020,Argentina,Yemen,ARG,YEM,19
+2020,Armenia,Yemen,ARM,YEM,21
+2020,Australia,Yemen,AUS,YEM,160
+2020,Austria,Yemen,AUT,YEM,355
+2020,Azerbaijan,Yemen,AZE,YEM,11
+2020,Bahrain,Yemen,BHR,YEM,9
+2020,Belgium,Yemen,BEL,YEM,77
+2020,Benin,Yemen,BEN,YEM,14
+2020,Bangladesh,Yemen,BGD,YEM,5
+2020,Belarus,Yemen,BLR,YEM,28
+2020,Brazil,Yemen,BRA,YEM,7
+2020,Bosnia and Herzegovina,Yemen,BIH,YEM,6
+2020,Bulgaria,Yemen,BGR,YEM,15
+2020,Canada,Yemen,CAN,YEM,1949
+2020,Chad,Yemen,TCD,YEM,5
+2020,China,Yemen,CHN,YEM,21
+2020,Cameroon,Yemen,CMR,YEM,5
+2020,Cuba,Yemen,CUB,YEM,15
+2020,Cyprus,Yemen,CYP,YEM,27
+2020,Czechia,Yemen,CZE,YEM,24
+2020,Denmark,Yemen,DNK,YEM,7
+2020,Djibouti,Yemen,DJI,YEM,5666
+2020,Ecuador,Yemen,ECU,YEM,102
+2020,Estonia,Yemen,EST,YEM,5
+2020,Ethiopia,Yemen,ETH,YEM,2045
+2020,Finland,Yemen,FIN,YEM,297
+2020,France,Yemen,FRA,YEM,566
+2020,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,981
+2020,Georgia,Yemen,GEO,YEM,40
+2020,Germany,Yemen,DEU,YEM,3039
+2020,Ghana,Yemen,GHA,YEM,7
+2020,Greece,Yemen,GRC,YEM,853
+2020,"China, Hong Kong SAR",Yemen,HKG,YEM,29
+2020,Croatia,Yemen,HRV,YEM,7
+2020,Hungary,Yemen,HUN,YEM,16
+2020,Iceland,Yemen,ISL,YEM,9
+2020,Cote d'Ivoire,Yemen,CIV,YEM,5
+2020,India,Yemen,IND,YEM,5
+2020,Indonesia,Yemen,IDN,YEM,96
+2020,Ireland,Yemen,IRL,YEM,20
+2020,Jordan,Yemen,JOR,YEM,818
+2020,Japan,Yemen,JPN,YEM,11
+2020,Kenya,Yemen,KEN,YEM,85
+2020,Rep. of Korea,Yemen,KOR,YEM,795
+2020,Kuwait,Yemen,KWT,YEM,6
+2020,Lebanon,Yemen,LBN,YEM,25
+2020,Sri Lanka,Yemen,LKA,YEM,16
+2020,Luxembourg,Yemen,LUX,YEM,20
+2020,Madagascar,Yemen,MDG,YEM,20
+2020,Mauritania,Yemen,MRT,YEM,36
+2020,Rep. of Moldova,Yemen,MDA,YEM,8
+2020,Mexico,Yemen,MEX,YEM,15
+2020,Malaysia,Yemen,MYS,YEM,232
+2020,Montenegro,Yemen,MNE,YEM,7
+2020,Morocco,Yemen,MAR,YEM,14
+2020,Malta,Yemen,MLT,YEM,5
+2020,Netherlands (Kingdom of the),Yemen,NLD,YEM,1392
+2020,Niger,Yemen,NER,YEM,5
+2020,Norway,Yemen,NOR,YEM,192
+2020,New Zealand,Yemen,NZL,YEM,8
+2020,Pakistan,Yemen,PAK,YEM,137
+2020,Philippines,Yemen,PHL,YEM,30
+2020,Poland,Yemen,POL,YEM,13
+2020,Portugal,Yemen,PRT,YEM,9
+2020,Qatar,Yemen,QAT,YEM,5
+2020,Romania,Yemen,ROU,YEM,41
+2020,South Africa,Yemen,ZAF,YEM,5
+2020,Russian Federation,Yemen,RUS,YEM,88
+2020,Saudi Arabia,Yemen,SAU,YEM,26
+2020,Somalia,Yemen,SOM,YEM,6371
+2020,Spain,Yemen,ESP,YEM,316
+2020,Sudan,Yemen,SDN,YEM,1551
+2020,Slovakia,Yemen,SVK,YEM,21
+2020,Slovenia,Yemen,SVN,YEM,6
+2020,Sweden,Yemen,SWE,YEM,1822
+2020,Switzerland,Yemen,CHE,YEM,341
+2020,Syrian Arab Rep.,Yemen,SYR,YEM,158
+2020,United Rep. of Tanzania,Yemen,TZA,YEM,9
+2020,Thailand,Yemen,THA,YEM,37
+2020,Tunisia,Yemen,TUN,YEM,11
+2020,United Arab Emirates,Yemen,ARE,YEM,6
+2020,Uganda,Yemen,UGA,YEM,27
+2020,Ukraine,Yemen,UKR,YEM,5
+2020,United States of America,Yemen,USA,YEM,705
+2021,Algeria,Yemen,DZA,YEM,267
+2021,Egypt,Yemen,EGY,YEM,156
+2021,Argentina,Yemen,ARG,YEM,21
+2021,Armenia,Yemen,ARM,YEM,21
+2021,Australia,Yemen,AUS,YEM,181
+2021,Austria,Yemen,AUT,YEM,426
+2021,Azerbaijan,Yemen,AZE,YEM,10
+2021,Bahrain,Yemen,BHR,YEM,9
+2021,Belgium,Yemen,BEL,YEM,257
+2021,Benin,Yemen,BEN,YEM,17
+2021,Belarus,Yemen,BLR,YEM,32
+2021,Brazil,Yemen,BRA,YEM,9
+2021,Bulgaria,Yemen,BGR,YEM,23
+2021,Canada,Yemen,CAN,YEM,2127
+2021,Chad,Yemen,TCD,YEM,5
+2021,China,Yemen,CHN,YEM,31
+2021,Cameroon,Yemen,CMR,YEM,5
+2021,Cuba,Yemen,CUB,YEM,14
+2021,Cyprus,Yemen,CYP,YEM,41
+2021,Czechia,Yemen,CZE,YEM,24
+2021,Denmark,Yemen,DNK,YEM,7
+2021,Djibouti,Yemen,DJI,YEM,6232
+2021,Ecuador,Yemen,ECU,YEM,117
+2021,Estonia,Yemen,EST,YEM,5
+2021,Ethiopia,Yemen,ETH,YEM,2373
+2021,Finland,Yemen,FIN,YEM,311
+2021,France,Yemen,FRA,YEM,921
+2021,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,1251
+2021,Georgia,Yemen,GEO,YEM,55
+2021,Germany,Yemen,DEU,YEM,3082
+2021,Ghana,Yemen,GHA,YEM,13
+2021,Greece,Yemen,GRC,YEM,933
+2021,"China, Hong Kong SAR",Yemen,HKG,YEM,36
+2021,Croatia,Yemen,HRV,YEM,7
+2021,Hungary,Yemen,HUN,YEM,16
+2021,Iceland,Yemen,ISL,YEM,12
+2021,Cote d'Ivoire,Yemen,CIV,YEM,5
+2021,India,Yemen,IND,YEM,9
+2021,Indonesia,Yemen,IDN,YEM,101
+2021,Ireland,Yemen,IRL,YEM,27
+2021,Jordan,Yemen,JOR,YEM,1024
+2021,Japan,Yemen,JPN,YEM,15
+2021,Kenya,Yemen,KEN,YEM,93
+2021,Rep. of Korea,Yemen,KOR,YEM,813
+2021,Kuwait,Yemen,KWT,YEM,9
+2021,Libya,Yemen,LBY,YEM,12
+2021,Lebanon,Yemen,LBN,YEM,34
+2021,Sri Lanka,Yemen,LKA,YEM,15
+2021,Luxembourg,Yemen,LUX,YEM,30
+2021,Madagascar,Yemen,MDG,YEM,14
+2021,Mauritania,Yemen,MRT,YEM,45
+2021,Rep. of Moldova,Yemen,MDA,YEM,6
+2021,Mexico,Yemen,MEX,YEM,24
+2021,Malaysia,Yemen,MYS,YEM,321
+2021,Montenegro,Yemen,MNE,YEM,7
+2021,Morocco,Yemen,MAR,YEM,14
+2021,Malta,Yemen,MLT,YEM,5
+2021,Netherlands (Kingdom of the),Yemen,NLD,YEM,1789
+2021,Niger,Yemen,NER,YEM,5
+2021,Norway,Yemen,NOR,YEM,201
+2021,New Zealand,Yemen,NZL,YEM,9
+2021,Pakistan,Yemen,PAK,YEM,137
+2021,Philippines,Yemen,PHL,YEM,30
+2021,Poland,Yemen,POL,YEM,22
+2021,Portugal,Yemen,PRT,YEM,9
+2021,Qatar,Yemen,QAT,YEM,5
+2021,Romania,Yemen,ROU,YEM,65
+2021,South Africa,Yemen,ZAF,YEM,5
+2021,Russian Federation,Yemen,RUS,YEM,84
+2021,Saudi Arabia,Yemen,SAU,YEM,18
+2021,Somalia,Yemen,SOM,YEM,8341
+2021,Spain,Yemen,ESP,YEM,392
+2021,Sudan,Yemen,SDN,YEM,1795
+2021,Slovakia,Yemen,SVK,YEM,24
+2021,Slovenia,Yemen,SVN,YEM,6
+2021,Sweden,Yemen,SWE,YEM,1727
+2021,Switzerland,Yemen,CHE,YEM,345
+2021,Syrian Arab Rep.,Yemen,SYR,YEM,161
+2021,United Rep. of Tanzania,Yemen,TZA,YEM,9
+2021,Thailand,Yemen,THA,YEM,36
+2021,Tunisia,Yemen,TUN,YEM,14
+2021,United Arab Emirates,Yemen,ARE,YEM,6
+2021,Uganda,Yemen,UGA,YEM,26
+2021,Ukraine,Yemen,UKR,YEM,5
+2021,United States of America,Yemen,USA,YEM,679
+2023,Algeria,Yemen,DZA,YEM,152
+2023,Egypt,Yemen,EGY,YEM,179
+2023,Argentina,Yemen,ARG,YEM,23
+2023,Armenia,Yemen,ARM,YEM,27
+2023,Australia,Yemen,AUS,YEM,174
+2023,Austria,Yemen,AUT,YEM,654
+2023,Azerbaijan,Yemen,AZE,YEM,11
+2023,Bahrain,Yemen,BHR,YEM,9
+2023,Belgium,Yemen,BEL,YEM,176
+2023,Benin,Yemen,BEN,YEM,17
+2023,Belarus,Yemen,BLR,YEM,22
+2023,Brazil,Yemen,BRA,YEM,34
+2023,Bulgaria,Yemen,BGR,YEM,46
+2023,Canada,Yemen,CAN,YEM,787
+2023,Chad,Yemen,TCD,YEM,5
+2023,China,Yemen,CHN,YEM,33
+2023,Cameroon,Yemen,CMR,YEM,5
+2023,Comoros,Yemen,COM,YEM,5
+2023,Cuba,Yemen,CUB,YEM,6
+2023,Cyprus,Yemen,CYP,YEM,83
+2023,Czechia,Yemen,CZE,YEM,19
+2023,Denmark,Yemen,DNK,YEM,6
+2023,Djibouti,Yemen,DJI,YEM,3420
+2023,Ecuador,Yemen,ECU,YEM,105
+2023,Estonia,Yemen,EST,YEM,9
+2023,Ethiopia,Yemen,ETH,YEM,2434
+2023,Finland,Yemen,FIN,YEM,366
+2023,France,Yemen,FRA,YEM,1245
+2023,Gambia,Yemen,GMB,YEM,5
+2023,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,2510
+2023,Georgia,Yemen,GEO,YEM,68
+2023,Germany,Yemen,DEU,YEM,4794
+2023,Ghana,Yemen,GHA,YEM,22
+2023,Greece,Yemen,GRC,YEM,2300
+2023,"China, Hong Kong SAR",Yemen,HKG,YEM,45
+2023,Croatia,Yemen,HRV,YEM,7
+2023,Hungary,Yemen,HUN,YEM,17
+2023,Iceland,Yemen,ISL,YEM,26
+2023,Cote d'Ivoire,Yemen,CIV,YEM,5
+2023,India,Yemen,IND,YEM,468
+2023,Indonesia,Yemen,IDN,YEM,119
+2023,Ireland,Yemen,IRL,YEM,53
+2023,Italy,Yemen,ITA,YEM,150
+2023,Jordan,Yemen,JOR,YEM,2037
+2023,Japan,Yemen,JPN,YEM,24
+2023,Kenya,Yemen,KEN,YEM,100
+2023,Rep. of Korea,Yemen,KOR,YEM,837
+2023,Kuwait,Yemen,KWT,YEM,6
+2023,Libya,Yemen,LBY,YEM,7
+2023,Lebanon,Yemen,LBN,YEM,28
+2023,Sri Lanka,Yemen,LKA,YEM,8
+2023,Lithuania,Yemen,LTU,YEM,7
+2023,Luxembourg,Yemen,LUX,YEM,37
+2023,Latvia,Yemen,LVA,YEM,5
+2023,Madagascar,Yemen,MDG,YEM,7
+2023,Mauritania,Yemen,MRT,YEM,38
+2023,Rep. of Moldova,Yemen,MDA,YEM,5
+2023,Mexico,Yemen,MEX,YEM,32
+2023,Malaysia,Yemen,MYS,YEM,339
+2023,Montenegro,Yemen,MNE,YEM,7
+2023,Morocco,Yemen,MAR,YEM,16
+2023,Malta,Yemen,MLT,YEM,5
+2023,Netherlands (Kingdom of the),Yemen,NLD,YEM,7347
+2023,Nigeria,Yemen,NGA,YEM,5
+2023,Norway,Yemen,NOR,YEM,224
+2023,New Zealand,Yemen,NZL,YEM,11
+2023,Pakistan,Yemen,PAK,YEM,138
+2023,Philippines,Yemen,PHL,YEM,52
+2023,Poland,Yemen,POL,YEM,43
+2023,Portugal,Yemen,PRT,YEM,13
+2023,Qatar,Yemen,QAT,YEM,5
+2023,Romania,Yemen,ROU,YEM,75
+2023,South Africa,Yemen,ZAF,YEM,5
+2023,Russian Federation,Yemen,RUS,YEM,58
+2023,Rwanda,Yemen,RWA,YEM,5
+2023,Saudi Arabia,Yemen,SAU,YEM,22
+2023,Somalia,Yemen,SOM,YEM,10995
+2023,Spain,Yemen,ESP,YEM,560
+2023,Sudan,Yemen,SDN,YEM,1234
+2023,Slovakia,Yemen,SVK,YEM,25
+2023,Slovenia,Yemen,SVN,YEM,6
+2023,Sweden,Yemen,SWE,YEM,1593
+2023,Switzerland,Yemen,CHE,YEM,354
+2023,Syrian Arab Rep.,Yemen,SYR,YEM,232
+2023,United Rep. of Tanzania,Yemen,TZA,YEM,13
+2023,Thailand,Yemen,THA,YEM,27
+2023,Tunisia,Yemen,TUN,YEM,23
+2023,United Arab Emirates,Yemen,ARE,YEM,12
+2023,Uganda,Yemen,UGA,YEM,33
+2023,Ukraine,Yemen,UKR,YEM,6
+2023,United States of America,Yemen,USA,YEM,742
+2022,Algeria,Yemen,DZA,YEM,293
+2022,Egypt,Yemen,EGY,YEM,163
+2022,Argentina,Yemen,ARG,YEM,22
+2022,Armenia,Yemen,ARM,YEM,21
+2022,Australia,Yemen,AUS,YEM,247
+2022,Austria,Yemen,AUT,YEM,562
+2022,Azerbaijan,Yemen,AZE,YEM,11
+2022,Bahrain,Yemen,BHR,YEM,9
+2022,Belgium,Yemen,BEL,YEM,121
+2022,Benin,Yemen,BEN,YEM,17
+2022,Belarus,Yemen,BLR,YEM,25
+2022,Brazil,Yemen,BRA,YEM,21
+2022,Bulgaria,Yemen,BGR,YEM,29
+2022,Canada,Yemen,CAN,YEM,450
+2022,Chad,Yemen,TCD,YEM,5
+2022,China,Yemen,CHN,YEM,29
+2022,Cameroon,Yemen,CMR,YEM,5
+2022,Cuba,Yemen,CUB,YEM,12
+2022,Cyprus,Yemen,CYP,YEM,61
+2022,Czechia,Yemen,CZE,YEM,27
+2022,Denmark,Yemen,DNK,YEM,7
+2022,Djibouti,Yemen,DJI,YEM,3027
+2022,Ecuador,Yemen,ECU,YEM,106
+2022,Estonia,Yemen,EST,YEM,6
+2022,Ethiopia,Yemen,ETH,YEM,2393
+2022,Finland,Yemen,FIN,YEM,331
+2022,France,Yemen,FRA,YEM,1084
+2022,United Kingdom of Great Britain and Northern Ireland,Yemen,GBR,YEM,1647
+2022,Georgia,Yemen,GEO,YEM,62
+2022,Germany,Yemen,DEU,YEM,3757
+2022,Ghana,Yemen,GHA,YEM,16
+2022,Greece,Yemen,GRC,YEM,1335
+2022,"China, Hong Kong SAR",Yemen,HKG,YEM,44
+2022,Croatia,Yemen,HRV,YEM,7
+2022,Hungary,Yemen,HUN,YEM,17
+2022,Iceland,Yemen,ISL,YEM,16
+2022,Cote d'Ivoire,Yemen,CIV,YEM,5
+2022,India,Yemen,IND,YEM,15
+2022,Indonesia,Yemen,IDN,YEM,86
+2022,Ireland,Yemen,IRL,YEM,34
+2022,Italy,Yemen,ITA,YEM,30
+2022,Jordan,Yemen,JOR,YEM,1783
+2022,Japan,Yemen,JPN,YEM,19
+2022,Kenya,Yemen,KEN,YEM,96
+2022,Rep. of Korea,Yemen,KOR,YEM,829
+2022,Kuwait,Yemen,KWT,YEM,9
+2022,Libya,Yemen,LBY,YEM,8
+2022,Lebanon,Yemen,LBN,YEM,30
+2022,Sri Lanka,Yemen,LKA,YEM,8
+2022,Lithuania,Yemen,LTU,YEM,7
+2022,Luxembourg,Yemen,LUX,YEM,37
+2022,Madagascar,Yemen,MDG,YEM,9
+2022,Mauritania,Yemen,MRT,YEM,45
+2022,Rep. of Moldova,Yemen,MDA,YEM,10
+2022,Mexico,Yemen,MEX,YEM,25
+2022,Malaysia,Yemen,MYS,YEM,349
+2022,Montenegro,Yemen,MNE,YEM,7
+2022,Morocco,Yemen,MAR,YEM,11
+2022,Malta,Yemen,MLT,YEM,5
+2022,Netherlands (Kingdom of the),Yemen,NLD,YEM,4597
+2022,Nigeria,Yemen,NGA,YEM,5
+2022,Norway,Yemen,NOR,YEM,197
+2022,New Zealand,Yemen,NZL,YEM,11
+2022,Pakistan,Yemen,PAK,YEM,137
+2022,Philippines,Yemen,PHL,YEM,37
+2022,Poland,Yemen,POL,YEM,26
+2022,Portugal,Yemen,PRT,YEM,18
+2022,Qatar,Yemen,QAT,YEM,5
+2022,Romania,Yemen,ROU,YEM,79
+2022,South Africa,Yemen,ZAF,YEM,5
+2022,Russian Federation,Yemen,RUS,YEM,85
+2022,Rwanda,Yemen,RWA,YEM,5
+2022,Saudi Arabia,Yemen,SAU,YEM,24
+2022,Somalia,Yemen,SOM,YEM,9877
+2022,Spain,Yemen,ESP,YEM,516
+2022,Sudan,Yemen,SDN,YEM,1941
+2022,Slovakia,Yemen,SVK,YEM,25
+2022,Slovenia,Yemen,SVN,YEM,6
+2022,Sweden,Yemen,SWE,YEM,1731
+2022,Switzerland,Yemen,CHE,YEM,342
+2022,Syrian Arab Rep.,Yemen,SYR,YEM,214
+2022,United Rep. of Tanzania,Yemen,TZA,YEM,8
+2022,Thailand,Yemen,THA,YEM,36
+2022,Tunisia,Yemen,TUN,YEM,26
+2022,United Arab Emirates,Yemen,ARE,YEM,12
+2022,Uganda,Yemen,UGA,YEM,34
+2022,Ukraine,Yemen,UKR,YEM,5
+2022,United States of America,Yemen,USA,YEM,701
