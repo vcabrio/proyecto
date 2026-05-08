@@ -147,8 +147,8 @@ panel_final <- idmc_panel %>%
 
 summary(panel_final)
 
-######################################################################
-###### Grafico: relación conflicto x desplazamientos##################
+###########################################################################
+###### Grafico: relación conflicto x desplazamientos#######################
 
 grafico_conflicto <- ggplot(
   panel_final,
@@ -231,6 +231,7 @@ ggsave(
 #   - reducir la influencia de valores extremos,
 #   - mejorar la visualización,
 #   - y hacer comparables países con escalas muy distintas.
+
 
 # =============================================================================
 # TABLA POR PAÍS Y AÑO
