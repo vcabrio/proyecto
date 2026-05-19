@@ -150,6 +150,12 @@ summary(panel_final)
 ###########################################################################
 ###### Grafico: relación conflicto x desplazamientos#######################
 
+output_dir <- here("output")
+
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
 grafico_conflicto <- ggplot(
   panel_final,
   aes(
