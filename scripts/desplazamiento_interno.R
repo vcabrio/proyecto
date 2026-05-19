@@ -147,8 +147,8 @@ panel_final <- idmc_panel %>%
 
 summary(panel_final)
 
-###########################################################################
-###### Grafico: relación conflicto x desplazamientos#######################
+################################################################################
+###################### GRAFICO DESPLAZAMIENTO INTERNO ##########################
 
 output_dir <- here("output")
 
@@ -156,89 +156,81 @@ if (!dir.exists(output_dir)) {
   dir.create(output_dir, recursive = TRUE)
 }
 
-grafico_conflicto <- ggplot(
-  panel_final,
-  aes(
-    x = log_fatalidades,
-    y = log_idp_nuevos
-  )
+grafico_density_time <- ggplot(
+  panel_final %>% filter(!is.na(idp_nuevos)),
+  aes(x = anio, y = idp_nuevos)
 ) +
-  
-  # puntos: casos pais-año
-  geom_point(
-    color = "steelblue",
-    size = 3,
-    alpha = 0.8
+  # área suavizada en lugar de línea quebrada
+  geom_area(
+    stat  = "smooth",
+    method = "loess",
+    span  = 0.3,
+    fill  = "#ADD8F0",
+    alpha = 0.5,
+    color = "#1A6FA8",
+    linewidth = 0.9
   ) +
-  
-  # línea de tendencia
-  geom_smooth(
-    method = "lm",
-    se = FALSE,
-    color = "darkred",
-    linewidth = 1
-  ) +
-  
-  # un gráfico por país
-  facet_wrap(~ pais, scales = "free") +
-  
+  # puntos reales encima
+  geom_point(color = "#0D3B6E", size = 1.8, alpha = 0.6) +
+  facet_wrap(~ pais, scales = "free_y", ncol = 2) +
+  scale_x_continuous(breaks = seq(2010, 2023, by = 3)) +
+  scale_y_continuous(
+    labels = function(x) {
+      ifelse(
+        x >= 1e6,
+        paste0(round(x / 1e6, 1), "M"),   # millones para los grandes
+        paste0(round(x / 1e3, 0), "K")    # miles para Colombia
+      )
+    },
+    expand = expansion(mult = c(0, 0.05))
+  )+
   labs(
-    title = "Relación entre conflicto armado y desplazamiento interno",
-    subtitle = "País-año (2010–2023)",
-    x = "Fatalidades por conflicto",
-    y = "Nuevos desplazamientos internos"
+    title    = "Desplazamiento interno por conflicto armado",
+    subtitle = "Curva  2010–2023",
+    x        = "Año", y        = "Nuevos desplazados",
+    caption  = "Fuente: IDMC"
   ) +
-  
-  theme_minimal(base_size = 13)
-print(grafico_conflicto)
+  theme_minimal(base_size = 13) +
+  theme(
+    plot.title       = element_text(face = "bold", color = "#1A6FA8"),
+    strip.text       = element_text(face = "bold"),
+    panel.grid.minor = element_blank()
+  )
 
+print(grafico_density_time)
 
 ggsave(
   filename = file.path(
     output_dir,
     "grafico_conflicto_desplazamiento.png"
   ),
-  plot = grafico_conflicto,
+  plot = grafico_density_time,
   width = 14,
   height = 10,
   dpi = 300
 )
 
+
 # =============================================================================
-# CÓMO LEER EL SCATTER PLOT
+# INTERPRETACIÓN DEL GRÁFICO — Serie de tiempo LOESS + área
 # =============================================================================
 
-# El gráfico muestra la relación entre:
-#   - la intensidad del conflicto armado
-#   - y el desplazamiento interno
+# ESTRUCTURA BÁSICA
+# Eje X     → tiempo (años 2009–2024)
+# Eje Y     → cantidad de nuevos desplazados ese año
+# Área      → acumulación visual: cuanto más grande el área,
+#             más desplazados en ese período
+# Curva     → tendencia suavizada, no los valores exactos año a año
+# Puntos    → los valores reales observados cada año
 
-# Eje X:
-#   log_fatalidades
-# → representa las muertes por conflicto armado.
-# Más a la derecha = mayor intensidad del conflicto.
-
-# Eje Y:
-#   log_idp_nuevos
-# → representa nuevos desplazamientos internos.
-# Más arriba = más personas desplazadas.
-
-# Cada punto representa:
-#   un país en un año determinado (país-año).
-
-# La línea roja es una línea de tendencia lineal.
-# Resume la relación promedio entre ambas variables.
-
-# Interpretación:
-# Si la línea asciende y los puntos muestran una tendencia positiva,
-# significa que mayores niveles de conflicto se asocian con
-# mayores niveles de desplazamiento interno.
-
-# Se usan logaritmos para:
-#   - reducir la influencia de valores extremos,
-#   - mejorar la visualización,
-#   - y hacer comparables países con escalas muy distintas.
+# CÓMO LEER LA TENDENCIA
+# Curva sube          → el desplazamiento aumenta en ese período
+# Curva baja          → el desplazamiento disminuye
+# Curva plana         → el desplazamiento se estabiliza
+# Punto lejos de la curva → año atípico (pico o caída abrupta)
 
 
+######################################################################
 # =============================================================================
 # TABLA POR PAÍS Y AÑO
 # =============================================================================
