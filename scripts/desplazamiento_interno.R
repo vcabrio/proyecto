@@ -2,13 +2,13 @@
 ##################### DESPLAZAMIENTO INTERNO ##########################
 
 
-install.packages(c("tidyverse", "readxl", "janitor", "skimr"))
+#install.packages(c("tidyverse", "readxl", "janitor", "skimr"))
 
 library(tidyverse)   # dplyr, ggplot2, tidyr, etc.
 library(readxl)      # leer Excel
 library(janitor)     # clean_names()
 library(ggplot2)
-
+library(here)
 
 # =================================================================
 
@@ -172,7 +172,7 @@ grafico_density_time <- ggplot(
   ) +
   # puntos reales encima
   geom_point(color = "#0D3B6E", size = 1.8, alpha = 0.6) +
-  facet_wrap(~ pais, scales = "free_y", ncol = 2) +
+  facet_wrap(~ pais, scales = "free", ncol = 2) +
   scale_x_continuous(breaks = seq(2010, 2023, by = 3)) +
   scale_y_continuous(
     labels = function(x) {
@@ -194,7 +194,9 @@ grafico_density_time <- ggplot(
   theme(
     plot.title       = element_text(face = "bold", color = "#1A6FA8"),
     strip.text       = element_text(face = "bold"),
-    panel.grid.minor = element_blank()
+    panel.grid.minor = element_blank(),
+    axis.text.x      = element_text(size = 9, angle = 30, hjust = 1),
+    panel.spacing    = unit(1.2, "lines")   # más espacio entre paneles
   )
 
 print(grafico_density_time)
