@@ -156,69 +156,100 @@ if (!dir.exists(output_dir)) {
   dir.create(output_dir, recursive = TRUE)
 }
 
-grafico_density_time <- ggplot(
-  panel_final %>% filter(!is.na(idp_nuevos)),
-  aes(x = anio, y = idp_nuevos)
-) +
-  # área suavizada en lugar de línea quebrada
-  geom_area(
-    stat  = "smooth",
-    method = "loess",
-    span  = 0.3,
-    fill  = "#ADD8F0",
-    alpha = 0.5,
-    color = "#1A6FA8",
-    linewidth = 0.9
-  ) +
-  # puntos reales encima
-  geom_point(color = "#0D3B6E", size = 1.8, alpha = 0.6) +
-  facet_wrap(~ pais, scales = "free", ncol = 2) +
-  scale_x_continuous(breaks = seq(2010, 2023, by = 3)) +
-  scale_y_continuous(
-    labels = function(x) {
-      ifelse(
-        x >= 1e6,
-        paste0(round(x / 1e6, 1), "M"),   # millones para los grandes
-        paste0(round(x / 1e3, 0), "K")    # miles para Colombia
-      )
-    },
-    expand = expansion(mult = c(0, 0.05))
-  )+
-  labs(
-    title    = "Desplazamiento interno por conflicto armado",
-    subtitle = "Curva  2010–2023",
-    x        = "Año", y        = "Nuevos desplazados",
-    caption  = "Fuente: IDMC"
-  ) +
-  theme_minimal(base_size = 13) +
-  theme(
-    plot.title       = element_text(face = "bold", color = "#1A6FA8"),
-    strip.text       = element_text(face = "bold"),
-    panel.grid.minor = element_blank(),
-    axis.text.x      = element_text(size = 9, angle = 30, hjust = 1),
-    panel.spacing    = unit(1.2, "lines")   # más espacio entre paneles
+# =============================================================================
+# FUNCIÓN: genera un gráfico individual por país
+# =============================================================================
+grafico_por_pais <- function(pais_nombre) {
+  
+  datos_pais <- panel_final %>%
+    filter(pais == pais_nombre, !is.na(idp_nuevos))
+  
+  ggplot(datos_pais, aes(x = anio, y = idp_nuevos)) +
+    
+    # Área suavizada LOESS
+    geom_area(
+      stat      = "smooth",
+      method    = "loess",
+      span      = 0.3,
+      fill      = "#ADD8F0",
+      alpha     = 0.5,
+      color     = "#1A6FA8",
+      linewidth = 0.9
+    ) +
+    
+    # Puntos con valores reales
+    geom_point(color = "#0D3B6E", size = 2.5, alpha = 0.8) +
+    
+    # Todos los años en el eje X
+    scale_x_continuous(
+      breaks = seq(2010, 2023, by = 1),
+      limits = c(2010, 2023),
+      expand = expansion(mult = c(0.02, 0.02))
+    ) +
+    
+    # Eje Y con etiquetas adaptadas (K o M según magnitud)
+    scale_y_continuous(
+      labels = function(x) {
+        ifelse(
+          x >= 1e6,
+          paste0(round(x / 1e6, 1), "M"),
+          paste0(round(x / 1e3, 0), "K")
+        )
+      },
+      expand = expansion(mult = c(0, 0.08))
+    ) +
+    
+    labs(
+      title   = pais_nombre,
+      x       = "Año",
+      y       = "Nuevos desplazados internos",
+      caption = "Fuente: IDMC"
+    ) +
+    
+    theme_minimal(base_size = 14) +
+    theme(
+      plot.title       = element_text(face = "bold", color = "#1A6FA8", size = 16),
+      panel.grid.minor = element_blank(),
+      panel.grid.major.x = element_line(color = "gray90", linewidth = 0.4),
+      axis.text.x      = element_text(size = 10, angle = 45, hjust = 1),
+      axis.text.y      = element_text(size = 10),
+      axis.title       = element_text(size = 11),
+      plot.caption     = element_text(size = 8, color = "gray55")
+    )
+}
+
+# =============================================================================
+# GENERAR Y GUARDAR UN GRÁFICO POR PAÍS
+# =============================================================================
+paises <- c("Colombia", "Nigeria", "Syria", "Yemen")
+
+for (p in paises) {
+  g <- grafico_por_pais(p)
+  
+  # Nombre de archivo limpio (sin espacios ni tildes)
+  nombre_archivo <- paste0(
+    "desplazamiento_",
+    tolower(gsub(" ", "_", p)),
+    ".png"
   )
-
-print(grafico_density_time)
-
-ggsave(
-  filename = file.path(
-    output_dir,
-    "grafico_conflicto_desplazamiento.png"
-  ),
-  plot = grafico_density_time,
-  width = 14,
-  height = 10,
-  dpi = 300
-)
-
+  
+  ggsave(
+    filename = file.path(output_dir, nombre_archivo),
+    plot     = g,
+    width    = 10,
+    height   = 6,
+    dpi      = 300
+  )
+  
+  message("Guardado: ", nombre_archivo)
+}
 
 # =============================================================================
 # INTERPRETACIÓN DEL GRÁFICO — Serie de tiempo LOESS + área
 # =============================================================================
 
 # ESTRUCTURA BÁSICA
-# Eje X     → tiempo (años 2009–2024)
+# Eje X     → tiempo (años 2010–2023)
 # Eje Y     → cantidad de nuevos desplazados ese año
 # Área      → acumulación visual: cuanto más grande el área,
 #             más desplazados en ese período
