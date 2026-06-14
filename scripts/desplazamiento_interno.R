@@ -2,13 +2,13 @@
 ##################### DESPLAZAMIENTO INTERNO ##########################
 
 
-install.packages(c("tidyverse", "readxl", "janitor", "skimr"))
+#install.packages(c("tidyverse", "readxl", "janitor", "skimr"))
 
 library(tidyverse)   # dplyr, ggplot2, tidyr, etc.
 library(readxl)      # leer Excel
 library(janitor)     # clean_names()
 library(ggplot2)
-
+library(here)
 
 # =================================================================
 
@@ -146,92 +146,123 @@ panel_final <- idmc_panel %>%
 
 summary(panel_final)
 
-###########################################################################
-###### Grafico: relación conflicto x desplazamientos#######################
+################################################################################
+###################### GRAFICO DESPLAZAMIENTO INTERNO ##########################
 
-grafico_conflicto <- ggplot(
-  panel_final,
-  aes(
-    x = log_fatalidades,
-    y = log_idp_nuevos
+output_dir <- here("output")
+
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+# =============================================================================
+# FUNCIÓN: genera un gráfico individual por país
+# =============================================================================
+grafico_por_pais <- function(pais_nombre) {
+  
+  datos_pais <- panel_final %>%
+    filter(pais == pais_nombre, !is.na(idp_nuevos))
+  
+  ggplot(datos_pais, aes(x = anio, y = idp_nuevos)) +
+    
+    # Área suavizada LOESS
+    geom_area(
+      stat      = "smooth",
+      method    = "loess",
+      span      = 0.3,
+      fill      = "#ADD8F0",
+      alpha     = 0.5,
+      color     = "#1A6FA8",
+      linewidth = 0.9
+    ) +
+    
+    # Puntos con valores reales
+    geom_point(color = "#0D3B6E", size = 2.5, alpha = 0.8) +
+    
+    # Todos los años en el eje X
+    scale_x_continuous(
+      breaks = seq(2010, 2023, by = 1),
+      limits = c(2010, 2023),
+      expand = expansion(mult = c(0.02, 0.02))
+    ) +
+    
+    # Eje Y con etiquetas adaptadas (K o M según magnitud)
+    scale_y_continuous(
+      labels = function(x) {
+        ifelse(
+          x >= 1e6,
+          paste0(round(x / 1e6, 1), "M"),
+          paste0(round(x / 1e3, 0), "K")
+        )
+      },
+      expand = expansion(mult = c(0, 0.08))
+    ) +
+    
+    labs(
+      title   = pais_nombre,
+      x       = "Año",
+      y       = "Nuevos desplazados internos",
+      caption = "Fuente: IDMC"
+    ) +
+    
+    theme_minimal(base_size = 14) +
+    theme(
+      plot.title       = element_text(face = "bold", color = "#1A6FA8", size = 16),
+      panel.grid.minor = element_blank(),
+      panel.grid.major.x = element_line(color = "gray90", linewidth = 0.4),
+      axis.text.x      = element_text(size = 10, angle = 45, hjust = 1),
+      axis.text.y      = element_text(size = 10),
+      axis.title       = element_text(size = 11),
+      plot.caption     = element_text(size = 8, color = "gray55")
+    )
+}
+
+# =============================================================================
+# GENERAR Y GUARDAR UN GRÁFICO POR PAÍS
+# =============================================================================
+paises <- c("Colombia", "Nigeria", "Syria", "Yemen")
+
+for (p in paises) {
+  g <- grafico_por_pais(p)
+  
+  # Nombre de archivo limpio (sin espacios ni tildes)
+  nombre_archivo <- paste0(
+    "desplazamiento_",
+    tolower(gsub(" ", "_", p)),
+    ".png"
   )
-) +
   
-  # puntos: casos pais-año
-  geom_point(
-    color = "steelblue",
-    size = 3,
-    alpha = 0.8
-  ) +
+  ggsave(
+    filename = file.path(output_dir, nombre_archivo),
+    plot     = g,
+    width    = 10,
+    height   = 6,
+    dpi      = 300
+  )
   
-  # línea de tendencia
-  geom_smooth(
-    method = "lm",
-    se = FALSE,
-    color = "darkred",
-    linewidth = 1
-  ) +
-  
-  # un gráfico por país
-  facet_wrap(~ pais, scales = "free") +
-  
-  labs(
-    title = "Relación entre conflicto armado y desplazamiento interno",
-    subtitle = "País-año (2010–2023)",
-    x = "Fatalidades por conflicto",
-    y = "Nuevos desplazamientos internos"
-  ) +
-  
-  theme_minimal(base_size = 13)
-print(grafico_conflicto)
-
-
-ggsave(
-  filename = file.path(
-    output_dir,
-    "grafico_conflicto_desplazamiento.png"
-  ),
-  plot = grafico_conflicto,
-  width = 14,
-  height = 10,
-  dpi = 300
-)
+  message("Guardado: ", nombre_archivo)
+}
 
 # =============================================================================
-# CÓMO LEER EL SCATTER PLOT
+# INTERPRETACIÓN DEL GRÁFICO — Serie de tiempo LOESS + área
 # =============================================================================
 
-# El gráfico muestra la relación entre:
-#   - la intensidad del conflicto armado
-#   - y el desplazamiento interno
+# ESTRUCTURA BÁSICA
+# Eje X     → tiempo (años 2010–2023)
+# Eje Y     → cantidad de nuevos desplazados ese año
+# Área      → acumulación visual: cuanto más grande el área,
+#             más desplazados en ese período
+# Curva     → tendencia suavizada, no los valores exactos año a año
+# Puntos    → los valores reales observados cada año
 
-# Eje X:
-#   log_fatalidades
-# → representa las muertes por conflicto armado.
-# Más a la derecha = mayor intensidad del conflicto.
-
-# Eje Y:
-#   log_idp_nuevos
-# → representa nuevos desplazamientos internos.
-# Más arriba = más personas desplazadas.
-
-# Cada punto representa:
-#   un país en un año determinado (país-año).
-
-# La línea roja es una línea de tendencia lineal.
-# Resume la relación promedio entre ambas variables.
-
-# Interpretación:
-# Si la línea asciende y los puntos muestran una tendencia positiva,
-# significa que mayores niveles de conflicto se asocian con
-# mayores niveles de desplazamiento interno.
-
-# Se usan logaritmos para:
-#   - reducir la influencia de valores extremos,
-#   - mejorar la visualización,
-#   - y hacer comparables países con escalas muy distintas.
+# CÓMO LEER LA TENDENCIA
+# Curva sube          → el desplazamiento aumenta en ese período
+# Curva baja          → el desplazamiento disminuye
+# Curva plana         → el desplazamiento se estabiliza
+# Punto lejos de la curva → año atípico (pico o caída abrupta)
 
 
+######################################################################
 # =============================================================================
 # TABLA POR PAÍS Y AÑO
 # =============================================================================
